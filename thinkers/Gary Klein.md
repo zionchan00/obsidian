@@ -1,0 +1,46 @@
+
+- RPM
+	- Question he set out to answer - how do people make good decisions in the real world, where it isn't even clear what the ideal end scenario is? 
+	- E.g as a firefighter, you know you want to save lives, but you don't know whether the way to get there is to break into a home or focus on the top of the building or whatever. it's so open-ended, and to make matters worse the real world often pushes you to make decisions super fast? The situation is also deeply multi-variable and personalizable, there can b eso many nuances in terms of why one fire is different from the usual class of fires that you have in your mind. 
+	- Gary Klein set out to understand how experts make decisions. He saw that they don't actually sit down and write out a decision tree because it takes too long to think through all the options. Instead of comparing different options what they
+	- The answer is 'intuition', but that's boring. The more interesting part of RPM to me beyond just 'intuition' is the breakdown of what intuition is. There's an idea of an 'expected' outcome/situation, and people have implicit cues inside their head that lead them to believe whether this expected situation is taking place or not. 
+	- Because they're os reliant on a single-track story and confirming/disconfirming what's unsuual, when they're predicting the behaviours of others, we tend to simulate their behaviour by thinking about what's normal/what I would do if I were in their shoes. But if the other party is acting erratically, or if any of ou runderlying assumptions are wrong, we're cooked. 
+	- A key part of decision-making is what do you do with anomalies? IMO every anomaly needs to be explained. IF you can't explain it well and fit it into a broader mental model of some sort, your library of models is incomplete and you need new ones.
+- Ok but what about decisions made by experts?
+	- Experrts know where to manage attention, newbies don't. What's relevant and what's not
+- CTT
+	- CTT says that we grow the most is not by accumulating new facts but by picking up mental models. 
+	- What is the storehouse metaphor? It's that there is a finite number of facts that have to be accumulated, and the way to grow is to receive feedback that there's a gap in your understanding, and you then go and reach for information to close that gap. 
+	- This is true for school. There are some facts you have to know in order to do well on a test, as you do quizzes you get feedback on what you don't know, so you know what to study up on for the exam. 
+		- The system explciitly gives you feedback on where you're messing up, and it also gives you guidance on how to acquire new information in order to get better
+	- But does the real world?
+		- Let's say you're trying to get good at starting a new company. This involves
+			- Picking a market where there's an opportunity for your product to do well
+			- Hiring the right people
+			- Choosing the right investors
+	- Klein disagrees and think it's important to not think this way because you educate people incorrectly by giving them too much feedback. Knowledge in the real world comes from a weird relationship between models in our head of how reality works and facts.
+	- First, models tell us that x leads to y. Because we're in search of X our attention is zoned in on it. This makes it easy for beginners to accidentally ignore feedback when it coems ot them
+	- I think I udnerstand now why peopel who are used to super tight feedback loops can suck in messy situations.
+- What are the takeaways?
+	- The best way to learn si to go compare my judgements to an experts, and get their opinion and see how they evaluate the person vs me. How can I get into this kind of envrionment for hiring/co-founding? 
+	- I think keeping a 'fact' journal to supplement memory is important. The reason is that your mental models are constructed from your interpretations of what's happened in the past. But sometimes you pickup new mental models, and want to compare them to your current library. You want to have as much objective data to feed into the new ones as possible, because without these facts, it'll be hard for you to disentangle the objective facts from your interpretation of them. This prevents you from being stuck with any one specific mental model. 
+	-  I'll create a fact log for each person I work with
+	- Hire for people who have the capabiltiy ot abandon old models and shift thei runderstanding overtime
+	- People drop models fastest when you have failure hit you. How can I get myself into an enviornment where I can make a large # of calls on assessing people. They also drop models fast if you can introduce analogies for better models that help them understand the newer model overtime
+	- How do innovations from novices happen? The biggest thing is likely that experts develop strong mental models which nudge them to ignore anomalies, while novices don't have that capability to expalin them away.
+- 
+- How do you get better, if you believe in RPD?
+	- Suimmary
+Cognitive archaeology in your coaching - excavate the actual decision moments rather than post-hoc rationalizations. Ask: "What were you noticing at that exact moment?" rather than "Why did you decide that?"
+Recognition-primed documentation - catalog what triggered decisions rather than just outcomes. Create a taxonomy of cues and contexts that precede particular choices.
+Anomaly hunting - specifically document when clients' experiences contradict established patterns. These boundary cases are epistemologically privileged.	- 
+	- Example questions to ask people
+		- Don't ask 'why you decide that', because that leads to post-shoc logical narratives, leaning towrads legible sentences and paragraphs. what you really want to ask is 'what were you noticing -  the raw perceptual data that preceded conscious deliberation, the actual environmental cues that triggered pattern recognition, the embodied, situated nature of expertise (what was seen, heard, felt), triggers that experts themselves may not realize influenced their decisions"
+		- "What were you seeing, hearing, or noticing right before you decided to [pivot/fire/invest]?"
+		- "Was there a particular detail that stood out to you in that meeting that others might have missed?"
+		- "What patterns in investor body language or speech have you learned to watch for?"
+		- "What's the difference between how you read team dynamics now versus two years ago?"
+		- "If you had only 30 seconds to evaluate that opportunity, what specifically would you look for?"
+		- "What are the first three things you notice when entering a potential customer's office?"
+		- "Are there specific phrases from customers that immediately signal potential problems to you?"
+		- "How does the energy feel in a high-potential team versus one that will struggle?"

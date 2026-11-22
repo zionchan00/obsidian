@@ -1,0 +1,17 @@
+- Never forget - what is the end variable to measure success in this metagame and how do we get there?
+- Product
+	- How disappointed would you feel if you could no longer use this product
+	- Be a drug (solve pain customers didn't know they had and are now hooked bc can't quit) or be a painkiller (solve pain customers have been trying to solve for awhile and now can't quit bc hooked)
+	- How is the product a) growing # of engaged users b) retaining users by accruing benefits and mounting losses (how disappointed would you feel if you could no longer use this product) c) does the product have features for the users which encourage more usage OR more users (even better if the core action spurs this)?
+	- What's the core action that we're measuring? Measure growth in # of users completing the core action, not general user growth?
+	- To make sure we're tracking the right metrics, play out the implications of picking x metric as the metric to optimize? Does it encourage the part of the flywheel which is central to our product? Even if it is, there can be downsides (i.e too many tweets)
+	- Remember you're building for the next 1B users, not your current users. Aim for global max not local max. This can mean ignoring your current users. Solve problems for the majority, both present and future
+	- Before launching a product, sit down and draft a murderboard: list out every possible criticism with the worst headline possible. Then, while preserving the core value proposition, reposition the product so it’s bulletproof against any criticism. Don’t delegate this: you own the product and you should know all possible ways it will be perceived.
+- Investing
+	- Remember that growth rates are related to market size
+	- The best companies not only sell products that are 10x better but change the cost structures
+	- What is the moat for incumbents? How can we flip it? (E.g for marketplaces it's often supply > disruptor should increase supply)
+- Career
+	- Don't just search for steep learning curves but places where you get fast feedback. Pre-PMF has longer timeloops  (wandering) vs post-PMF (found the customer base, can just run experiments on them now). But there are different types of learnings, and the question is as always what type of person do you want to be? Pre-PMF or post-PMF?
+- People
+	- When organizing, keep groups as small as needed for the minimum viable action to occur

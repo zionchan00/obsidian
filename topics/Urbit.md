@@ -1,0 +1,36 @@
+- The vision of Yarvin and lots of these boomers is that we went from mainframe > personal computing where everyone had their own servers > cloud where we went back to centralized data hosting, undoing the p2p networking innovation that was made at the previous time
+- Urbit wants to solve this by bundling the OS back itno apps together?
+- He has big complaints with he current internet
+	- quality degradation from spam and from low-qulaity humans > return to Usenet
+	- 'scale' complaints from immutability - links disappearing, things going away
+	- Internet moderation
+	- A lack of tie between IRL <> virtual identities
+- Urbit is also a bet that personal software will shift away from the cloud computing model
+	- On the enterprise side, the on-premise model used to be that custom installations were created for buyers by sellers coming on-site and fitting the software to the data on the buyers PC
+	- On the personal side, was on-prem a thing?
+	- But post-shift, what we do now is 
+		- pay a monthly fee, which makes it easier to persuade people to try new thing
+		- we don't take care of hosting, which increases data switching cost bc you don't own your data BUT it decreases the pain and maintenance of dealing with your own hosting (idk whatever this is. no security risk bc any updates will 
+- What's the right way to invest? What if it isn't meant for investors?
+- Urbit is two pieces of software: https://urbit.org/overview/urbit-os
+	- Urbit OS
+	- Urbit ID
+- VC talk at the event
+	- fianncailization of urbit is mort important thing - brukhman. does urbit need to be financialized?
+- https://gist.github.com/wicrum-wicrun/b308b298721ccbe0de9c6c73a6ee4242 and https://rovnys.cataphract.us/response-to-wicrum-wicrun and https://wejn.org/2021/02/urbit-good-bad-insane/
+- https://machinewar.substack.com/p/chapter-6
+- https://jamesmadison.org/wp-content/uploads/2022/10/OSullivan.pdf
+- https://blog.janissary.xyz/posts/urbit
+- https://www.unqualified-reservations.org/2013/01/how-bitcoin-dies/
+- https://lachlankermode.com/2022.09.21-deconstructing-urbit.pdf
+- https://urbit.org/blog/what-is-urbit-for
+- https://vimeo.com/71278954
+- https://www.youtube.com/watch?v=PUv66718DII
+- https://www.youtube.com/watch?v=8Ab3ArE8W3s
+- https://news.ycombinator.com/item?id=34485994
+- https://www.youtube.com/watch?v=_gXiVOmaVSo
+- https://observablehq.com
+- https://www.youtube.com/watch?v=3bs3QX92kYA
+- https://dougengelbart.org/content/view/374/
+- https://www.goodreads.com/shelf/show/whole-earth-catalog?page=2
+- https://groups.csail.mit.edu/medg/people/psz/Licklider.html

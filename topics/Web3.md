@@ -1,0 +1,62 @@
+- To what extent can we run decentralized computing which can escape copyright laws? 
+- This is highlighted in the NEAR white paper and by BacktheBunny, but web3 technologies are actually more complex/expensive/slower than centralized technologies, because redundances have to be built in to prevent exploits/backup. 
+- The big claim of web3 is to decentralize identity, money, and data. What is the use of each, and how are they done in web2. 
+	- Identity in web2: the base form of identity is your government issued ID, bc we trust that the state has done the most work + has the power to guarantee your identity. The government basically has a 'monopoly' and is the key to identity in web2, so that's why we use it.
+		- citizenship is serious, since it bundles you into a set of rights, so incentive exists to double check who you are, and the state is the most powerful actor there is. The key identity pieces are the drivers license + passport + proof of address
+		- they're dependent on a piece of paper, a birth certificate, which probably has a copy somewhere in their drawers and there's one you keep too. But nobody actually looks at the government copy, they just trust that you have a real one. 
+	- money in web2 is locked up in bank accounts which verify you through the same mechanisms that the state does: passport + drivers license + proof of address. why do banks earn money? mostly through. we use banks because they tend to have lowest cost of capital for large purchases that matter in our lives, like buying a house, top of mind for everyone.
+	- data went to the cloud for price + convenience. To be frank we're self-selecting here for things which aren't allowed to be run normally (p2p sharing like the good ol Napster. OMG what if we trained an LLM on all the copy-righted books in history and textbooks, that would be so much fun and work also but it would be so strong. P2P host it)
+- How did ZK get wrapped up into web3?
+- The evolution of 'crypto'
+	- Bitcoin
+		- We usually have middlemen in non-cash transactions (Banks, credit card payments processors) who all take a % of that transaction because 
+			- on the spender side, they promise chargeback (protection against fraud)
+			- on the receiver side, they get you paid on the spot
+		- The promise of BTC was to replace the middlemen with a payment method which would charge a smaller fee in comparison
+		- But BTC had other properties which had little to do with enabling new transactions to happen which otherwise wouldn't have, such as a fixed supply.
+		- In reality Bitcoin had really created a new financial system, because this new currency had to be stored in places (wallet instead of banks), but the currency was supposed to be spent for transactions normally, and in practice this doesn't happen. Likely transaction costs are too high, likely not enough vendors accept this stuff, so it makes sense that in the end Bitcoin ends up becoming something like gold. 
+			- The most likely payments use cases are ones where you need 
+			- And even for the gold use case, IMO we want something with less volatility would be ideal. In practice however you'll get long-term appreciation. what would give gold less volatility? 
+		- What is the technology
+			- There was the founding node, where the first bitcoin was created 
+			- Blocks have a list of new transactions and a merkle tree which contains a hash, which is the entire transaction history up until now run through an algorithm and given a number representation. 
+			- You then have a proof of work system, where in order to create a new block, a really hard math problem has to be solved, requiring lots of computational power, and once the problem is solved, the computer that solved it gets to add a new block to the rest of the blocks. Why do you need PoW? 
+			- The chain chooses to trust the longest chain, because the longest chain is the one that has the most computing power behind it, meaning the majority of the nodes on the chain implicitly agree to it. 
+			- They had to create addresses/accounts for everyone to send/receive/store money, they had to 
+		- What does it enable
+			- It's basically an accounting system which everyone can see, anyone can contribute to, so anyone can see the history of how much money was moved around, anyone can see where that money is. So we don't need other entities to verify when we can do it ourselves. But we could think about it not just as an accounting system, but as a generalized system for transactions, for tracking changes in quantities of any thing. 
+		- Why might this be useful
+			- With a traditional currency, we can take money and count it physically, and that way if you were to exchange or ask for money from someone, you can see right there whether they can afford to pay you, and when they give you the money, the transaction is finished. There are good incentives to give the right quantity of dollars/quality of goods promised in an exchange
+			- With a digital currency, the problem is you lack an enforcement mechanism of things go wrong. There's no face-to-face pressure to be moral (we're less empathetic online) and there are also less consequences (physical space means we can physically enforce violence if someone doesn't pay up, and we also are more likely to understand their life and how to pressure them by talking to their neighbors/employers that they scammed us).
+			- Bitcoin gives us a way to make
+	- Ethereum
+		- The idea that we need a new payments system persists though, and so we try to tackle another one. But Ethereum wasn't created to just do payments. Ethereum was created to become 'general purpose'. Similar to the insight of Turing, who realized that the act of computation was generalized to any calculating act, and JCR Licklider, who realized that Turing's theory meant that a comptuer could represent anything given enough comptuing power, and turned the computer from a calculator to a general-prupose machine, Vitalik realized that we could create a programmable blockchain which was meant to run code. This new architecture allowed us to program different properties so we could fit other use cases better, and it's what allowed us to create so many different chains. 
+		- Ethereum also somehow allows us to do decentralized computing. Every node is a computer's memory + CPU being used for the demands of the network. So you naturally get decentralized file storage,
+- web3 gaming
+- determinism seems to be a draw
+- dojo/lootrealms, mud/sky strife, words 3, pirate nation, natural selection 2
+- bridge interfaces or atomic composability > lower response times but no one wants it
+- eve online doesn’t share
+- do we even need chains anymore! can do everytgint client side > settle result with proofs > chain only for settlement > zi does consensus
+- i liked the finance game mugen mentioned too
+- The web
+	- Orgs: 0xparc, Moving Castles, Lattice.xyz, https://world.mirror.xyz
+	- https://www.youtube.com/watch?v=1iZiu9tZ290
+	- https://otherinter.net/research/positive-sum-worlds/
+	- https://www.youtube.com/watch?v=crjQ8oXWouY
+	- https://soundcloud.com/newmodels/ep-35-net-povera-joshua-citarella-x-new-models
+	- https://www.documentjournal.com/2021/01/the-internet-didnt-kill-counterculture-you-just-wont-find-it-on-instagram/
+- What has to technically happen for AW?
+	- tech stack for words 3: eth > optimism mainet > mud > browers/react/phaser > 
+	- tech stack for DF: 
+	- gas fees, call data problems are limiting game dev - small brrain
+	- blockchain is a default data layer that is completely transparent, which means can't do fog of war Games. can't do traps, can't do strategy games where information asymm is key for strategy
+- What is narrative?
+	- who gets to say what is true? what is the narrative? what keeps a narrative alive? why shoud; the community own it in the future? 
+	- they talked about 'filing off the serial numbers'
+	- i think we need both epistemology > bottomup, but also an understanding of status/legitimacy to understand this. to me understandign this ontologically helps solve problems 'outside' of AW, and in geenral
+- The core theme of AW to me is the proper design of digital social spaces, not just games (video games are just the particular focus of the Ethereum community given the strong history of monetization and the fact that video games were the origin of AW). The core properties of AW so far are
+	- persistence - all we need is 1 node to keep running for the network to stay alve. Even if that node stops, the code is online, ready to rebooted by any willing computer
+	- composability - smart contracts are open-ended and transparent, allowing any developer to connect to them and and use them for their own applications. it allows for applications to be built on top of ot her applications, without anyone's abiltiy to stop this
+	- sociology - the analytic bent from Frege/language is the tension between a shared objective reality and our individual interpretations, and how we come to consensus still
+- all of these are ideas which are normal to web3 gaming already. What's new about AW is the focus on the sociology that comes from the discussions on the interpretation of worlds. We have shared reality because

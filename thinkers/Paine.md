@@ -1,0 +1,2 @@
+- Political Writings #political
+- Common sense and the rights of man #political

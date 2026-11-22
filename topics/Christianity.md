@@ -1,0 +1,4 @@
+- The great heresies
+- On Wealth and Poverty
+- The Spirit of Early Christian Thought: Seeking the Face of God
+- The Christians as the roamns saw them

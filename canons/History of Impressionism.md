@@ -1,0 +1,2 @@
+- Will the new system solve the barriers of merit on pg.78?
+- Romanticism vs realism vs neoclassicism differed on how to portray the subject (lines vs colors), what subjects to have (only important/dramatic vs everyday vs only historical events)

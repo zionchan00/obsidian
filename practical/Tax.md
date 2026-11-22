@@ -1,0 +1,3 @@
+- Put my personal expesnes under my moms comapny's account. Even though I'm reporting more income, I'm also reporting more expenses
+- Structure myself as an independent contractor at OSG, and I can get all the tax documents on the US side from OSG, and setup a personal corporation, report all of my personal expenses.
+- COuld also denounce tax residency, and I could rent a place in somewhere with very low tax rate. can just work as usual, and travel, as long as I don' tlive here for rest o fthe year

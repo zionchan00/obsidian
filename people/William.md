@@ -1,0 +1,2 @@
+- did a fall PE internship, one rn
+- done t20

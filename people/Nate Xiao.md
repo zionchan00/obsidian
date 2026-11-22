@@ -1,0 +1,5 @@
+- Qualtrics
+- Portco they don't like
+	- Ant group
+		- Geopolitical risk. CCP suspended the IPO
+		- WeChat is doign the same thing, but it's also a social media paltform everyone is using > ppl don't want to exit the app

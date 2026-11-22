@@ -1,0 +1,12 @@
+- Opinion
+	- What is Aquinas' epistemology here in relation to causes?
+	- Why is Aquinas' distinction between knowledge and opinion useful for understanding the history of probability?
+	- Why did physicists like Bacon and Galileo have no use for a modern concept of probability but the empiricists did?
+	- What are signs? what is the diff between them and causes? why are they relevant to the history of probability? 
+	- What is the distinction between primary and secondary qualities? How did it make a science out of alchemy?
+- Evidence
+	- Why did the problem of induction only arise with Hume's treatise on human nature in 1739?
+	- What is the difference between modern evidence and medieval evidence in regards to evidence provided by things?
+	- What is the importance of the distinction between internal and external evidence?
+	- What's the diff between diff kinds of esxpeirments? The test, the adventure, the diagnosis, the dissection?
+	

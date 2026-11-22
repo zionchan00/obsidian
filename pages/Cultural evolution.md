@@ -1,0 +1,12 @@
+- Secrets of our success
+- cognitive vgadgets
+- a natural history of human morality
+- the 10000 yhear explosion
+- darwin's unfinished symphony: how culture amdet the human mide
+- Current views
+	- The thesis of the Secrets of our success is that what has made humans special is the relationship between creating culture > that makes it advantageous to have specific genetics > those with those genes are rewarded > those humans become more dominant. But how is culture created? Through trial and error (accidental) but also through intentionality.
+	- What's the implication? It means humans have always been evolutionary for me, and the human of today wouldn't be recognizable by the human of the past. I think the things I want to dream about are
+		- What biological constraints could be lifted by technological innovation to create a new kind of human, that aren't of focus today?
+			- It seems like there was a stop in brain size expansion IIRC in the book, is it helpful for human brains to grow larger actually?
+		- What kind of human is being selected for by technology today and other evolutionary pressures? Specifcally can think of the Big 5, Enneagram frameworks, but also think about the cultural evolution frameworks for what ToM modules is most valuable.
+		- What should future culture look like? How can we evolve institutions, cooperation/sociality, what is the right 'unit' to select for in friendships and such - basically what design should I have in my own life for how I want to construct my tribe and how can I spread among my tribe the idea that we depend on one another.

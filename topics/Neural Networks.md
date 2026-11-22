@@ -1,0 +1,14 @@
+- Week 1
+	- why is the activation function non-linear? what does it mean to be 'non-linear'
+	- what's the difference between an 'objective' neural net and different types? what are the types of neural nets?
+- Week 2
+	- ![[Pasted image 20230123184949.png]]
+	- Why is it that rectified linear unit activation functions having non-zero derivatives over positive ranges of preactivations are easier to optimize weights?
+	- Why do neural nets not respect dale's law?
+	- What's a sigmoid linear?
+	- Why is it that shallow neural nets create functiosn like a lookup table?
+	- Difference between universal function approximator vs universal dynamical systems approximator?
+	- Why are recurrent NNs not the standard for vision?
+	- how does recurrence change the behaviour of the NN?
+- Week 3
+	- 

@@ -1,0 +1,9 @@
+- building trust in networks. defense policy, skiing, fixing government
+- most interesting people/people you'd quit your job to work for
+- favorite books on macro: money and banking, the prize, end of alchemy, dalio's stuff
+- learnings from being around lonsdale? how has that impacted you?
+	- joe always focuses on incentives in analysis
+	- he's always focused on how to take ideas, resources, etc, and create something out of it
+- Next Steps:
+	- Focus on the ubild team. Send resume and 1-2 sentences aobut me. blurb.
+	- Advice to me was to always be in a position where there are more problems than there are people. And to get as close as possible to people who wanna build something vs people who want to be a part of something

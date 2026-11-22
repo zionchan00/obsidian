@@ -1,0 +1,11 @@
+- tMAY
+- Why BIG
+- why finance
+- why investing
+- pitch a stock
+- what affect a stock price to change
+- where do you see yourself in 10 years
+- what are the 3 statements and how do they relate
+- who is the head of the fed
+- what's the unemployment rate right now
+- 

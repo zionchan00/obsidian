@@ -1,0 +1,4 @@
+- French ppl are susceptible to stan culture bc they're sheeple
+- Maybe aristocracy is what creates conformity? i.e no meritocracy is the origin
+- French tiktok example vs american tiktok. they say they can't relate to anything
+- Male-female relationships

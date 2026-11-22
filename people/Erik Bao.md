@@ -1,0 +1,8 @@
+-   career goal: HK BB
+-   technical mentor: t20, planning to schedule a review session with tech mentor (dylan)
+-   behavioural mentor: thinks he is hard working and patient and responsible. sometimes he won’t have time to edit my essays. wants to change (greg). 
+-   resume mentor: (candice). 
+-   double check your resume
+-   send me your behavioural answers.
+-   15 minutes
+-   bob was old LM

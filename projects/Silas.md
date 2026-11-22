@@ -1,0 +1,12 @@
+- Lessons
+	- School
+		- Go to american uni for social life + quaitly educaiton 
+		- Scout courses
+	- Women
+		- Take the first relationship seriously
+		- Understand that what a man wants and what a woman wants are different. 
+		- Understand that we grow as people, and we should think long-term about the growth
+		- Woman need to be cultured into accepting oen mate for life. So even though it's annoying to deal with womens extreme demands if they have princess/one-for-life beliefs, it's better than a hyper-rational woman who realiezse she can constantly do better. Men are insanely romantic naturally
+		- Realize that women almost always do a better job raising kids than men, no matter how hard men try, women are much more attentive
+- Opps
+	- https://www.atlasfellowship.org/

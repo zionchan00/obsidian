@@ -1,0 +1,7 @@
+- Intensity/volume
+- Pitch/frequency - make sure all notes are some hz. determines what note is being played
+- tone quality/waveform - first harmonic/first partial/fundamental frequency - determiens pitch of note we hear. second mode/partial creates frequency that's double of the first. harmonics = partials that have frequencies which are multiples of the fundamental frequency (measured in hz). inharmonic partials = partials that are not whole-number frequnecies. interesitng that e3 sounds like an octave bc of the ratio, but is a diff note actually![[Pasted image 20230914142213.png]]
+- ![[Pasted image 20230914144442.png]]
+- Major scale = follows patterns of interval: TTSTTTS
+- Melodic vs harmonic interval
+- 

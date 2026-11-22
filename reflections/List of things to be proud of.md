@@ -1,0 +1,24 @@
+- Gorgias reading
+- Gorgias essay
+- The Concept of the Political
+- The Concept of the Political explained
+- The Double
+- The Landlord
+- Notes From A Dead House
+- Notes From Underground
+- Crime and Punishment
+- Crime and Punishment Interpretation
+- Silence by Shusaku Endo
+- Crisis of Parliamentary Democracy
+- Storm and Steel
+- The Republic Essay 1
+- Paradise Lost Essay 1
+- 10/23/2021 - realized I didn't enjoy hookups at all anymore, I have completely changed
+- [[On the feeling of deep love]] I forget exact dates
+- November 9, 2021. Started an accountability setup again, here's to breaking bad habits!
+- Storm of Steel Blog Post
+- Short piece on Wolfe in Vegas in [[Kandy-Kolored Tangerine-Flake Streamline Baby]]
+- Pride and Prejduce
+- Pride and Prejudice Review
+- Sailr who Fell From Grace With The Sea
+- Sailor who fell from grace with the sea review

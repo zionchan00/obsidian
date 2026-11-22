@@ -1,0 +1,19 @@
+Questions on the Terra stablecoin white paper
+- I don't get the section on miners absorbing volatility in Terra's supply?
+- Terra is Proof-of-stake, so Luna has to be staked to be a Terra miner
+- Why does Terra represent the profit function for miners as (total rewards/luna supply) - cost of mining
+- How does delegating to validators not lead to a winner take all effect bc validators are selected by weight?
+The concrete burn mechanism is that when
+- TerraSDR price is <1 SDR, I can arbitrage by exchanging 1 TerraSDR for 1 SDR's worth of Luna, decreasing supply of TerraSDR to push it above 1 SDR and increasing the supply of Luna 
+- TerraSDR is worth more than 1 SDR, I can arbitrage by exchanging 1 SDR's worth of Luna for 1 TerraSDR and then sell that TerraSDR to collect the spread, increasing TerraSDR supply and decreasing Luna supply
+- The problem with this burn mechanism is that the worst-case scenario, Terra SDR dipping below 1 SDR, can only be solved if demand for Luna exists. Let's say TerraSDR slips below <1 SDR and you think of burning that TerraSDR for 1 SDR's worth of Luna. The gains from this arbitrage are only locked in if someone is willing to pay you 1 SDR or more for that Luna.
+- The expansion of Luna supply affects the incentives for staking the Terra chain, however, decreasing their rewards for staking. The plan is for the system to burn excess Luna whenever it prints Luna to raise TerraSDRprices to the amount of 1B coins
+- The team also thought about miners as a mechanism to deal with price volatility in stablecoin demand because it decreases Luna supply. When TerraSDR demand is up, Luna price goes up. Miners are comepnsated for staking by
+	- transaciton fees - 0.1% to 1% cap
+	- increase in value in Luna from Luna supply being burned by the system
+- The Terra team was conscious of this and planned to decrease fees and Luna burn when miner rewards are increasing and increasing fees and Luna burn when mniner rewards are decreasing to keep them constant.  There needed to be incentives to use Luna (perhapsothr than staking) for it to properly absrob volatility. The fees nd burn are changed in a weekly basis as laid out [here](https://medium.com/terra-money/terras-stable-foundation-dff498881a92)
+- Anchor and the Terra Growth Strategy
+	- In a [blog post](https://medium.com/terra-money/scaling-seigniorage-a72356a118ae) Do Kwok envsioned Terra's stablecoin design as a jump over the traditonal stablecoin peg-maintenance mechanism of 'collateral + demand floor >= outstanding currency' by generating demand for the stablecoin, which both pushes the system to print more of the stablecoin but also decreases the quantity of collteral needed. Do reaaliezd that the ability to print money in this manner meant that the products of the Terra ecosystem could be bootstrapped by subsidizing their costs.
+	- The biggest part of Do's vision was 'TerraX', a payments ecosystem for commerce with Terra as the currency for the ecosystem, as a demand generator for the stablecoin, which means the Terra system will print more of the stablecoin which can then be used to generate more demadn through subsidies of services on the paymetns platform. This also drives Luna's price upwards, encouraging staking, which further pushes Luna's price up. This should lead to the Terra ecoystem beign throught of as a 'national currency regime', not a 'fintech platform'. The end goal was to have 0 fiat in the reserve
+	- With theLuna that's traded in, a variable % of it is burned (which increases the rewards for mining because decreasing LUNA supply increases the price of Luna, all else constant) and the rest goes to the treasury, with some of it pumped back to the ecosystem via price subsidies
+- It would be cool to checkout the distribution of validators

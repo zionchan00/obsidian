@@ -1,0 +1,3 @@
+- did a SPD with barclays, First round for nomura greentech
+- Technical is up to PE and M&A, 
+- technical (emma) and behavioural mentor (rachel) 

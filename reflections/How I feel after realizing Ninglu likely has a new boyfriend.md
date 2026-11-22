@@ -1,0 +1,1 @@
+- I realize now that these things are not guaranteed. I think it can be a curse to speak the words forever and ever. IT can lull you into a false sense of security. Back then I never would have imagined it would have ended. I was so out of touch with my feelings

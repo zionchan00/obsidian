@@ -1,0 +1,28 @@
+- Two changes to my worldview after reading this book
+	- Firstly it persuades you to adapt the mindset of a superforecaster - to be as bounded as possible in our predictions, to think in probabiltiies, and to quantify our certainty in them coming true. There's some selection effect - forecasters were smarter than 70% of the population, superforecasters were smarter than 80% - but the CIA also selects from the same population. Despite having an information advantage from access to classified intel, CIA officers performed 30% worse than superforecasters in competitions. So we should copy their methods
+		- The superforecasters could look at longer time horizons than regular forecasters, up to 3x as larg ein time horizon. Turnover is rather low, 70% of superforecasters stay YoY
+			- This made me want to start forecasting early, to see whether i'm really good at soemthng
+	- Second, the book does a very good job showing how the forecasters are able to do it
+		- Firstly by setting clear win conditions for the predictions so we can track our y/n accuracy overtime (timeframes are a big one), and certainty tracking allows us to refine our judgement even more
+			- this also prevents miscommunications. E.g some people thought 'serious possibility' meant 8/20, another though tit was 20/80 during bay of pigs planning. Someone thought 'fair chance' of success meant 3/1 against success
+			- this allows us to prevent hindsight bias, where we rewrite history after the outcomes (along with logging premorterms). E.g Fischhoff asked experts how likely USSR collapse was in 1988, and in 1992-93 asked the same peopel tor ecall their estimates. On average experts recalled a number 31% higher than correct. SOmeone who said it was 20% even claimed it was 70%
+			- this gives us feedback so we can improve our predictions overtime too
+			- also by thinking probabilistically, we break out of the lazy y/n/maybe routine. the freedom to become more granular means those who have a stronger causal understanding will go more granular - 1/3rd of the forecasts made by usperforecasters are in single digits, meaning they think about 3% vs 4$
+		- Secondly by a few 'heuristics' which help us process information better
+			- System 1 vs System 2 thinking. 1 is the thinking we do by reflex, 2 is the conscious thinking.
+				- E.g a bat and a ball together cost $1.10. the bat costs a dollar more than the ball. how much does the ball cost?
+				- E.g the tendency for people to see the same pattern and same explanation everywhere can only be broken out of by both picking up more models but trying to go system 2 more, and stop relying on system 1 intuition which is, for most people, monocausal
+				- E.g scope insensitivity. system 1 thinking swaps in and we fail to update scope as it changes. On average the general population is willing to spend the same $ to save 10x more ducks vs 1, bc both groups are thinking about the emotional image of a single duck and not thinking about the relative - how much are we willing to pay for each duck
+				- Tetlock points out that 1 has a tendency to swap the real question for another one, maybe because it's easier or because of our biases (e.g will palestine beat israel vs should they)
+			- Outside view/base rate to set the initial forecast, the 'anchor' number. You look at the total times this kind of event has happened out of all possible events, aka frequentist statistics. You then update this base rate through bayesian statistics, by taking into account the particulars of the situation. The key here is to be willing to be drastically diff from the anchor, but havin tthe outside view as an anchro si a good way to fight anchoring bias
+				- Fermi estimating the inner view - turning a big question into a few smaller ones with numbers
+				- (Humanities people are too inside view broadly). I should try to be more systematic about my inside view hypothesis-testing too
+				- bc superforecasters start with the outside view, they are less likely to believe that a singular event is that singular, and tend to believe in fate much less
+				  E.g Hagel was nominated for defense secretary, but there was lots of controversy + bad hearing so speculation was Senate might not confirm him. Base rate said that 1/24 nomineees were rejected by senate, so 96% chance he goes through is the prior - a strong one. This will change your inside view hard
+			- being a hedgehog vs a fox, and to be a firefly fox
+			- make your views not a big part of your identity so it's easier to switch up
+			- look for superquestioners, who may not be superforecasters, but what will be helpful for creating forecasts
+			- invert the question
+				- to fight back against the bias that we're too strongly rooted in our current POV. This technique improves acciuracy as much as talkign to someoen else w a diff pOV, bc you're basically emulating their mind. If we also allow several weeks to pass before we make another forecast, it leadstoa asimilar boost.  E.g Iraq WMD committee never seriously considered that they were wrong. T
+				- 'Will the south african gov grant dalai lama visa in 6 months' also try 'will they deny him his visa'
+			- 

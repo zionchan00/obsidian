@@ -1,0 +1,1 @@
+- [[Paglia]] has a good analysis of [[The Birds]]

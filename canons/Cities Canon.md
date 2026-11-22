@@ -1,0 +1,52 @@
+- [[City Thesis]]
+- The City in History: Its Origins, Its Transformations, and Its Prospects
+- invisible Cities - Calvino
+- Charter Cities
+	- Singapore
+	- Shenzhen
+		- The Shenzhen Experiment: The Story of China’s Instant City
+	- Dubai
+	- HK
+	- Ok the thesis from Mark Lutter seems to be that there's going to be a huge population boom > create new charter cities. What technologies will be needed to improve QOL in these booming cities? The problem is that these cities tend to have poorer populations and it's hard to sell to poor people
+- Economic POV
+	- Urban Economics
+	- Triumph of the City
+	- Order without design
+	- Cities and the Wealth of Nations
+- Architecture/building design
+	- Building, Dwelling, Thinking
+	- Architecture: Form, Space, & Order
+	- Atmospheres: Architectural Environments. Surrounding Objects
+	- Experiencing Architecture
+	- Modern Architecture: A Critical History
+	- Thinking Architecture
+	- The Eyes of the Skin: Architecture and the Senses
+	- Drawing for Architecture
+	- “Thinking Architecture,” and Cesar Pelli’s “Observations of a Young Architect.
+- City design
+	- Learning what to look for
+		- Death and life of american cities
+		- Life Between Buildings: Using Public Space
+		- A Pattern Language: Towns, Buildings, Construction
+		- The Design of Cities - Edmund Bacon. not beginenr friendly
+		- behind the picture window. - Bernard Rudofsky
+		- A City is Not a Tree
+		- The Image of the City
+		- The Timeless Way of Building
+		- A New Theory of Urban Design
+		- Close-up: how to read the american cities
+	- The American City: What Works, What Doesn't
+	- Cities of Tomorrow: An Intellectual History of Urban Planning and Design in the Twentieth Century
+	- Great Streets (The MIT Press)
+	- Retrofitting Suburbia: Urban Design Solutions for Redesigning Suburbs
+	- New Civic Art : Elements of Town Planning
+	- The rise of the creatve class
+- Improving cities
+	- City: Urbanism and its End - Doug Rae
+	- Street fight - Sadik-khan
+	- Carfree cities
+	- Cities for People
+	- Happy City: Transforming Our Lives Through Urban Design
+	- Walkable City
+	- Radical Suburbia
+	- Strong Towns

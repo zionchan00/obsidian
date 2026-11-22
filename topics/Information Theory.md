@@ -1,0 +1,39 @@
+- https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf
+  complexity explorer info theory course
+- Entropy: average number of y/n questions you have to ask to get the 'right' answer
+- https://www.youtube.com/watch?v=9r7FIXEAGvs > was great 
+- https://www.youtube.com/watch?v=bkLHszLlH34 > redo mackay's ball game 
+- A Tutorial introduction
+	- Chapter 2
+		- What's a random variable? Just refers to the variable that we plug in to a function which results in the outcome of the experiment. But what makes it different from a normal variable? A big one is that random variables can have multipole values at the same time - bc they just represent the oucome of an experiment, and the same experiment could have different outcomes bc its a random process - e.g rolling a die. but algebraic variables have their value defined in relation to a (x,y) pairing
+		- What is the sample space? All the possible values that can result rom an experiment, including different ordering. E.g 2 coin flips, could be HT/HH/TT/TH = 2^2
+		- The more expected an outcome is, the less surprise we have. For a biased coin, 90% of the times it lands heads, 10% of the time it lands tails, we can graph the results by representing heads as 1 and tails as 0. And the PDF would be mapped by X(x_h) = 1 and X(x_t) = 0. if you do x * 0.9 = y, then you end up getting the expected number of heads for every # of flips. 
+		- how do I quantify surprisal? It's the difference between the expected distribution of outcomes and the reality. So if I flipped 100 times, I would expect 90 of those flips to end up in heads and 10 of those flips to be fails. But let's say in reality we ended up getting 85 heads and 15 tails, so I got 5 less heads than expected. I could literally subtract the values of the 2 functions, and get showcase that I got 5 less heads than expected from 90-85. So surprisal = actual - expected, and the larger the difference, the greater the surprisal. But the # doesn't showcase. But this is the total number of flips, what about each individual flip?
+		- What is the shannon information of a random variable? 
+		- What is entropy? Average of the surprisal over the PDF for that variable?
+		- Why is it that for independent events, the entropy is equal to surprisal? it's because for I.I.D, each event doesn't impact the other, so that means that the amount of information you gain each time is the same.
+		- Calculate entropy for a fair coin
+			- y= -log_2(0.5)* * 50 (because 50 heads over 100 flips)* 2 (to account for the surprisal for tails)/ 100 (# of total flips) = 1 bit of information on average
+		- Calculate entropy for an unfair coin. 0.9 heads, 0.1 tails, flipped 100 times. 
+			- Formula for surprisal: y=-log_2(probability of the event happening) = -log_2(0.9)= 0.152 bits gained for each head landing, and 3.322 bits gained from tails
+			- 0.152 * 90 + 3.322 * 10 = 46.9 / 100 because you're looking for the average and you get 0.469 bits of information on average from each flip!
+		- Fun formula is that entropy = log_2(# of equally probable outcome values). E.g a fair coin returns 1. But what if you don't have a fair coin? E.g use 0.9/0.1 like above. 0.469 = log_2(m) > 2^0.469 = m = 1.38. Prove why this is mathematically true
+		- ![[Pasted image 20240505194014.png]]
+		- 8-sided fair die: entropy= log_2(8) > 8 = 2^entropy > entropy = 3 OR 1/8*-log_2(1/8), do it 8 times = -log_2(1/8) = - - 3 = 3  
+Information Theory: A Tutorial Introduction
+- information: the new language of science - taleb says this is the best way to get intro'd before readign cover and harder textbooks
+- https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6 lectures to go with Information Theory, Inference, and Learning Algorithms
+- DeDeo says read: [[Probability: the Logic of Science]] > Elements of Information Theory 2nd Edition > Information Theory, Inference, and Learning Algorithms > Fabric of Reality > Beginning of Infinity
+- Grammatical Man: Information, Entropy, Language and Life. information theory and biology
+- Science, Strategy and War: The Strategic Theory of John Boyd
+- Current Understanding of Information Theory
+- From Matter to Life, information and causality
+	
+	- https://www.youtube.com/watch?v=M5c_RFKVkko&list=WL&index=91
+- Biology
+	- [[Information Theory and Evolution]]
+	- The Touchstone of Life: Molecular Information, Cell Communication, and the Foundations of Life
+- Thermodynamic Dissipation Theory of the Origin and Evolution of Life by K. Michaelian 
+- Into The Cool: Energy Flow and Life by Schneider, [[Josh Wolfe]] recommendation
+- -Why Information Grows by C. Hidalgo -Cosmic Evolution: The rise of complexity in nature by E. Chaisson -Information Theory and Evolution by J. Avery -Energy and Civilization: A History by V. Smil -What is Life, by Schrodinger -The Ascent of Information by C. Scharf
+- -The Rainbow and the Worm: Physics of Organisms by M-W Ho -Complexity, a guided tour by M. Mitchell -Power Density by V. Smil -Thermoinfocomplexity by B. Mohit

@@ -1,0 +1,7 @@
+- TSO sympahnies to watchout for
+	- rachminoff 3rd symphony - gud
+	- Pines of rome - gud
+	- Stravinsky Pulcinella suite - gud
+	- Brahms symphony no.1 - gud
+	- Tchaikovsky + Brahms
+	- mahler smypohny no 1

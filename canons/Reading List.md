@@ -1,0 +1,334 @@
+- Basic Science from https://jaideepprabhu.org/books/science/
+- [[Reading List]]
+- VCs go on vacay  May 20th and August 10th, and Nov 10th through January 15th
+- How to pirate books: https://www.reddit.com/r/Piracy/comments/2oftbu/guide_the_idiot_proof_guide_to_downloading_ebooks/
+- [[My recommended resources]]
+- [[Harold Bloom: How and Why to Read]]
+- [[Thiel Courses]]
+- Midlife Crisis
+	- [[Eros Canon]]
+	- Alternatives to Rand
+		- Dharma Bums
+		- The Dispossesed
+		- Stirner the Unique and its Property
+- Book lists yet to be incorporated into Goodreads/here
+	- redscare commentor list on books for understanding our world
+		- best books for understanding current world:
+		- ‘surveillance valley’ - yasha levine - exposing the origins of the internet, he ideological uses of computing technology in counterinsurgency and racial tracking, the fusion of the technological industrial complex w the state, the revelation that all privacy applications are in fact surveillance applications
+		- ‘the deluge’ - adam tooze - how the political economy of the treaty of versailles and the inter war years lead to the growth of fascism
+		- ‘the devil’s chessboard’ - david talbot - the history of the CIA, its origins in a small group of wallstreet lawyers and how their financial interests - intertwined w that of organized crime, nazi war criminals and big business - has determined world politics and the destruction of socialist movements
+		- ‘the global minotaur’ - yanis varofakis - how the postwar economy was structured, traces the roots of contemporary deindustrialization, financialization, austerity and the overall abandonment of keynesianism
+		- American Conservatism Trilogy: ‘before the storm’ ‘nixonland’ ‘the invisble bridge’ - rick perlstein - details the development of the contemporary reactionary politics through social history; how whiteness, christianity and free market ideology were fused in response to new dealism and civil rights
+		- ‘the prize’ - daniel yergin - the geopolitical history of the oil industry, sprinkled w all sorts of engrossing weirdo personalities; explains interdependence of energy/security/economics
+		- ‘hate inc’ - matt taibi - how the media business declined and why no one trusts it, fueling extremism and conspiracy thinking
+		- supplements:
+		- tom o’neil’s ‘chaos’ also goes well w ‘devils chessboard’ and surveillance valley and is very fun ‘mystery’ history. following this there’s stephen kinzer’s bio of the CIA poisons chemist sidney gottlieb, havent read it yet but hes a good author.
+		- all of robert caro’s magisterial history books. big time investment but hes incredibly detailed.
+		- ‘hitler’s social revolution’ is the best sociology of fascism ive read.
+		- james elleoy novels all very good and complement the early things i mentioned about the deep state/ underworld history of america
+	- https://www.kings.uwo.ca/kings/assets/File/outlines/2021/eng/fall/eng_1901E_570_fall_2021.pdf
+	- https://www.college.columbia.edu/core/comparativechart
+	- https://interintellect.com/series/the-story-of-philosophy/
+	- Scholars stage global canon
+		- https://scholars-stage.org/a-non-western-canon-what-would-a-list-of-humanitys-100-greatest-writers-look-like/
+	- Cowens' favorite fiction pieces
+		- https://d101vc9winf8ln.cloudfront.net/documents/28231/original/Favorite_Books.pdf?1527190190
+	- https://4chanlit.fandom.com/wiki/Charts
+	- https://fivebooks.com/best-books/tyler-cowen-on-information/
+	- Why Liberalism Failed, Ron CHernow's Grant, Isaacson's da VInci, Beatles: Authorized biographies. Biographies are an underrated way to learn about human nature.  His advice is to “study small creatives groups that work together, ward against each other, split up, [and] get back together.” Autobiography of John Stuart Mill to help you think more clearly
+	- https://fantasticanachronism.com/recommended-reading/
+	- https://static.wikia.nocookie.net/4chanlit/images/b/b8/Philosophystack.png/revision/latest/scale-to-width-down/887?cb=20171016124531
+	- https://static.wikia.nocookie.net/4chanlit/images/7/79/1473786715986.jpg/revision/latest/scale-to-width-down/1000?cb=20181123225142
+	- https://4chanlit.fandom.com/wiki/Charts?file=1473786715986.jpg#Philosophy
+	- /lit/ numbered guides from 1-11 here https://4chanlit.fandom.com/wiki/Charts#Philosophy
+	- https://thegreatthinkers.org/
+- The Spirit of Early Christian Thought: Seeking the Face of God
+- [[Categorization by Questions]]
+- [[Views On The World]]
+- [[Quotes]]
+- [[Extra Thoughts]]
+- Technology
+	- [[machine learning]]
+		- https://www.reddit.com/r/learnmachinelearning/comments/cxrpjz/a_clear_roadmap_for_mldl/eyn8cna/?utm_medium=android_app&utm_source=share
+		- Behaviorist reinforcement learning
+		- Connectionist deep learning
+		- Symbolic expert systems
+		- [[Business side of Machine Learning]]
+		- [[Technical side of Machine Learning]]
+	- [[Brain Computer Interfaces]]
+- Math
+	- [[Linear Algebra]]
+		- [[Introduction to Linear Algebra]] by Strang
+			- https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm
+			- https://www.lem.ma/books/BpCFAP27bgq6U3D-ympsug/landing Do alongside Strang, he's Strang's student who now does vids
+			- Linear Algebra Done Right for a more abstract approach
+		- https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/ to do after Lin Alg
+	- Calculus
+		- Single variable calculus
+			- https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/
+		- Multivariable Calculus
+			- https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/
+		- Differential Equations
+			- https://ocw.mit.edu/resources/res-18-009-learn-differential-equations-up-close-with-gilbert-strang-and-cleve-moler-fall-2015/index.htm
+		- Multivariable Calculus
+	- Probability
+		- The Art Of Probability: Hamming
+		- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/
+	- Statistics
+		- Statistical Rethinking
+		- ISLR
+	- Philosophy of math
+- Philosophy
+- Resources to understand [[Economics]]
+	- [[Macroeconomics by N.Gregory Mankiw]]
+	- [[Technological Revolutions and Financial Capital ]]
+	- [[Share The Wealth As We Recover Health]]
+	- [[Narrative Economics]]
+	- [Increasing Returns](http://tuvalu.santafe.edu/~wbarthur/Papers/Arthur_1989.pdf)
+		- Pg. 12. In an increasing returns regime, the technology that is inherently best may not win the market because small events cause an inferior technology to receive early adoption. The large impact of small events makes predicting market outcomes hard vs diminishing returns where cost curves and other factors are well known. The implication is that early adopters of tech are basically imposing an externality on later ones through their rational choice of choosing the tech that best fits them. What's missing is some sort of agent that would incentivize them to adopt a shitty new tech that would benefit later adopters.
+	- [[The Global Financial System]]
+	- https://fivebooks.com/best-books/macroeconomics-textbooks-raffaele-rossi/
+- Resources to understand American culture
+	- Fear and Loathing on the Campaign Trail '72
+	- Fear and Loathing in Las Vegas
+- Resources to understand the political
+	- Psychology perspective
+		- Why we're different: No Two Alike: Human Nature and Human Individuality
+	- Source of power
+		- Historical
+			- On Kings by Graeer
+			- Understanding Early Civilizations: A Comparative Study
+		- Modern
+			- The ruins of kasch
+			- Crisis of Authority by Martin Gurri
+	- How power changes hands
+		- On Revolution by Arendt
+	- Biographies
+		- [[The Power Broker]]
+- Resources to be inspired by courage, taste, beauty
+	- By courage
+		- The River of Doubt: Theodore Roosevelt's Darkest Journey
+		- Hard Drive: Bill Gates and the Making of the Microsoft Empire
+	- By beauty
+		- The Snow Leopard
+	- By art
+		- Japanese Fashion Designers: The Work and Influence of Issey Miyake, Yohji Yamamoto and Rei Kawakubo
+		- The Sorcerer's Apprentices: A Season in the Kitchen at Ferran Adrià's El Bulli
+- Resources to write better
+	- Draft No. 4: On the Writing Process
+	- [Working: Researching, Interviewing, Writing](https://www.goodreads.com/book/show/43205240-working)
+- Resources to understand scientific related topics
+	- Principles for great science
+		- Faraday, Maxwell, and the Electromagnetic Field: How Two Men Revolutionized Physics
+		- Models of my life, [Herbert A. Simon](https://www.goodreads.com/author/show/89879.Herbert_A_Simon)
+		- The autobiography of Benjamin Franklin
+		- The Idea Factory: Bell Labs and the Great Age of American Innovation
+	- Biology
+		- Basic bio
+			- Chapman bio textbook
+			- Molecular Bio of the cell
+		- Evolution
+			- The Blind Watchmaker: Why the Evidence of Evolution Reveals a Universe Without Design
+			- Darwin's Blind Spot: Evolution Beyond Natural Selection
+	- Information Theory
+	- Mathematics
+		- Applied in the real world: interesting stories
+			- Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street
+	- Uncategorized grand theories
+		- Everything Coming Out of Nothing vs. A Finite, Open and Contingent Universe
+		- Three Scientists and Their Gods: Looking for Meaning in an Age of Information
+- Resources to understand globalization
+	- Economic globalization
+		- Against the Tide: An Intellectual History of Free Trade. How free trade beat mercantilism, protectionism, strategic trade theory in the heads of intellectuals
+		- Globalization and History: The Evolution of a Nineteenth-Century Atlantic Economy. O'rourke. history of 19th century globalization to learn about previous instances
+		- Global Capitalism: Its Fall and Rise in the Twentieth Century. histolry of 20th century globalization
+		- Globalizing Capital: A History of the International Monetary System - Second Edition. narrower 20th century econoic history focusing on shift from gold standards > bretton woods >whatever we have now
+		- The Commanding Heights: The Battle for the World Economy. how the washington consensu beat the semi-keynesian semi-socialists
+- Resources to understand growth
+	- Economic growth
+		- Intro: [{:tag :h1}Global Economic History: A Very Short Introduction ](https://www.veryshortintroductions.com/view/10.1093/actrade/9780199596652.001.0001/actrade-9780199596652)
+		- https://progressstudi.es/2021/01/09/a-list-of-progress-studies-reading-lists/
+		- Romer's papers https://scholar.google.com/citations?user=b5oj894AAAAJ&hl=en
+		- https://web.stanford.edu/~chadj/PhDGrowth2020.pdf
+		- https://web.stanford.edu/~chadj/Syllabus2019.pdf
+		- https://web.stanford.edu/~chadj/facts.pdf
+		- https://web.stanford.edu/~chadj/annualreview.pdf
+		- The Strategy of Economic Development
+		- The Theory of Economic Growth
+		- Fully Grown: Why a Stagnant Economy Is a Sign of Success
+		- History of the Post-ww2 american economy, the 'old economy'
+			- For the main characteristics of the U.S. old-economy business model, see David F.
+			  N oble, America by Design: Science, Technology, and the Rise of Corporate Capitalism (New
+			  York, 1977); David Mowery and Nathan Rosenberg, Technology and the Pursuit of Economic
+			  Growth (New York, 1989); Alfred D. Chandler Jr., Scale and Scope: The Dynamics of Industrial Enterprise (Cambridge, Mass., 1990); Thomas P. Hughes, American Genesis: A Century of Invention and Technological Enthusiasm, 1870–1970 (New York, 1990)
+	- The limits of growth
+		- Ecological limits
+			- Living Within Limits: Ecology, Economics, and Population Taboos
+- Resources to think more clearly
+	- Filters against Folly: How to Survive despite Economists, Ecologists, and the Merely Eloquent
+- Resources to understand faith
+	- History of faith
+		- The Birth of Modern Belief: _*Faith and Judgment from the Middle Ages to the Enlightenment*_
+- Resources to understand how to convince people
+	- Influence by Cialdini
+- Resources to understand America
+	- Founding
+		- The Ideological Origins of the American Revolution
+	- Culture
+		- Miss Lonelyhearts / The Day of the Locust
+		- Bonfire of Vanities
+		- Revolt of the Elites
+- Resources to understand Mathematics
+	- Philosophy
+		- Proofs and Refutations: The Logic of Mathematical Discovery
+		- The Foundations of Arithmetic: Frege
+- Resources to understand counterculture
+	- From Counterculture to Cyberculture
+	  Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism
+	- Whole Earth Field Guide (The MIT Press)
+- Resources Tom Wolfe Recommends
+	- The Dram Shop and Nana by Zola
+	- Cousin Bette by Balac
+	- Bel Ami by Maupassant analyzes social codes
+	- Anna Karenina by Tolstoy
+	- Grapes of Wrath by Steinbeck
+	- Balzac's books
+	- Zola
+	- Céline’s Journey to the End of the Night
+	- Henry Miller
+	- Tolstoy
+	- Dostoevsky
+- https://www.theguardian.com/books/2011/jun/14/100-greatest-non-fiction-books?INTCMP=SRCH
+- Economic History
+	- https://pseudoerasmus.com/economic-history-books/?utm_source=pocket_mylist
+- Alex Kaschuta- Post Liberal Reading List
+	- https://alexkaschuta.substack.com/p/the-post-liberal-reading-list
+	- Throw in Houllebecq, Louis-Ferdinand Celine,
+	- Dimitri velhurst
+- https://nabeelqu.co/Books
+- https://summation.net/ultimate-reading-list/
+- Economics Reading List
+	- The Worldly Philosophers
+	- Why not default? The political Economy of Sovereign Debt
+	- History
+		- Course on Economic History of 20th century 
+		  https://delong.typepad.com/slouching/2009/11/econ-115-lecture-topics-readings-and-assignments.html
+- Politics of Information
+	- https://fivebooks.com/best-books/politics-of-information-henry-farrell/
+- https://news.ycombinator.com/item?id=10423017
+- https://www.kevinrooke.com/book-recommendations/sam-altman
+- Academics to follow
+- Art
+	- Criticism
+		- How to See: Looking, Talking, and Thinking about Art
+		- There’s Henry Geldzahler, who wrote a book very late in his life, at the end of his life. I can’t remember the title, but he addresses the problem of something which is almost a taboo — how do you acquire taste? — which is, in a sense, what we’re talking about. It’s something one can’t even speak about in polite society among art historians or art critics.
+-
+- Classical Greek
+	- Thucydides
+		- [[History of the Peloponnesian War]] #political
+	- Homer
+		- Illiad
+		- Odyssey
+		- "The Homeric Hero: Achilles and Hector"
+	- Heraclitus
+		- Fragments
+	- Parmeneides
+		- Fragments
+	- Epicurus
+		- On Nature
+	- Aeschylus
+		- Persians and Other Plays
+	- Sophocles
+		- The Theban Plays. THOMAS L. PANGLE
+	- Aristophanes
+		- The Clouds
+			- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FZionchan%2FCFbrHDekqU.png?alt=media&token=bd597f73-fb7a-460b-b27b-f683e8d441a9)
+			  ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FZionchan%2FdMB7Q1VUDl.png?alt=media&token=4c588751-95e7-4f2e-a72a-b07f2bdbec18)
+	- [[Xenophon]]
+	- [[Plato]]
+	- [[Aristotle]]
+- Greco-Roman
+- Christian
+	- Three Rival Versions of Moral Enquiry: Encyclopaedia, Genealogy, and Tradition - MacIntyre
+	- Augustine
+	- Aquinas
+- Asian Thinkers
+	- Laozhi
+		- Tao Te ching
+	- Confucious
+		- The Analects
+	- Mozi
+		- Mozi
+	- Zhuang Zhou
+		- Zhuangzhi
+	- Anon
+		- Zhaung Guo Ge
+	- Various
+		- Four books and 5 classics
+- Islamic Philosophy
+	- Avicenna
+		- Remarks and Admonitions
+		- The Book of Healing
+		- The Book of Salvation
+	- Al-Ghazalli
+		- The Incoherence of Philoosphers
+		- The Incoherence of Incoherence
+	- **Al-Farabi**
+		- Philosophy of Plato and Aristotle. MUHSIN MAHDI
+		- **The Political Regime__ (in M__edieval Political Philosophy**), ed. Ralph Lerner and Muhsin Mahdi
+		- The Political Writings. TRANSLATED BY CHARLES E. BUTTERWORTH
+	- **Moses Maimonides**
+		- **The Guide for the Perplexed**, trans. Shlomo Pines. Intro by Leo Strauss
+	- Averroes
+		- Averroes on Plato's "Republic". TRANSLATED BY RALPH LERNER
+- Rationalists
+	- Descartes
+		- [[Meditations on First Philosophy]]
+		- The Philosophical Writings 1
+		- The Philosophical Writings 2
+		- The Philosophical Writings 3
+	- Spinoza
+		- Complete works
+		- Theological-Political Treatise #political
+	- Leibniz
+		- Philosophical Essays
+		- Monadology
+	- Maimonides
+		- The guide for the perplexed
+	- Malebranche
+		- Treatise on Ethics
+		- Treatise on Nature
+		- The Search After Truth
+	- Montaigne
+		- [[Essays]]
+	- Bacon
+		- New Atlantis #political
+- Pre-Enlightenment
+- Empiricists
+	- [[Locke]]
+	- Berkeley
+		- philoosphical writings
+	- [[Hume]]
+- Logical Empricism
+	- Schlick
+		- Ethics and the Will Essays
+		- General theory of knowledge
+		- Problem of ethics
+	- Neurath
+		- Philosophy between Science and Politics
+- Enlightenment
+	- Key Works
+		- [[Epistemology]]
+			- Descartes
+			-
+			- Ethics Spinoza
+			- Kant
+			-
+- Post-Revolution
+- Idealism
+- Industrial Revolution
+- Early Modernity
+- [[Existentialism]]
+- Post-WW2
+- Analytic
+- Continental

@@ -1,0 +1,1 @@
+His six major poems: "Song of Myself," "The Sleepers," "Crossing Brooklyn Ferry," and the triad of elegies: "Out of the Cradle Endlessly Rocking," "As I Ebb'd with the Ocean of Life," and "When Lilacs Last in the Dooryard Bloom'd" - Bloom's favs

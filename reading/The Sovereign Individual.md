@@ -1,0 +1,2 @@
+- While the authors repeatedly argue that state spending on the military is a waste of reosurces, we should note that big investments in industry from gov for defence is what starts the creation of new indsutries (SV, japanese an dkorean entertainment)
+- anotheer q i have is that japan and asia also wet through industraialization in page 167/168, and i wonder how they dealt w the protestors

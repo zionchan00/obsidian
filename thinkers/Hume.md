@@ -1,0 +1,6 @@
+- A treatise on human nature
+- concenring human understandng
+- concerning natural religion
+- Essays, moral, political, and literary
+- natural history of religion
+- principles of morals

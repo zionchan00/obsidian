@@ -1,0 +1,8 @@
+- Why is it special that they're public companies?
+- Shaprlink
+	- June 2nd - This announcement marks a key milestone in SharpLink’s growth strategy. The transaction enables the Company to adopt ETH, the native asset of the Ethereum blockchain, as its primary treasury reserve asset, while also continuing to focus on its core business operations. Ethereum powers the majority of stablecoin payments, tokenized assets, and decentralized financial applications. SharpLink’s direct ETH treasury position will allow for access to protocol-level activities, such as staking and decentralized finance mechanisms, which are native to the Ethereum network. SharpLink has entered into Asset Management Agreements (AMAs) with ParaFi and Galaxy Asset Management to support the oversight of its Ethereum Treasury strategy alongside the Company’s management team.
+	- SharpLink Gaming, Inc. (Nasdaq: SBET) (“SharpLink” or the “Company”), the world’s largest publicly traded company to adopt Ether (“ETH”) as its primary treasury reserve asset, today announced it has officially become the world’s largest corporate holder of ETH with 280,706 ETH as of July 13, 2025. Key highlights include:
+		- During the period July 7 through July 13, 2025, the Company purchased 74,656 ETH at a weighted average price of $2,852.  
+		- SharpLink raised approximately $413 million in net proceeds via its At-The-Market facility (“ATM”), issuing 24,572,195 shares of common stock during the week of July 7 through July 11, 2025.
+		- Approximately $257 million has yet to be committed to ETH purchases as of July 13, 2025.
+	- 

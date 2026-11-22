@@ -1,0 +1,9 @@
+- what I want more than anything is to find a home on the web. I perhaps have the worst problem right now, which is a problem of too many options, and i'm not too clear which ones are going to be good for me
+- i made the opopostie mistake of saying no to too many things and not doing anything 1-2 years ago, so thats the oher end of the extreme i don' twnat to fall into
+- but my everyday routine is quite terrible right now, it feels like. apretty low rate of learning
+- you may need a new architecture on the web
+	- Urbit
+	- Arc
+	- Sublime App
+	- Vienna Earth
+	- 

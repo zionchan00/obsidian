@@ -1,0 +1,13 @@
+It's inhuman to love ugly people. You can 'want' to. But is how you feel really in your control?
+
+When I told Frank that I wanted to vomit after watching Taxi Driver, he was shocked since there wasn't much gore at all. Frank, you're missing the point. A lot of blood is nasty, can make me want to look away from the screen. The main character of Taxi Driver is far more discsuting because his personality is so annoying. Makes me go get the fuck away from me. Disgusting. Creep. He isn't ill-intentioned for most of the film but god YOU ARE SUCH A LOSER.
+
+AND THAT'S WHY I HATED HIM. He's a LOSER WHO'S TRYING. There's no one cheering for him because he has no friends or family in the Big Apple where he came to after Vietnam to try to Make It*. There's also no cheering because he also makes no progress towards not being a loser, so what could anyone even clap for. There's no hero's journey not because he doesn't want to be good, but he's so socially inept from a lack of exposure to good citizens and war trauma such that he'll never be able to make a friend who can bring him out of the class he's in.
+
+Travis wants to be good. He want to be strong. He wants to be needed. That's why he wants to be a secret service agent, a police officer, and finally he doesn't get any of those so he just wants power and tries to be an asssasin. He dreams of himself but different, but don't we all?
+
+And that's why it's painful. That's why it sucks. Because Taxi Driver made me feel that my sympathy has limits, and what do I do about it? Yea I'm willing to help the unfortunate but a part of me goes, what if the unfortunate deserve to be there, isn't there a reason that person is a loser? And it sucks because seeing soemone try so hard yet not get what they want makes me think or feel the same way. That's why it's so disgusting.
+
+And to top it all off, it's the msot iconic New Yrok movie. Casting the main character as a taxi driver, one of the objecst most common in the big apple, making it impossible not to think of Travis and his yearning everytime I'm in the city. A cab almost as common as all the dreamers that are there. Iconically New York because no othe rin the city in the world attarcts peolpe who hope that their lives will change for the better as soon as they get there. 
+
+I can think of no better film to get someone to appreciate film. Iconic saxophone melody hazes through the air like smoke, deep reds from the city lights that never dim as the camera wanders the streets of New York. Boom.

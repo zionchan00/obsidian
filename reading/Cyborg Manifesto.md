@@ -1,0 +1,7 @@
+- Terms to watch for
+	- Blasphemy
+	- ironic/irony
+	- difference
+- ![[Pasted image 20221202000649.png]]
+- ![[Pasted image 20221202000658.png]]
+- ![[Pasted image 20221202000850.png]]

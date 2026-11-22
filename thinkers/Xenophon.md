@@ -1,0 +1,5 @@
+- The Shorter Writings. GREGORY A. MCBRAYER
+- The Shorter Socratic Writings.  ROBERT C. BARTLETT
+- The Anabasis of Cyrus. TRANSLATED BY WAYNE AMBLER
+- Memorabilia. AMY L. BONNETTE
+- Cyropaedia. WAYNE AMBLER

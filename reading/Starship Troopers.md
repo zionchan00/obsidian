@@ -1,0 +1,1 @@
+Heinlein almost isn't even writing scifi here. Yes it's set in a different timeline and therer's futuristic ships. But really he just wants you to think about the value of 

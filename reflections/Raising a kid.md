@@ -1,0 +1,1 @@
+- I think self-confidence + the IQ to back it is the most important thing to bless a kid with. IQ is from who you marry, self-confidence is from how you raise them

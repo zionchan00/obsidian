@@ -1,0 +1,7 @@
+- Prada derby - jiaofu
+- Dior navigates - art refugee
+- Lou Reed sweater https://item.taobao.com/item.htm?id=629375620129 268 rmb
+- Bare Knuckles Sweater https://item.taobao.com/item.htm?id=636208135317 268 rmb
+- Topstoney crinkle reps - 600 rmb
+- Shawl sweater``
+- nirvana in utero shirt - https://item.taobao.com/item.htm?spm=a312a.7700824.w4002-24019506656.38.2674ddd7JQcywe&id=619139214569 -260 rmb

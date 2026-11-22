@@ -1,0 +1,1 @@
+Ivan Zhang, founder, wrote a post on religious belief and working at an ml company, that he beleives you can belive in the power of data and god at the same time

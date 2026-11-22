@@ -1,0 +1,44 @@
+- Words to watch out for
+	- Works (ergon) vs activities (energaiaia)
+	- Science (episteme = knowledge in the strict sense) vs knowledge (gnosis = knowledge in the broad sense)
+- Book 1
+	- Chapter 1
+		- What's the difference between work and activity, ergon and energaia at the very beginning of chapter 1?
+		- What's the difference between art(techne), science (episteme), knowledge (gnosis)?
+		- How do we differentiate between the two - i.e why is horsemanship a power not an art  (dunamis)? Are the architectonic ones the capacity/power?
+		- I don't get the claims at 5 and 15
+		- Note Aristotle denotes the belief that everything is aimed at a good as OPINION and that the PEOPLE have NOBLY (not truthfully) declared the good is the end of everything
+	- Chapter 2
+		- Note Aristotle's double hesitancy  - the best, **to agathon**, MIGHT be found in the most authoritative/architectonic art/science/capacity which SEEMS to be the political art
+		- If the human good is REALLY the same thing for the individual and the city, why bother differentiating and claiming that the good of the city is nobler and more divine?
+		- here he says the end of the political art is the human good
+	- Chapter 3 is about the kind of student Aristotle believes to be hopeless. The political art is HELD to examine the just and noble things.
+		- 1095a line 5. Wouldn't young people who follow the passions like the political art because the end is not knowledge but action?
+	- Chapter 4.
+		- 15. Is the range of goods accessible differ across choice vs knowledge vs action?
+		- How does Aristotle's choice to proceed to the principles instead of from the principles affect the argument here on out?
+		- 20. The many and the refined agree that the highest good is happiness and that is  same as living well and acting well. Who are the refined? The many believe happiness to be pleasure/wealth/honor
+		- 1095b line 7. What does he mean by "that" vs "why" distinction?
+	- Chapter 5
+		- The many believe pleasure to be happiness and live the life of enjoyment, the refined believe honour to be happiness and live the political life, who's end is "pretty much" honour, and there is the contemplative life
+		- Here he argues that virtue and honour cannot be happiness
+	- Chapter 6 - ask for explanation of Aristotle's critique of Plato's idea of the good
+	- Chapter 7
+		- 20. Note the distinction Aristotle makes between action and choice
+		- 25. Why does Aristotle choose 'work' of a human instead 'activity' of a human? Why does Aristotle put that which is particular to humans as the 'work' of humans? Couldn't it be that the work of humans is everything a human is
+	- CHapter 8
+		- He assumes that the goods pertaining to the soul are the best and these goods are the soul's actions and activities. He says this is an OPINION which philosophers hold
+		- 1099a. Does Aristotle believe attainment of the noble and good things is. necessary for happiness? I believe so because without attainment the longing isn't fulfilled and its the fulfillment of the longing that brings us happiness. But good people can have their longing unfulfilled sometimes. It seems to me the Stoic approach is to curtail longing to things which are very hard to deny, and hence increase the chances of being happy
+		- 1099a10. I don't get the comments on pleasure. What does he mean by additional pleasure?
+	- Chapter 9 - how happiness can be acquired
+		- Lines 21-25 I don't get
+		- 30. The political art makes citizens who are good and apt to do noble things
+	- Chapter 12
+		- Why does Aristotle say happiness does not belong to the powers?
+	- Chapter 13 - Aristotle's anatomy of virtue and the soul
+- Book 2 - on Virtue
+	- Chapter 1
+		- What are the implications that moral virtue has no natural basis within us and only comes from habituation, education?
+	- Chapter 7 - revisit this chapter where he lists the virtues relative to the extremes
+		- what's the special meaning behind the categories of virtue which Aristotle deem to be nameless?
+- Book 3

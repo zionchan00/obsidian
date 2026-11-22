@@ -1,0 +1,3 @@
+- Gamma radiation
+	- https://www.shyamsankar.com/p/gamma-radiation-the-incredible-hulk
+	- https://www.bloomberg.com/news/articles/2012-04-12/how-to-get-a-job

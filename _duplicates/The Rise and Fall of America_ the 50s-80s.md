@@ -1,0 +1,74 @@
+Thoughts
+- On the protests of that time
+	- "Some construction workers carried U.S. flags and chanted "USA, All the way", and "America, love it or leave it". Anti-war protesters shouted, "Peace now."". Universalism vs nationalism. These construciton workers were the old liberals (working class) vs the new liberals (educated)
+	- From the Attica prison protests and the Kent State shootings, I'm surprised by the extent to which authorities lie to cover up their crimes
+	- "The workers attacked those who looked like hippies and beat them with their hard hats and other weapons, including tools and steel-toe boots. Victims and onlookers reported that the police stood by and did little". along iwth stories from Hells Angels teaming up with police to attack protestors
+	- 
+	  Dharma Bums, Zorba the Greek
+- The dissolution of the private/public distinction led to a rise in [[mimetic conflict]]. Roles might actually be a good thing, letting you escape boundaries and let you fit among different groups, but also as aw ay to explore a different informational ecosystem. Most importantly, it prevents a hard-split in society
+	- A previous page, “[Renegotiating self and society](https://meaningness.com/renegotiating-self-society),” summarized the countercultures’ political program. The [systematic mode](https://meaningness.com/systematic-mode "The systematic mode attempts to justify all meanings with some explanatory structure. Typically, this system builds on a foundational eternal ordering principle. The systematic mode is eternalistic, claiming to offer absolute certainty, understanding, and control. In the late twentieth century, it became clear that this is impossible, and the systematic mode failed. [Click for details.]") had imposed a hard division between self and society, which caused [alienation, angst, and anomie](https://meaningness.com/systems-crisis-breakdown#self). The countercultures addressed these problems by blurring the public/private boundary: [the personal is political](https://en.wikipedia.org/wiki/The_personal_is_political).
+	- They sought to replace the artificial, seemingly-arbitrary social and personal requirements of the systematic mode with ones they considered natural. They tried to reorient society away from formal, systematic roles toward natural ones: family, unstructured friendships, and local communities. The [monist counterculture](https://meaningness.com/monism-dualism-countercultures) thought humanistic, egalitarian norms would be more natural. The dualist counterculture thought godly, hierarchical norms would be more natural.
+	- “Authenticity” meant bringing the private and public selves into alignment. This was the obvious response to the painful gap between them. However, it represents a partial reversion toward the [choiceless mode](https://meaningness.com/choiceless-mode "In the choiceless mode, you are unaware of differences of opinion concerning meaningness. You take meanings for granted, without asking “why” questions. It could also be called the communal mode or “tradition.” [Click for details.]"). Systems can be unjust, inhumane, rigid, dysfunctional, or outright inimical to human survival. Unfortunately, we still don’t know how to live without them. The choiceless mode [feels right](https://meaningness.com/choiceless-mode) but it can’t feed a world of billions of people. The countercultures mostly recognized this, and did seek only to replace existing systems, not to return to a pre-systematic state.[1](https://meaningness.com/the-personal-is-political#fn_1 "There were exceptions, particularly in the monist counterculture. Monist movements like anti-capitalism, anti-rationalism, eco-primitivism, the Noble Savage mythos, and the back-to-the-land movement would have destroyed systematicity altogether if actually carried out. The dualist counterculture’s alliance with the big-business Republican right mainly forestalled similar moves, although its fringier anti-rational elements could have been equally catastrophic if they had gained power.")
+- 
+- [[On the Road]]
+- [[Kandy-Kolored Tangerine-Flake Streamline Baby]]
+- In the Shadow of War: The United States Since the 1930s - the impact of militarization on the country
+- The Seven-Story Mountain - dr.Fox said was v popular at this time
+- Dispatches by Michael Herr on the Vietnam War
+- [[Electric Kool Aid Test]]
+- [[The Last Psychiatrist]] 1978
+- On LSD and its impact on the West
+	- Acid Dreams,  goes into CIA influence on the scene too - audiobook got
+	- Storming Heaven: LSD and the American Dream
+	- Weird Scenes Inside the Canyon: Laurel Canyon, Covert Ops & the Dark Heart of the Hippie Dream, goes into CIA influence on the scene too
+	- Psychedelia and Other Colours also goes into UK psych scene too
+	- Heads: A Biography of Psychedelic America - mixed reviews, can skim around here
+- Poisoner in Chief: Sidney Gottlieb and the CIA Search for Mind Control - on MKUltra
+- One perspective on decline from "View of a Global Capitalism"
+  collapsed:: true
+	- Read from The Post-World  War 11 Era: "From High Fordism " to the  "End of the American Century" onward
+	- "By the late-1960s, race riots and campus disturbances, increased  inflation,  slower economic  growth,  and socio-political  fragmentation  had begun  to erode High Fordist consensus. Numerous crises  during the  1970s (racial tensions, oil shortages, recession,  Watergate, the lost Vietnam  War, the Iran-hostage  crisis,  increased  taxation,  and  stagflation)  increased  socio-political fragmentation. Also, American manufacturers  faced  stiff  challenges from  European and Asian competitors in the U.S. home market, profit  squeezes, and diminished  corporate  profits.  The  rise  of  anti-Western  movements  (e.g.,  Islamic  fundamentalism),  worldwide  challenges  to  Western  modernization  models,  and  new  political  alignments (e.g., OPEC) threatened U.S. dominance in international politics and economics.  By  the  mid-1970s  Western  Europe  also  faced  slower  economic  growth,  increasing  threats  of  terrorism,  growing  tensions  over  immigration,  political fragmentation, and other problems. Critics declared that the High Fordist state  was  in  a  "legitimacy  crisis" that  derived  from  its  inability  to  coordinate  effectively  or to deliver on its promises to provide social benefits, public goods, and  regulation,  on the  one hand,  and  to  insure  economic  growth,  on  the  other  (O'Connor  1973; Habermas  1975" Source: https://journals.ku.edu/amsj/article/view/3102/3061
+	- In this climate, the U.S. corporate right mobilized politically  and culturally against the social side of Keynesian  liberalism; well-funded  conservative  foun-dations and think-tanks initiated an effective ideological counteroffensive  against  regulation, income and wealth redistribution, and taxation ( Akard 1992). Ascendent "neoconservatives" revived  free-market  economics,  and  fused  it  with  cultural  conservatism. They charged that Lyndon Johnson's vision of a "Great Society" empowered a "New Class" of welfare state bureaucrats and policy intelligentsia, backed  by  an  "adversary  culture"of  young  radicals,  who  imposed  egalitarian  agendas that overreached realistic possibilities for reform,  overloaded the state, rewarded free-riders,  and undermined authority, civic morality, and labor disci-pline.8 By the end of the decade, a number of politically diverse thinkers stressed an  "end  of  consensus,"  "the  decline  of  American  morale,"  "the  erosion  of  American power," or "the end of the American  Century."
+		- Akard, Patrick J.  1992. "Corporate  Mobilization  and Political Power:  The Transformation  of U.S. Economic Policy  in the  1970s." American Sociological Review 57.
+	- The election  of Ronald Reagan in  1980 marked the political ascendence of neoconservative  forces,  who  blamed  High  Fordist  strategies  for  American  economic and socio-cultural decline and framed a project of "American renewal" that instituted "neoliberal" economic policies and, with less success, a  right-wing  cultural  agenda.10  The  U.S.  left,  with  libertarian  support,  resisted  the  cultural  changes,  but  mounted  little  opposition  to  the  neoliberal  economic  tide.  Even  postwar liberalism's timid version of "equal opportunity" disappeared  from  the  vocabulary of both political parties. Envisioned a little more than a decade before as the chief  motor of postwar growth, High Fordist strategies were now seen as crippling  "rigidities"—nefarious  inefficiencies  and the prime causes  of Ameri-can  socio-economic  decline.
+- Bonfire of the Vanities
+- From Counterculture to Cyberculture
+  Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism
+- The Making of a Counter Culture: Reflections on the Technocratic Society and Its Youthful Opposition - released in 1969, genealogy of the intellectual roots of the counterculture
+-
+- Whole Earth Field Guide (The MIT Press)
+- Fear and Loathing on the campiagn trail 72'
+- The Great Shark Hunt - good reviews
+- Generation of Swine - good reviews
+- Songs of the Doomed
+- Burnham - manageralism
+- Economic accounts of the time period
+  collapsed:: true
+	- Polanyi's the great transformation
+	- The visible hand (chandler) history of US business from 1920 until financialization time
+	- o'Connor - fiscal crises of the state
+	- Cultural Contradictions of Capitalism - the decimation of the Puritan work ethic by modern hedonistic culture. Read Protestant Work Ethic beforehand
+	- Michael Kalecki in Political Aspects of Full Employment, 1943, Political Quarterly predicted that 1945-1970s economic paradigm was focus on full employment and not let finance dominate bc that was they believed that was the mistake of the 20s and 30s> caused inflation > 70s onwards was neoliberal paradigm to counter inflation but this created the problems of the 20s and 30s
+	- The Prize
+	- How Asia Works
+	- Gold, Dollars, and Power: The Politics of International Monetary Relations, 1958-1971 (New Cold War History)
+	- The Afluent Society
+- Understanding American social disintegration
+	- [[Bowling Alone]]
+	- [[Fractured Republic]]
+	- Coming Apart
+	- The Condition of Postmodernity: An Enquiry into the Origins of Cultural Change
+	- The Geography of Nowhere
+	- Triump ho the therapeutic
+	- The politics of experience
+	- The Lonely Crowd, Riesman
+	- White Collar: The American Middle Classes
+- The 60s: The Story of a Decade
+- From Satori to Silicon Valley: San Francisco and the American Counterculture
+- https://scholar.harvard.edu/files/jameskloppenberg/files/1330_syllabus_fall_2011.pdf
+- This Boy's Life
+- White Noise Delilo
+- American psycho
+- fight lcub
+- HG Wells was probably the age's first great intellectual populariser. For much of the first half of the 20th century, he was Britain's semi-official painter of the big picture. In resonantly titled books such as The Fate of Man and The Outline of History, he brought the new orthodoxy of scientific secularism to the masses. He effectively created the genre.
+- And the list does not necessarily include the most important or lasting ideas books of the period. Erwin Schrödinger's What Is Life?, Ludwig Wittgenstein's Philosophical Investigations, James Lovelock's Gaia and Mari­lynne Robinson's The Death of Adam are not included simply

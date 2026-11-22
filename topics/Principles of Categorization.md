@@ -1,0 +1,22 @@
+- I remember seeing my friends cheatsheets, they crammed all the slides onto one sheet and brought a magnifying glass
+- naw
+- 
+- Two principles
+	- cognitive economy. In practice this means if you see an object with attributes x and y and you have a concept with attributes x,y,z, you can assume object has z too without having to confirm it, so the categorization gives you information. categories can also be used to differentiate objects. E.g object has attribute x but category is only y and z, so you know object is nto category. 
+	- structured information - stimuli are not equiprobable
+		- nature (difference in senses among animals) and nurture (culture) change perception
+- Claim is that most basic level of abstraction is best on vertical axis (inclusiveness of category - collie , dog, mammal, animal, living thing) and horizontal axis (at the vertical level of animal as an example, how to segment dog,cat,tiger, etc) is defined by prototypes that have the most # of traits of members in the set
+- Argument for why basic level is best
+	- 
+- categories are defined by basic level of abstraction, which can be determined through
+	- Proof by cue validity (the greater the score for a cue x, the more unique it is as a signal for the category)
+	- Proof by set theoretic representation of similarity from Tversky, weighted sum of common features in a category - weighted sum of distinct features (distinct !=unique). Whenever former > latter, combine classes to make category
+	- most basic level maximizes both. the level above has members who are very diff from one another (lower cue validity bc differences in members means many features wouldn't be uniquely predictive for the category, lower Tversky score bc distinct > common) , level below has many more diff categories who have a lot in common (lower cue validity bc many of the signals for one category also signal another category thx to commonality, higher Tversky score)
+	- Hence basic level best mirrors reality's information structure
+- 4 definitions of basic level
+	- greatest increase in similarity in motor programs: how we physically interact w them
+	- greatest increase in level where objects have most # of features in common
+	- greatest increase in ratio of overlapping space:non-overlapping when 2D drawings of members of level are overlayed over one another, similarity in shape
+- Pros of [[prototype theory]]
+	- More prototypical category is most cue valid and most category resembalnce category
+

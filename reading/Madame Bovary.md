@@ -1,0 +1,35 @@
+- There's am irony in Emma's complaint about the ugliness of the country but in Flaubert's hands, the enviornment is beautiful.
+- you really get the sense his wife is not only unattractive but also a bitch, and hence you sympathize for him falling for the youn giglr
+- The descripitions of Mme.Bovary's relationships become less pure overtime. p.230 'carnal'
+- Emma's life is tragic. Raised on expectations which could not be met by the people of her time, she is doomed from childhood to heartbreak and disappointment with the real world which fails to meet her expectations materially and spiritually. Materially, in that she lives in a small town of country folk who are nothing like the counts and duchesses she wished to be among from her novels. She was exposed to the lifestyle and tastes of the upper class. Spiritually, in that none of the men she meets truly meet her expectations of a gallant hero. The first desire can never be fulfilled because she does not belong to that class. Ironically if she had been born centuries later in our time, she could have fulfilled this by either marrying up or working the right career to buy her way into upper class society. The second is a true victim of modernity.
+	- Her life turns for a worse in Part 1 Chapter 8 when she is taken to a ball
+	- Leon seems to be a real romantic, but he lacks something. What?
+		- 78-79. He's just like Emma: bored by the town bc of his education. He too is a pretender. Never did he see the beautiful nature which he believes will take his breath away and is so great, he only knows from a story told by his cousin. Emma doesn't actually read books, she's just pretending for the aesthetics, to be the kind of person who does.
+		- 89 his judgement of the town
+		- 109. he leaves for paris bc he has no interests in his life and dreams it'll b diff in paris
+		- 116. Narrator explicitly says she's becoming like a man in style. She's doing what she wants, following her passionns
+	- Rodolphe is just a player pure and simple
+		- 121. he decies to seduce her
+	- To fall in love you must first pay attentiont ot he object of your love. In noticing the details, admiring their nature, and eventually loving their being, that is how you fall in love. Other than for a short period of time, Emma never respects, let alone falls in love with who Charles is. Whatever she says to him she would have said even if he was not there - he couild have been replaced with her dog and her behavior would not have changed (58e)
+	- Her romanticism makes all of her life drabby. She gives up on playing piano because she can never play on a large stage in a nice dress (59),
+	- She is angry because she look at the upper class and says, that could  be me! I had the education, I have the manners, I can dance like that too (62)
+	- 82. Explicitly Flaubert writes that Emma wished to be a man, for a man can fulfill their desires without punishment from society.
+	- 100, Thbe benefits of social norms that shame adultery is that it keep swomen virtuous by mnaking it worthy of praise, and restrains them
+	- 104. When you're in pain and no one knows you feel the whole world is slighting against you. Not even the priest, a spiritual man, is aware of her suffering; he only focuses on the amterial
+- If Emma has too high expectations, Charles' happiness comes from little to no expectations of what his life should be. Or to reword, he has no idea what his life should be because until he discovered gambling as a student, he had no agency over his life. At elementary school he followed a rigid schedule and did as he was told. It was his mother who decided for him to go to medical school. It was his mother who even found the job he would work after medical school. It was his mother that picked his first wife. Never was his own personality considered - what type of women he would be a good fit for, what type of education and work would best fit his being. His mother only considered material advantages completely abstracted from the spiritual, marrying him to an old, ugly hag for her dowry. He had explicitly hoped marraige would give him freedom over his own being and finances. While he was also well educated, Flaubert explicitly points out his lack of taste for poetry, theatre, and the arts which a learned man (as evidenced by Homais and Leon) would be expected to know of. He is a country man a heart.
+- It seems that in Flaubert's eyes, the man in the relationship has to be heroic, larger than life, ideallic, in a way that breaks expectations for the female to be overjoyed and happy in the marriage, for the female to say they are proud to be with that person. This is especially so because of the narratives which females love to consume all their life. C
+	- Charles failed to meet Emma's dream. Why did she marry him in the first place? The courting process was broken. Few words were exchanged at all so Emma never discovered how bad of a fit Charles' plain personality with next to no knowledge of high culture was for her educated tastes
+	- Is it the man's duty to also manage the household finances too? If so, Charles also failed here
+	- Charles failed to see who Emma really was. just like her, he was blinded by his own romanticism.
+		- The females in his life only tore him down, constantly criticizing him Emma in contrast as a neutral, seemed much more attractive
+		- The only palce he had agency was at the tavern as a student. Every roll of the sheep-bone marked with black spots was "to him a precious act of liberty" (10).
+		- Before his first marriage hi Never did he bother to ask himself what he really wanted to do. The one place he can escape to where he has agency
+		- Emma's father agrees to the marriage not because of Charles' being a convicning, ideal husband, but because of his income as a doctor
+		- throoughout the novel hes ften asleep
+	- In Chapter 5, she does attempt to resist her feelings and fight back against her attraction to Leon by focusing on her role as mother/wife. Page 100 is hilarious in that by making it a good thing to be virtuous, we encourage women like Emma to take pride in their virtue and prevent adultery
+	- What did Emma represent to him?
+- but we must also ask, could any one of the males int he story have met Emma's expecations?
+	- Rodoplhe didn't meet her expectations in that he was a seducer who was faking real-love/romantic attraction in which he wished to be with Emma forever. Emma went in there thinking he would be her long-term partner, to the point where she genuinely thought he would elope with her and her child. She disappoints him romantically but also practically at the end when he doesn't help her with her debt
+	- Leon disappointed Emma in how little he could do for her at the end. He had the will but he lacked the wealth to help pay off her debts by himself. He disappoints her practically.
+	- Reading page 12-13. Charles did all the right things in displaying his love for her but he still wasn't exactly what she wanted. The displays of affection aren't enough, real attraction is based upon something else.
+		- I do think I was a terrible listener overtime

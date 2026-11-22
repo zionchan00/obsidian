@@ -1,0 +1,51 @@
+- A list of a few problems
+	- Identity crises/problems with identity formation - lots of smart people with very weak ideas on what they like/dislike, they don't know who you are > from too much change 
+	- Executive-dysfunction/self-sabotage - unable to do what they want. Part of this is I think is lack of ability to control emotions
+- [ ] What my model of healthy development looks like. Object permanence vid here.
+	- The stages go
+		- Stage 0: everything is you, and you are your reflexes. You feel soemthing, you react automatically to adjust. Light is blinding you, you close your eyes. But when you're hungry, you aren't fed automatically. Your environment presents you a challenge, and to solve it you are dependent on your 'womb'
+		- Stage 1: There is now a self, and that self is its impulses. The self is defined against its perceptions. Transition is that we realize that our impulses are diff from us from our parents telling us no, and we're scared we can't correctly control them, hence the fears kids have of monsters. Object permanence starts here
+		- Stage 2. Impulses are things you have, you control them based on your desires - you are your desires, and hence your desires are more important than everyone elses. Your classmates and adults tell you, this can't be
+		- Stage 3. we realize that others have desires and we need to care about our relationships with them. In order to do this, mentally we have to be capable fo early formal operational thought: purely theoreitcal thought, can think of hypothetical futures and imagine what happens when we do hurt ppl
+		- stage 4: we gain a greater understanding of the world we grow up in factually + get burnt from stretching ourselves too thin > realize relationships are things that we have, they aren't us. What matters more than them is the system that supports and enables our relationships: the club/workplace/school we have
+		- stage 5: you travel, study different ways of life, and start to thnk of yourself less as part of one 'group' but someone who can mix and match across diff systems. this requires the ability to undertsand the values that ground each system, you have to think of them as soemthign you can objectify
+	- You put yourself into greater and greater environments, which 'pull' more of you out of you, taking you into a kind of person hat you didn't know you could become. Overtime your scope of responsibilities increase, from thinking about yourself to thinking about the broader community that you're in 
+	- Parents > pre-school > friend group in HS/high school > college your professors might challenge you a bit > workplace and the people you date. 
+	- What's happening here is that you're being challenged to MAKE things though. You realize who you are as a function of your relational environment (friends, physical home, the city and neighborhoods you know) + the problems within these places which you can solve because you know them + you develop a skillset which you enjoy employing overtime. A 'full', healthy adult, is someone who can remember their goals, plan a path to them, and have the consistency to execute on it
+	- Secondly, we need a WOMB to hold us. there has to be some consistency, we need the same environment to nudge us towards our future self. 
+		- E.g 8 year old running away from home story
+		- the story of Eric wanting to come home after moving away from college in the ifrst place
+		- therapist
+- How our current attitude towards education/lifestyle contributes towards development along these lines
+	- First is the kinds of interactions that we have with the 'real world' growing up, we live in really sheltered/controlled environments, where the outcomes are really predictable
+		- Most of us grow up in the suburbs, which are physically gridded, ironed out, straight and narrow in the streets. SO what do you learn about the world? That it's also just as clean. But the suburbs are also pretty isolating. You're unlikely to have contact with a variety of people across all ages, given the lack of nearby spaces to hangout in your spare time, like a coffee shop/pub. At best you might play with your neighbour when you're younger as a child, but the pattern as we get older is that people spend more and more people spend time inside, and what are they doing inside? they're on the Internet
+		- The Internet is a place where you can 'learn things', and it has its place in a proper education, but my problem with only viewing the world through the Internet is that its 
+			- a) frictionless and lightning fast > real-world is still constrained by definition
+			- b) it's too easy to find what you want on it + second party/third party info consumption > in real-world, information searching is really hard, gotta do the work to talk to lots of humans to gather info
+		- Parenting - most people have attitudes where kids are put mostly on a consumptive mode, very rarely in a mode in which they can build things. 
+			- Solution: Arya example. but also more toys that can show the world around us is built, more books as part of a childhood curriculum
+	- Second is identtiy
+		- the combination of both of these is a high rate of change which induces digital schizophrenia. scroll the timeline long enough, which is purely the output of other people, and you'll lose your sense of self from all the worlds that are put in front of you. 
+			- Solution: new digital tools which can help us regain some control over this. arc browser as an example
+			- Also i think kids should be allowed to work, we need more apprenticeships
+			- 100 year old computer
+	- Third is that given the relational model of learning I created above, I think a lot of us lack strong support systems around us to help provide the 'background' through which we can learn and develop
+		- Key part of the model is that the environment has to challenge us, but that requires the environment to know who we are, and to care for us 
+			- Does your school care about you? Not in the sense of, making sure you don't lower the EQAO scores, or making sure you don't kYS and increase the suicide statistic. No, to be frank it can't care for us, there are TOO MANY PEOPLE. 
+			- Only intimate environments can provide the kind of nurture that's needed to be an effective womb
+		- Second, we also have to care about the people that makeup the womb, in order to be challenged
+			- E.g my own story
+		- The obligation swings both ways
+			- The truth is the number of people who we have a deep history with, who we are similar enough to both now and in the future and in the past, is really really small. 
+			- We need a stronger, more active sense of obligation to others. I think this'll change hopefully from people understanding the model of development above > we then take actions, we should increase our obligations towards others + recognize how irreplaceable most people are
+		- Our current schooling system sorts massively for people who are very high conscientousness, with long-term planning capabiltiies, but we're very underrated on intelligent people who are weaker in emotional management. 
+				- A big part of the problem is that these people are effectively alone
+	- Fourth problem is that we don't have a good mechanism by which we can 'sort' people yet. 
+- What I think some next steps are
+	- First is that a culture of agency has to spread. Once this culture exists and this becomes something that people believe kids have ot have, then there'll be demand for new/different schools + toys
+	- Second is more graident/transition spaces
+- A few things that I think are wrong with our childhood that need to be fixed
+- Firstly how do we develop overtime? I think we develop by b
+- We should think less about the content of what you learn in school as the determinant of success (e.g the exact facts of math, economics, science) and more about the mentality that school tends to breed. We shoudl start to think about education as something which 
+
+- The second big problem is 

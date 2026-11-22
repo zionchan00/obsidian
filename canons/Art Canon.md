@@ -1,0 +1,9 @@
+- The use and Abuse of Art
+- A Fine Disregard: What Makes Modern Art Modern
+- Seeing Is Forgetting the Name of the Thing One Sees: A Life of Contemporary Artist Robert Irwin - recommended by the guy who started the browser company
+- [[Feeling and Form]] - philosophy of Art that follows from [[Philosophy in a New Key]]
+- The Relevance of the Beautiful and Other Essays - [[Gadamer]]
+- Art and Illusion
+- Studies in Iconology
+- Symbols
+	- [[Languages of Art]] related to the [[Brain Resources]] too

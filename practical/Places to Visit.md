@@ -1,0 +1,68 @@
+- To Go
+	- Spain
+		- Seville, Cordoba, Granda, Barcelona, Madrid, Vitoria-Gasteiz, Mallorca
+	- Italy
+		- Florence, Rome
+	- France
+		- Paris - visit the Haussman part for urban planning reasons
+		- To read final
+			- Submission Houllebecq
+			- Discovery of France
+			- The Story of Art
+			- Barzun - from Dawn to Decadence
+			- Barzun - the Use and Abuse of Art
+			- Paglia - Sexual personnae
+			- How Paris Became Paris: The Invention of the Modern City - read this while actually in Paris
+			- The Guide to the Architecture of Paris - Norval White
+			- Walkable City
+			- The Economy of Cities
+			- Order without Design
+			- Nineteenth Century French Art: From Romanticism to Impressionism, Post-Impressionism, and Art Nouveau
+			- Seeing Like a State
+			- The Judgment of Paris: The Revolutionary Decade That Gave the World Impressionism
+			- In Montmartre: Picasso, Matisse and the Birth of Modernist Art
+		- To Read
+			- Understandign Parisian Culture
+				- Modern culture: Houllebecq - Submission - maybe Elementary Particles, The Map and the Meaning if I have time . The French - Theodore Zeldin
+				- 20th century: Camus  (The Stranger and Lyrical Works), Samuel Beckett, Journey to the End of the Night - Celine, Nausea by Jean-Paul Sartre, The Mandarins by Simone de Beauvoir
+					- Maybe Remembrance of Things Past
+				- 19th Century: Balzac-The Human Comedy, Baudelaire - the Flowers of Evil, Les Miserables, Eugen Weber's "Peasants into Frenchmen: The Modernization of Rural France, 1870-1914.", de Maupassant’s stories (try “Ball of Fat”), Zola’s “Germinal”
+				- 18th Century
+					- The Philosophy of the Enlightenment - Cassirer
+						- Perhaps as a brief (24 pages) complementary text, Isaiah Berlin's well known essay on the "Counter Enlightment" may be worth looking at to get an overview of the "other side" of the enlightment.
+						- Also, the most famous and programmatic primary text on the enlightment (Kant's "What Is Enlightment?") is extremly brief (5 pages)
+					- Rousseau’s “Social Contract”, Voltaire’s “Candide”, Choderlos de Laclos’ “Dangerous Liaisons”.
+					- The Ancien Régime and the Revolution - Tocqueville
+					- Ricard Wilbur’s translations of Moliere
+				- The Discovery of France
+				- Romeo and Juliet
+				- The Count of Montecristo
+				- Andromaque - Racine and
+				- Overhead in a balloon - Gallant
+				- The Belly of Paris and Lady's Paradise - Zola
+				- Down and Out in Paris - Orwell
+				- Candide -Voltaire
+				- Pere Goriot  and Father Gorio- Balzac
+				- Tete-a-Tete: Simone de Beauvoir and Jean-Paul Sartre
+				- The Enlightenment: The Pursuit of Happiness 1680-1790
+			- Understanding art
+				- Reductionism in Art and Brain Science: Bridging the Two Cultures
+				- Sexual Personnae
+			- Movies
+				- Douse yourself in Godard films  before going.  Start with Breathless, Band of Strangers, and My Life to Live., Jules and Jim, and Triplets of Belleville.  Agnes Varda’s Cléo from 5 to 7 for those with an experimental bent.  Eric Rohmer for something light-hearted.  Amélie and Before Sunset are both rewarding, though at the margin Godard usually is what Americans are lacking.
+			- Blue Guide Paris
+			- Get a peek of the major bridges over the Seine, if only by traversing them.
+			- Houllebecq
+		- Food
+			- Find a very good food street/corner and take many of your meals there.  I’ve used Rue Daguerre and around Rue des Arts (Left Bank) for this purpose, but there are many others.  Spend most of your money in the cheese shop, asking them to choose for you, but supplement with bread, fruit, and of course chocolate.  This beats most restaurant meals, noting it won’t be cheap either.  And yes it is worth paying $8 for a bar of chocolate there.
+		- Especially on the Left Bank, Paris is one of the very best walking cities.  Avoid Champs-Élysées and environs, a broad-avenued, chain store-intense corruption of what Paris ought to be.  Avoid Jardin Luxembourg and the surrounding parts as well, they are urban deserts.
+		- Get a peek of the major bridges over the Seine, if only by traversing them.
+		- But you should go to the top of the Eiffel Tower.  And in the Louvre, don’t neglect the Poussin room, the Michelangelo sculptures, or the Flemish and 17th century works.
+		- When walking around, keep your eye out for posters (yes, posters) advertising exhibits and concerts.
+		- n most of the parts of Paris you are likely to frequent, do not try to eat any Asian or “ethnic” foods.  The best restaurants of those kinds are in north Paris, on the way to the airport, but no one visits there.  Couscous in Paris is boring.
+		- Belleville is the gentrifying Brooklyn of Paris, with relatively few tourists, if that is what you are looking for.  Avoid Montmartre.  For practical reasons, I’ve spent a lot of my Paris time near Unesco, in a neighborhood that is a bit sterile but very beautiful and it gives you a decent sense of well-to-do residential Paris life.  Develop your mini-Paris residential life somewhere, and make your time there more than just a tourist visit.  The site I should not enjoy but do is Le Dôme des Invalides, also the tomb of Napoleon.
+	- Turkey
+		- Istanbuk
+- Avoid
+	- Avoid Marrakech based on reddit threads - can't trust anyone, lots of scams/pickpocket, harassment
+-

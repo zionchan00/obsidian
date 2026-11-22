@@ -1,0 +1,11 @@
+- Part 1. The Relationship Between Love and Attention
+	- Can you love someone only because they love you?
+		- One view is that you can be attracted but you won't be in love. Then how do you know when you're in love vs attracted? Is it just a matter of intensity?
+			- When I'm attracted to someone, to me it's
+				- a process of discovery. As I get to know the person if I like what I discover, attraction intensifies. Attraction comes from the person's being fitting what I believe to be important
+				- Yet at times i've been attracted to people who don't fit my view of what is most important or admirable. attraction can be driven by the other's desire and interest in me
+			- Someone I'm attracted to, the things I would be willing to do for them would be smaller in scale. I think it's because of the strength of the bond.
+	- A thought experiment will be helpful in understanding the evolution of attraction into love. Imagine a row of people who are of the sexual orientation you are attracted to lined up before you. A judge says you must select a mate from this row. You may only enter the dating process with one individual at a time however and these individuals are allowed to date outside of their time spent with you. With this added sense of urgency to speed up your decision making, you select the one you are most physically attracted to and herein lies an issue.
+	- In a room of strangers, we have no other information to judge fit other than physical attraction. Love begins with outer experiences and progresses to the inner.
+	-
+- Part 2. Love In the Time of Cholera

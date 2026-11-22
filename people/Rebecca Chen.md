@@ -1,0 +1,14 @@
+- Prefers HK, US is ok
+- got first rounds last year, but didn't do well, interviewed with many firms in HK
+- Talk to bob about why she has a 1 year no internship gap
+- Double check HK banks are cool w chinese internships, 
+- hl m&a/evercore pca/vista/lazard sf interviewed this year. interviewed gs hk last time. 
+- behavioural is english in hk. 
+- caroline was behavoiural mentor, too formal
+- Check her technical mentor, her behaviour mentor is caroline. 
+- rewrite her resume so american internship is at the top
+- watch her recordings tomorrow of interview.
+	- First feedback, the beginning convo went too long. you already asked him how his day was, then he asked you, then you asked him if he was busy this week.after you've both talked about how your day was, in my opinion its best for you to move on. HOW you move on depends on what was said during the first one/two if they're really busy, say 'thanks again for taking this call despite being so busy, i really want to join the team at ___, and I'll tell you a little bit about myself to contextualize why'
+	- when you're speaking, you need to change the pace more. sometimes we'll talk faster, sometimes we'll talk slower. you do it a bit, but your normal pace is too slow, it makes it feel like youre not fluent and youre reading off a script, too robotic. also avoid saying 'yea yea', i have a go to transition which is 'excellent', maybe yours is 'perfect', somepeople use 'great'
+- 2:55 start
+- 15 minute, LM call, behavioural was 25 minutes

@@ -1,0 +1,1 @@
+- # The Tristan Chord: Wagner and Philosophy

@@ -1,0 +1,12 @@
+- Tmay
+	- Got into fin sercices form debate, researched policy and that's how he got inot tech and financial services  > realized the research process and thinking about the seocnd-order impact was similar to fin services
+	- nektar growth partners, middle market PE, learned how to evaluate companies from PE, but didn't like industry focus
+	- got to work in software, got to build an LBO for a software company, sfotware space was mroe dynamic + more capital > more attractive
+	- worked in sell-side, got to do typical banking work: pitches, 3 statement models, valuations, for clients, in a sell-side process for a prescription eyeglasses
+	- in PE he gets to look at one sector, one strategy, he gets broader skillset + look at diff busines smodels
+- Why tech banking
+- Why MS menlo
+- Stock pitch
+	- 77% gowth margin, 27% operating margin, 
+	- growth opoprtunity bc shifting upmarkt into enterprise sale, continue to rise in 2022
+	- strong competitive positioning iwtihn the cybersecurity market. 

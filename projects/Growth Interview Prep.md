@@ -1,0 +1,20 @@
+- 
+	- How to conduct user research?
+		- How to think about good onboarding flows?
+	- How to think about product planning?
+	- How is growth marketing done? What is growth marketing?
+	- What KPIs should be tracked and improved?
+	- What ad campaigns are available? How to measure performance?
+	- How to setup an external content analytics system?
+	- How to think about lead funnels, conversion rate, retention rate, A/B testing, which product features to implement?
+	- What makes a good campaign message?
+	- How does SEO and keyword optimization work?
+	- How to think about new acquisiton channels?
+	- How to improve efficacy of paid acquisition strategies?
+- Distribute content through social media, 3rd party websites and partner organizations
+	- What has changed in regards to search engine algorithms? What is SERP volatility?
+	- Whata makes a good landing page?
+- ![[Pasted image 20220517155409.png]]
+- ![[Pasted image 20220517161335.png]]
+- Two ways to grow: product growth/converison rate optimization and growth channels
+- Your primary metric should capture whether we're building something people want and whether they want it repeatedly. It should be a laggign indicator, and be easy to use as a feedback mechanism

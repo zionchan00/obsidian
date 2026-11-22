@@ -1,0 +1,18 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "readableLineLength": true,
+  "foldHeading": true,
+  "spellcheck": true,
+  "tabSize": 2,
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "focusNewTab": false,
+  "attachmentFolderPath": "./",
+  "openBehavior": "daily"
+}

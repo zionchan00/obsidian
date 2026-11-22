@@ -1,0 +1,12 @@
+- What is benefit of seperation of accounting and computation into different layers?
+- Website says one problem with [[Ethereum]] says that Ethereum has a problem of treating every program the same
+- Cardano also claims we don't read historic cryptographic research enough, links this 'seminal' paper https://dl.acm.org/doi/pdf/10.1145/73007.73014
+- Notes that lack of transaction metadata, stable identities, and reputation tracking for commercial transactions, which holds back consumer protection adn mainstream adoption
+- Cardano is split into Cardano Settlement Layer (accounting of value) and Cardano Computation Layer (the story behind why the value came from)
+	- The advantage is you get to hide private computation, don't have to store as much metadata
+- https://www.youtube.com/watch?v=Nlmv4fg4NQk&t=1401s this is their proof-of-stake model, ouroboros. sayas ot uses [this](https://eprint.iacr.org/2014/765.pdf) cryptographic model to enable 'modular and flexible design' and 'features such as delegation, sidechains, subscribable checkpoints, better data structures for light clients, different forms of [random number generation](https://iohk.io/blog/a-solution-for-scalable-randomness/) and even different synchronization assumptions'
+- WIll implement a [[treaasury system]] to pay for development, paid for by 'monotonically decreasing inflation and transaction fees'. How does inflation as a payment stream work?
+- 'Any user should be eligible to request funds from the trust by a ballot system and the stakeholders of CSL vote on who becomes a beneficiary. The process creates a productive feedback loop seen in other cryptocurrencies with treasury/trust systems, [such as Dash](https://iohk.io/research/library/#NSJ554WR), by starting a conversation about who should and should not be funded.'
+- Cardano's scripting language is more restrictive than Solidity's, specifically focused on financial applications. Let's talk to devs to try to figure out how healthy is it?
+- What's the point of a sidechain?
+- APparently Ouroboros is much better at scalability? The paper claims that traditional peer ot peer networks actually get faster as more nodes join bc nodes both consume but also contribute to the network, while btc, being append only, gets slower the more it's used

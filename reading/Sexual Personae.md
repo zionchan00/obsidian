@@ -1,0 +1,2 @@
+- "There is nothing less erotic than  a nudist colony. Desires is intensified by ritual limitations. Hence the amsk, harness, and chains of sadomachoism"
+- Edmund SPenser - Faierie Queene

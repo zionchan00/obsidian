@@ -1,0 +1,5 @@
+- already had 2 boutique internships
+- technical lessons - finished tchnival
+- behavioural
+- 1..75
+- john chen 10545 - 0.5 hour

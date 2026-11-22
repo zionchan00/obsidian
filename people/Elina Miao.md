@@ -1,0 +1,4 @@
+- wants to do HK finance
+- behavioural is daniel (3 classes done), technical is jacob (t15-lbo model), resume (RG). She rlly likes Jacob, very responsive, always replies in a detailed way, always changes pace of class so she can ask questions. she likes daniel. RG is responsive
+- double check her behaviourals every week
+- 30 mintes

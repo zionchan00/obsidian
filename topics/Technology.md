@@ -1,0 +1,5 @@
+- Technology and politics
+	- Liberalism encourages a state of enutrality, but technology forces us to always be 'for' something because it creates change. 
+			- It forces you to pick a value system because it gives you what you want, some people are unhappy with what other people's desires being fulfilled, and conflict begins
+			- In fulfilling desire surrounding education, increasing wealth inequality comes about from 20-year olds with enough intelligence to rotate shapes in their heads earnings tons of money
+			- it leads to 

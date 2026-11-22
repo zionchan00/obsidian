@@ -1,0 +1,17 @@
+- pre-fab homes
+	- Villa homes
+	- Cover Homes - CEO Alexis Rivas is a canadian
+	- My abodu
+- People left to reach out to at culdesac
+	- Kunal Harmalkar > CoS
+	- Haley Rose  > product intern
+	- Anne Gifford < currently product
+	- Molly Lara > fulltime bizops
+	- Erin > fulltime bizops
+	- Sam Albertsen >former intern
+	- Alexys > fulltime bizops
+	- Jordyn Hitezman > former intern
+- Sensors + Cities
+	- Replica
+	- Density
+	- Mach9

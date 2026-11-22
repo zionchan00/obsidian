@@ -1,0 +1,95 @@
+- Presentation outline
+	- Intro
+		- Imagine being stranded in the Arctic as you are now. Very quickly you'd die, without fur from animals to keep your body temperature warm, nor any external heat sources such as a fire. When you try to find water to quench your thirst and you drink from the sea, you dehydrate yourself further from the salt inside. When you see a seal and try to chase after it for food, you realize you lack the tools to kill it, and you can't even get close to it without the seal running away from you. When night falls and you go to sleep, causing your body temperature to plummet, you catch hypothermia and die.
+		- Meanwhile, the local Inuits are able to thrive in this environment. They can build igloos (they wouldn't be able to explain to you why the Igloo works, but hey it works), hunt seals without being detected (camp by their breathing holes, cover them slightly with snow so they won't spot you, and then when they come to breathe, thrust your harpoon into the hole and bring the seal onto the snow, and finish the kill with some sort of bone weapon), create heat (they carve lamps from soapstone and use blubber from animals as oil), and find fresh drinking water (they can identify old sea ice which has lost its salt overtime).
+		- The difference between you and the Inuits is that they have culture and you don't. This might sound weird at first because when you think of culture, you likely think of this of these things.
+		- What is in common between this and the items in the thought experiment above is that
+		- like about the 'stranded in the Arctic' thought experiment is that it emphasizes that culture is survival and hence naturally accounts for the environment that we're in, which. This also applies to the items inside the pictures too - cuisine is dictated by the enviornment, and the know how, clothing is determined by the climate and values and geography, etc.
+		- Culture is all of these things and more. Broadly culture gives us both facts and values: the facts of what is out there (science) and how we should live in relation to it (philosophy). It tells us that because of the way the world is, this is how we should live as a result - this is what we should eat, this is how we should dress, these are the kinds of job that are worth having and these are the kind of jobs that are not. It tells us both what is wroth having but also how we can attain ti too.  From the above examples we can see that culture also includes technology (fires, hunting tools) and I'll also include social technologies
+		- The reason why culture is always bounded is out of necessity. It requires a critical mass in the numbers of people in order to be sustained. It can fracture overtinme. Culture always refers to a group identity, and as a cossequence, it impacts how well a group of people survive overtime.
+		- Just like how x years ago, a sufficient quatntiy of cultural knowhwo acucmulated in one group of pre-humanoids such that they could outperform their competittors, and they grfadually expanded and erased their competitors, there was no going back onc eculutre was introduced to group comeptition, nce you learn about cultural-gene coevolution, there's no going back to the way you used to see the world. Because these groups had nex tto no understanding of the genealogy of their causal theories, they evolved overtime to select for mimetic learning. We evolved overtime to become followers.
+		- The groups that can retain, transmit, and learn the fastest as a group are the groups that win on Earth. This essay is going to first go into the evidence of how culture made us human, changing our genetics/biology/psychology, easily backed up by modern science. The second part will be much more speculative - how should we interpret this information?
+	- How we became imitation (and learning) machines
+		- Manioc is a plant that's both easy to plant and highly nutritious, a staple for many tribes in the Americas. But it's also highly toxic - it contains cyanide. Consuming it without preparation will lead to paralysis in the legs, brain problems, thyroid problems, etc. Somehow however, in Columbia the Tukanoans have figured out a way to remove the cyanide. Over the course of 6 days, they will scrape, grate, and finally wash the roots to seperate the plant's starch, fibre, and liquid. The liquid can be boiled into a drink, but the fibre and starch have to sit for atleast two more days, and then baked. (See Dufour 1994, Wilson and Dufour 2002, Jackson and Jackson 1990, and Dufour 1988a, 1988b. Varieties of manioc respond to drought by massively increasing their cyanogenic output. Bitter manioc supplies 70% of the Tukanoans’ calories.)
+		- It's a miracle in the first place that the Tukanoans were link the cyanide poisoning with the consumption of the plant because the symptoms appear 5-10 years after sustained consumption. The even crazier miracle is that that they were able to devise a complex, multi-step solution to remove the cyanide completely, given they had no machinery to help them determine the exact quantity of cyanide within the plant, and the feedback loop was so long between any experimentation with purficiation and then end result, yet they appear to not be 'overkilling' it.
+		- Attempts to play the scientist just don't work in this scenario. Say as an individual you realized that by boiling the plant alone, it's bitter taste would be gone, so even if you figured that it had cyanide, your intuition would tell you that the bitter taste came from the cyanide, and it was safe to consume and you had saved time. And in 5-10 years, you would end up very, very, sick. In conversations with tribes who have been able to  innovate in this regard, when you ask why they do what they do, they tell you that 'this is awlays the way it's been done', that 'this is custom', that this is in other words - culture.
+		- Not only do we often lack the stories of how certain inventions or discoveries came to be, but many inventions were created without knowledge of how they worked by their inventors, or their inventors have wrong explainations. The end product in both cases is that people have no theory or real understanding of the tool, but they know they adapt it nonetheless because it works. This is culture, the collective accumulation of all of these inventions.
+		- Our genes as a result selected for the following capabilities
+		- Our bodies
+			- Our brains are large and our guts small because we discovered and passed down knowledge of cooking techniques: Heat and marinades assist our stomach in nreaking down foods, simultaneously unlocking more calories and lessening the work needed to digest food. This allowed our body to dedicate more calories  away from the gut (the second highest consumer of calories int he body) and more towrads the brain (the largest consumer). Our brains were able to then grow in size, growing so large that our skulls remain unfused at birth so that our big heads can pass through the womb. In enabling our heads to grow larger, we were then able to store more cultural knowhow and think faster
+			- We became runners. The problem with long-distance running is that as mammals, we have to keep our core body-temp between 36-38 degrees celcius or else we overheat. To cool down faster we evolved advanced sweat glands in our heads (which made balding evolutionarily advantageous in our hunter-gatherer days), but then we create a new problem: the quanttiy of water we can store in our body becomes a new constraint on our running distance. While donkeys can drink 20 litres in 3 minutes, we can only drink 2 litres in 10 minutes. Culture gave us two workarounds: social technology (language allows us to communicate the location of water to quickly replenish our stores) and tools (such as ostrich egg shells and gourds to carry water with us). This paved the way for further changes in our genetics thanks to how advantageous it was for survival to be able to run long-distnaces: we evolved springy-arches in our feet, our legs became much longer, and we have 30% more fast-twitch muscle fibers in our thighs
+			- Our nervous system changed. The human neocortex evolved to send deeper connectiosn between our spine, brain stem, and motor neurons, in contrast to other mammals. This allows us to create ocmplex tools with our hands, but also to have greater control over our mouiths, that enable speech. Likely this enabled us to become better throwers, etc
+			- Our psychology. Furthermore we have away from an environment where natural threats and nature kill us. Now it’s social rules and systems that determine reproductive success. The longer a group spends in civilization; the stronger their genes have been selected for self-domestication
+			- A key part of cultura
+			- psychology -  we self-domesticated
+				- Manoc example
+					- Manoc
+						-
+				- learning. 'who we should learn from, what should we learn from them on, and when should we trust culture over ourselves'.
+					- social referencing
+						- look for people who are similar to us. Speak the same language, same gender, same ethnicity. (20, 21)
+						- We also look towards the way people react to see if they're worth learning from (15)
+						- 16, we remember whether soemone was correct as aninfant and use that to determine whether to listen to them in the future
+						- Check reference 11 here, 12, 13, 14 for infant under novelty experiment, 15
+					- signs of success for 'i want to do x thing, who should i learn from'
+						- first is we'll look for obvious signs of success or things that correlate with success. E.g in the domain of hunting, it's common in lots of tribes to have your kills as trophies to make it obvious to everyone how skilled you are
+						- we're so smart that even as babies, we can account for whether. amodel is more or less likely to have the info needed to navigate uncertainty. 14
+					- prestige - attention from others
+						- reference 18
+						- 16. we also remember people's track record
+				- shame/gossip
+				- rituals
+					- ju-hoansi kin realtionships
+						- pg 148. Ju'hoahnsi give the kids the names of the paternal grandparents to counter paternal uncertainty lower investment from father and father's family. the kids siblings even follow this
+					- Pg 153-157. Genetic psychology exists which encourages us to act a certain way> cultural norms interact with our genetic psychology to get outcomes that are different from the original intention, e.g name-extension, but also reinforce the behaviour through shame from disobeyind the norm, which is why people do things that aren't good for them themselves
+					- Pg 163-164. Examples of rituals were are used to tighten a community by formally assigning certain members responsibility to one another (e.g extended fam). This makes me think we have to have new rituals, ones that are beautiful with their own status symbols
+					- Arunta ritual
+						- Among the Arunta of central Australia, for example, the initiation into manhood involved four main rituals that spanned roughly fifteen years, from age 10 to 25 years. Based only in the local community, the first three of these rituals involved being thrown in the air, kidnapped at night, blindfolded, bitten, piled on by a group of men, and forced to endure periods of silence and deprivation, as well as learning much tribal lore through a series of frightening dances and song narratives performed by inhuman-looking men, who were painted and costumed. The second rite in particular, performed just after their puberty started, culminated in a ritual circumcision in which a stone knife was used to cut off the adolescent’s foreskin. Then, soon after these wounds had healed, a third rite would commence and eventually climax in a ritual subincision: the boys’ penises were sliced lengthwise, along the underside, slit and split like a hot dog.
+					-
+			- On the origin of faith
+			- - The thing is that there'll be strong selection pressures on us to actually believe in faith. E.g note that very smart people tend to be very mimetic
+			- 101,102 - people have shared cues to look for who to learn from but will differ in their explanations of their beliefs/actions because the explanations are added on after the fact
+			- 105,106 - and if people actually understood the reasons why they do what they do, they might stop doing them bc the causality no longer exists, and instead they rely on their own intuitiosn - and fall back into biases
+			- 107, the complexity of makign an arrow, all counter-intuitive
+			- E.g pg 110-112. evidence points to chilies being unnatural to eat, and what happens neurochemically is that we've trained ourselves to enjoy the pain
+			- pg 112-113. we think theory comes first and then artifact, when in reality it's inverse
+			- pg 115-116. the culture that made igloos had no knowledge of physics or temperature, but rather bits and pieces that slowly added up the ability to construct an igloo, but no ability to explain why ro how it worked, other than it just works.
+			- This makes me think about other cultural constructs like religion, where we're still interpreting the full benefits. the problem is once a selection pressure is removed and we can coordinate without it, we discard it wholeheartedly bc without the causal model we can't appreciate its value. so the full value of theorizing is to make sure that we don't stray away and thorw something out too early
+			- End product: We can talk about intergroup competition 5 forms: violence, prestige-based copying, differential migration, differential reproduction, differential group survival without conflict
+			- Culture determines the kind of lives that we end up living today.
+			- Do you have a poor that are peaceful, or a poor that end up committing lots of violence? There's debate ofc about what kinds of culture
+			- Do you have beautiful art, or do you have really really lame buildings?
+			- Good culture is NOT automatic. What it consists of is someone realizes that something is off on any of the levels of culture, whether it's the natural facts of science/what is prized/the methodology of attaining them, and then individuals around them will imitate them, and if they prove succesful, they see increasing adoption. Your friends adapt your behaviour bc they're willing to give you the benefit of the doubt, but the rest is socially imitative.
+			- E.g school which Europeans spent a lot of time building in Africa. they cared so much about it, but once they were gone, it was all over, grass grew over, things return to stasis. The frank thing is that
+	- From the examples I gave, it seems pretty obvious that there's little point to innovating. Culture is smarter than we are, so when is it a good idea for us to stop paying attention to culture?
+		- What are signs that our culture is dysfunctional that relate to the above?
+			- scrolling alone - increased loneliness
+			- broken families
+			- shitty childhoods and a terrible education system
+				- Most of us here are children of immigrants. Our parents moved here with little knowledge of how to navigate the country given how little time they spent in it, how could they understand what was the best thing for us. For some of us we literally don't speak the same language, and can't have a meaningful relationship with them
+			- terrible physical health also
+				- The increased mobility that comes with modern life. E.g dudes that who do not know how to cook, or think about how many of your parents also don't know how to cook either. Cooking knowledge is traditionally passed don't through your time spent at home, but most of our parents left home early, and so did we. Our knowledge of nutrition is absolutely terrible
+			- progress in science and the social sciences
+				- technology/tools - we don' t even know how the Antikythera mechanism works. We don't know how exactly the Egyptians built the pyramid
+	- I want my audience to understand that this can change. Adam can talk much more about this, but I'll be very specific here and talk about a few solutions I'm trying to push forward
+		- First is trying to change the way people are thinking about parenting
+		- Second,
+		- Yes, but it'll take time
+			- The first and most important thing is resources and knowledge
+			- The second thing is there's low hanging fruit which people have barely even talked about at all. One is how we can raise our kids
+			- First we have to acquire resources.
+			- Second we need to bring back biology into the fold. We have to kill blank slatism, we have to engineer ourselves so that we can actively create superhumans
+			- Third we need a new ethic, we need to be dependable on people
+			- Case studies - the Jewish people. High-intergroup marriage, a culture that tests for IQ by requiring intensive early reading of long-form text, strong bonds of dependency. We don't have thousands of years of tradition to draw from, that's fine, but we'll find a way
+		- Ok so what we can all do here?
+			- If it was only up to us, and we had to understand everything here was to know, yes. But fortunately, while citizenship is dead, the squad is alive. Insert 'if your friend group isn't talking about x ngmi' meme. and the squad shares a brain'
+			- We have a deep responsibility to our immediate ancestors, our parents and our grandparents, for the great sacrifices they made to keep their child alive. We have a deep responsibility to everything that was ever made before, to recover the old, but to also create new things
+			- I wanted everyone here to give these presentations because it was exactly this that I wanted to encourage among everyone
+		- Would you rather be the Jews or the Natives? Both were heavily persecuted, but one group is comprised of some of the wealthiest citizens in the world, some of the happiest, some of the smartest, the other group is idk fat, addicted to drugs/alcohol, in part because they've tried to cut themselves off from the rest of society and hence have failed to gain an understanding of what 'value' is.
+	- Secondly, we have always been shaped by technology, and will continue to be shaped by our technology. This throws out a lot of bad faith ideas on a 'state of nature' or whatever in which we should 'return' to a better life. You are fine, your kids will be mostly fine, there are good and bad ways to use this tool. The metric that culture asks is - are you biologically healthy? are your ideals and norms and genes reproducing?
+- To read
+	- Finish my review of Secret of Our Success
+		- Read HEnrich's paper on 'the evolution of religion', hayek's '3 sources of human values', tetlock 'thinkinh the unthinkable'
+		- https://scholar.google.ca/citations?hl=en&user=5sKZzs8AAAAJ&view_op=list_works&sortby=pubdate
+	- Finish The Evolivng Self and In Over Our Heads
+	- https://fivebooks.com/best-books/cultural-evolution-joe-henrich/

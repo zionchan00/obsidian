@@ -1,0 +1,13 @@
+- The Principia : Mathematical Principles of Natural Philosophy" - [http://www.amazon.com/Principia-Mathematical-Principles-Natu...](http://www.amazon.com/Principia-Mathematical-Principles-Natural-Philosophy/dp/1490592156/) (classic, feel free to grab a PDF)
+- "Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age" 
+- "The Supermen: The Story of Seymour Cray and the Technical Wizards Behind the Supercomputer" - (note: "that one's particularly good")
+- "Hateship, Friendship, Courtship, Loveship, Marriage: Stories" - [http://www.amazon.com/Hateship-Friendship-Courtship-Loveship...](http://www.amazon.com/Hateship-Friendship-Courtship-Loveship-Marriage/dp/0375727434/)
+- "The Score Takes Care of Itself: My Philosophy of Leadership" - [http://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/...](http://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472/)
+- "The Beak of the Finch: A Story of Evolution in Our Time" - [http://www.amazon.com/Beak-Finch-Story-Evolution-Time/dp/067...](http://www.amazon.com/Beak-Finch-Story-Evolution-Time/dp/067973337X/)
+- "The Constitutional Convention: A Narrative History from the Notes of James Madison" - [http://www.amazon.com/Constitutional-Convention-Narrative-Hi...](http://www.amazon.com/Constitutional-Convention-Narrative-History-Classics/dp/0812975170/)
+- "The Art Of War for Lovers" - [http://www.amazon.com/The-ART-WAR-FOR-LOVERS/dp/0671000632](http://www.amazon.com/The-ART-WAR-FOR-LOVERS/dp/0671000632) (fixed! sorry about that...)
+- "Hold 'em Poker: For Advanced Players" - [http://www.amazon.com/Hold-em-Poker-Advanced-Players/dp/1880...](http://www.amazon.com/Hold-em-Poker-Advanced-Players/dp/1880685221/)
+- "Solution Selling: Creating Buyers in Difficult Selling Markets" and Hackign Sales by Max - [http://www.amazon.com/Solution-Selling-Creating-Difficult-Ma...](http://www.amazon.com/Solution-Selling-Creating-Difficult-Markets/dp/0786303158/)
+- "The Endurance: Shackleton's Legendary Antarctic Expedition" - [http://www.amazon.com/Endurance-Shackletons-Legendary-Antarc...](http://www.amazon.com/Endurance-Shackletons-Legendary-Antarctic-Expedition/dp/0375404031/)
+- A life decoded j.craig venter
+- plentiful ༼つ◕_◕༽つ 

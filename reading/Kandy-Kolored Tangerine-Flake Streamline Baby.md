@@ -1,0 +1,36 @@
+- The popularity of an art style is determined by the status of its backers, meaning there are two ways by which an art style becomes mainstream: either those currently in the seat of dictating culture adapt the style as their own, or a new group who enjoys the art gains power. The overarching themes of the stories in the Kandy-Kolored Tangerine-Flake Streamline Baby is of the latter happening in post-war America from Americans saving 21% of their income in 1945 vs 3% in the 1920s ( [source](https://www.google.com/books/edition/A_Consumers_Republic/e7QPGcg9oGIC?hl=en&gbpv=1&printsec=frontcover) ). Manufacturing capacity which had expanded for the war effort shifted to producing civilian goods, and when combined with all the pent-up money demanding to be spent, 75% of Americans had a car by the end of the 1950s [source](https://www.google.com/books/edition/Pursuing_Happiness/bD0ABAAAQBAJ?hl=en&gbpv=1&bsq=u.s.%20families%20with%20automobiles).
+- In America for the first time, middle and lower classes had enough wealth and were of a large enough number that their spending habits could impact popular culture. This anthology takes a look at the new  arts which the upper classes consider to be too prole for their liking, but came to dominate over the next decades. Wolfe applies his sharp eyes on Las Vegas, stock-car racing, rock music, and other areas.
+- Wolfe's take on Las Vegas, *Las Vegas (What?)*, appears to be one of the best examples of Wolfe's analytical skill.
+- One does not get the feeling that Wolfe is a fan of the new arts however. If one were to ask him, he would likely reply that he wished to simply 'objectively' tell the story of the next generation. Wolfe constantly compares the new generation to famous artists and art from the past. Las Vegas is the modern-day Versaille, its founder pushing forth a theory of culture as revolutionary as Marx.
+- Other than The Last American Hero, none of the stories are triumphant. The radio guy achieves fame not for his own talent, but by hitchhiking a ride on the rocketship that is The Beatles. The elites do not live lives of deeply caring about the future - rather they're caught up in miniscule status games, worrying about details on their suits or the risk of gossip spread by their nannies.
+- Status
+	- The Big League Complex - how status pervades all of NYC, even though it's only the people at the top of the hierarchy who win anything worthwhile
+		- From the story of the doorman, people want to explicitly let you know they're higher status than you
+		- Part of status games is letting your ego spiral out of control
+	- The Nanny Mafia - the obseession with status among nannies that drives their familieis crazy
+		- The families need nannies both practically (parents don't want to raise their kids) and status (we're so rich that we don't need to raise our kids ourselves, raising kids is for proles, and they have higher status in their kids eyes (parents don't need to listen to kids demands))
+		- the nannines are constantly on the phone with one another or talking when the kids they supervise hangout. ppl with too much spare time will default to status games for differentiation
+		- and they have intimate view into the lives of the rich, so they exert immense pressure to conform to their standards
+		- the nannies enforce conformity because they share desire the same status symbols. buy this carraige, this clothing, so others know we're of high status
+	- The Secret Vice - the fascination of elites with tailoring
+		- Wolfe emphasizes that these are 'big men' who care about marginal differences
+		- the shame they feel about these differences, you're not supposed to make it known that you care
+		- the game escalates though. after you leave harvard, turns out in your FT job there's even more differences you didn't know about, knew ways to distinguishing between who knows what's in and who doesn't
+		- the obsession of customizability is that you're wealthy enough to get something meant only for you. so the first way to distinguish is custom vs ready-made, then the different details within the custom
+		- he notes that men go through miniature detail changes while women's style changes are massively overt. what does that say about female status vs male status?
+- Purveryor of the public life - no one liked the guy bc his job was to write hit pieces. The *Confidential* is the first Gawker, except much more legit
+- Loverboy of the Bourgeoisie - highest TAM for actors comes from being the most relatable. the most popular actor is the one who people can imagine acting like them
+- Money shifting culture
+	- Kandy-Kolored Tangerine Flake Baby
+	- Last American Hero
+	- Las Vegas (What?)
+		- It's a caricature of America. Wolfe does not default to a shallow commentary on Vegas as a parody of capitalism where luck determines whether the American Dream comes true or not. A psychiatrist staffed at the mental ward outside the city describes it as a frontier town that attracts the aggressive, adventurous types needed to pave the way for the future. Quintessentially American; Las Vegas the new Wild West! But the inhabitants of Las Vegas are not exploring heretofore unknown lands. They test their luck not on the frontier but at tables and slot machines. Our love of taking chances has been manipulated, abused, and used to
+		-
+		- the gamblers are the king
+		- There's this idea of lost childhood which all these old people are trying to find
+		- Self-destructiveness
+		- Las Vegas as an 'aggressive' town
+		- the mental institution outside of LV
+		- your senses are always overloaded - the neverending bombardment of sounds, amphetamines, unlimited food, blaring lights, women walking around with their tits perked upwards like missile launchers and their gluteus maximus hanging out of their shorts. it would drive me crazy
+		- but you cannot look at this objectivey
+		- From the musicians chosen to perform in LV, is LV tapping into a longing for the past that always existed in old people or is it tapping into a different longing caused by a childhood stolen by the great depression and WW2?

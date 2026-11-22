@@ -1,0 +1,24 @@
+
+- It's increasingly easy to fall into historicist worldviews the way the e/acc and other forms of accelerationist thought have. Travelling has made me realize though that there are other ways of living, places in which peopel have chosen to reject parts of modernity, like a serious 9-5 and the bourgeois values (e.g parts of Brazil and much of Africa). So progress isn't inevitable, afterall this is why econ development is so hard
+- Another way to think of this is how culture changes overtime. Is there a difference? No, I think I'm trying to track what pushes change in culture.
+- Legal/Violence - Richard Hanania How We Became Woke. If we change the legal structure, which holds power because it threatens us with jail/fines/loss of income (ultimately this is violence broadly defined), then we can change people's actions and when a new generation is born, they'll be born into a 'new norm'. 
+	- How do we actually influence the legal system though? What are the boundaries of the legal systems power?
+		- E.g it;s clear sometimes that we can lobby the gov to get change that we want, but other times the government seems to be able to use its power to strike down companies
+- Bacterial - these rarely happen. Yes we had COVID recently, which was a big one, and in hindsight I should have thought more about the obvious stocks to play but also how life has changed post-covid. 
+- Climate - [[The Sovereign Individual Mastering the Transition to the Information Age]] talks about how temperature decreases in Europe in the 17th century destroyed enough crops and income that we saw revolutions across the continent
+- Technological. 
+	- Technology first changes our worldview by giving us new analogies to understand reality, introducing a technological way of thinking, [[Gestell]]. E.g the brain is a clock, the brain is a steam engine, the brain is a computer
+	- Technology second changes the wealth equation
+		-  When a new resource is discovered (e.g oil/gold) or a new transformer (e.g engine, semiconductor) or a new app-layer (taxis, software apps), we have a new group of wealthy people, sometimes they can buy their way into the upper-classes if they aren't already there, and their dollars begin exerting force on the rest of society.
+			- But i'm skeptical of fully financial change, if you don't control the legal system and the military + police, there are strong incentives for the legal class to use the armed forces to seize your wealth, or at the very least prevent you from actually posing a threat to their interests/beliefs (that is, if the new-wealth are even opposed in the first place. most of them likely are not)
+	- Technology changes the speed at which things happen. Knowledge transfer, knowledge capture, movement of goods and money, 
+- For me i think my role models started off as people in my HS (roy/josh) > in uni I discovered wolfe/thiel > now not sure. what changed was that the latter two showed a much stronger/cohesive worldview with greater explanatory power, and I believed that in following this worldview I would be able to best navigate the world
+- I think it's possible on a minority level to get a group of hardcore believers to buy into a new en-framing. But I'm skeptical that the masses have the willpower to think on a long-term enough vision OR to remain faithful to ideology such that without changing the material calculus, we can get people to buy into a new enframing. 
+- How do we get to the new world?
+	- First thing is for a tribe to exist on shared values
+		- 
+	- Second thing is for the tribe to acquire resources to exit
+		- How do we design a new system? Looking at the Amish, they're now being subsumed into mainstream culture because their culture was dependent on scarce resource, farming on land, which eventually runs out. There's only so many places you can go, returns to farming are actually quite low, and if you disperse hard enough likely you'll send your kids to public school because you lack the social pressure from being in a small space together to conform to the traditional value system (which is why being IRL is really important)
+	- materially, we need a new educational system, one that's much more focused and personalized
+	- we need to increase the economic returns for staying together in one place. 
+	- 

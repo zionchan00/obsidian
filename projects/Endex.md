@@ -1,0 +1,167 @@
+- Example company's
+	- Waverly Ai - checkout Michael yuan's stuff
+	- Hebbia Ai
+	- toggle.ai - public markets
+	- brightwave - silver lakes favourte
+	- Endex - checkout founders twitters
+- Research product
+	- What are areas where data is currently missing and we could capture this data + use it to make profitable investments?
+		-
+- What does the vision look like
+	- How workflows across different parts of finance right now
+		- What does
+	- The current business of investment banking
+		- There are pure-play EB's
+			- Their angle is they don't have conflict of interest during capital raising (e.g underprice ipo to appease investors), and they beleive that m&a is not a commdoity skill but capital raising is
+		-
+		- BB's
+	- The future of banking
+	  id:: e21e626f-f150-8287-a01d-86068df2fbf2
+		- Big value add.is the qulaitaive - udnersatnding the right story to tell about the ocmpany
+	- 0-2 years: queries + basic multi-step reasoning. From the buy-side
+		- How do we make the queries super good? Probably by having as many frameworks as possible, showing our users the explicit logic of each frameowrk, and allowing them to edit too
+	- 2-5 years: multi-step reasoning which can actually start moving towards automation of investing. At this point, sell-siders are all using our product and reach similar conclusions, and buy-siders likely begin cutting off revenue to the sell-side given our product can get them to up-to-date just as fast
+	- 5-10 year: become an automated investment firm. What alpha are you capturing that is different from exisitng automated trading algoirthms?
+-
+- What are the different audiences that exist?
+	- Fundamental Equities
+		- Pod-shops - citadel will have analysts cover closer to 30 names, p72 will have analysts cover closer to 100. 'overage is usually 30-100 depending on the model, if you’re updating every quarter and meeting mgmt each qtr and being long/short most of the names at any time - closer to 30 ([citadel](https://www.wallstreetoasis.com/company/citadel-investment-group)-ish). On those it’s not about maximizing “idea velocity” but rather you’re probably trying to get a certain amount of capital deployed (with a +ve return), which is determined by each names size/liquidity and factor exposures.  On teams where 1 analyst covers 100+ (P72-ish?) they’re probably building up to that over time and doing more skating to the puck and doing light/coverage of “back burner” subsectors and full coverage of various names and themes of the most interest - not updating 100 models w a 60% hit rate every quarter. These tend to be more “idea velocity” oriented I believe.'
+			- Initaiting coverage. Properly identifying competitors and comparing them across all of these is key. You need to always be able to know what the 'alternatives' are. What was the space of possible paths, and how does valuation change each time? I think this is key for the model https://www.wallstreetoasis.com/forum/hedge-fund/on-the-job-with-simple-as-my-research-process
+				- 10-k read through https://www.wallstreetoasis.com/forum/hedge-fund/anatomy-of-the-10-k#new
+					- Business description
+						- What is the revenue-split among different segments of the business? How has this revenue split  by product changed overtime, and explicitly breakout the growth rates of each segment too for comparison.  Is there geographic segmentation of the business? If so, then we have to make sure that we're aware of geo risk here. What does the firm say are the key risks here?
+					- Properties
+						- If it's a business where a significant value of the comapny coems from proeprties, then you want to see how this has changed overtime.
+					- Commitmetns/Contingencies/Liabilities
+						- Anything signfiicant here?
+					- Selected Financial Data
+						- Where is the delta between the numbers the biggest?
+					- MD&A
+						- Tie the changes in numbers in SFA to management explainations
+						- What does the management team believe to be the most important operating metrics to explain why they're doing well/not doing well? How does this differ from the management team so fother companies?
+						- Non-gaap
+					- Make a lsit of all the things you're confused by too. Pay attention to sentences where the same thing is said, but lsightly differently eahc time.
+				- Then combine this with 10-q review and earnings transcripts.
+			- Understand the current set of expectations around the stock
+				- Being able to showcase a full range of inputs in a slide and drop toggle format, such that you can understand how as margins go up the multipel changes, or depending on the revenue growth, you can see how the valuation changes
+				- E.g there's a hypothesis of a retail apocalypse, and this is why several malls were trading down. But 75% of the malls make up 10% of the industry value, and 25% make up 90% of the industry value. So ther are some-high quality malls and they're mostly concentrated among 5 big companies. Ok the market is assumign that their occupancy rates will decline then, but show me a model where they stay constant or actually grow a bit.
+			- Figure out the key drivers that will make the stock price change
+			- Expert networks/alt data on those drivers
+			- l/S/pass rec
+			- https://www.wallstreetoasis.com/forum/investment-banking/a-day-in-my-life-as-a-hedge-fund-equity-research-analyst - this make sme think you actually mgiht need an email synthesis tool to summarize all the notes sell-side analysts are giving you, and going multi-modal could be interesting
+			- Output everything as a pitch:
+				- Why is there a mispriicng opportunity?
+				- What would it take for the market to realize you rprice is right? HO wlong is it?
+				- How high conviciton are you on this? Upside vs downside
+		- l/s
+			- [Financial Statement Analysis](https://www.amazon.com/Financial-Statement-Analysis-Security-Valuation/dp/0073379662/ref=sr_1_2?s=books&ie=UTF8&qid=1382818300&sr=1-2&keywords=financial+statement+analysis+penman) 
+			- [Quality of Earnings](https://www.amazon.com/Quality-Earnings-Thornton-L-Oglove/dp/0684863758/ref=sr_1_1?s=books&ie=UTF8&qid=1382818442&sr=1-1&keywords=quality+of+earnings+by+thornton+o%27glove) 
+			- [Financial Shenanigans](https://www.amazon.com/Financial-Shenanigans-Accounting-Gimmicks-Reports/dp/0071703071/ref=sr_1_1?s=books&ie=UTF8&qid=1382818493&sr=1-1&keywords=financial+shenanigans) 
+			- [Creative Cash Flow Reporting](https://www.amazon.com/Creative-Cash-Flow-Reporting-Sustainable/dp/0471469181/ref=sr_1_1?s=books&ie=UTF8&qid=1382818547&sr=1-1&keywords=creative+cash+flow+reporting)
+		- long-only
+		- Sector considerations
+			- TMT
+			- Biotech
+			- re
+	- Fixed income
+		- Lewis Lipton
+	- Investment Banking
+	- private equity
+	- S&T (and buyside for these too)
+		- Equities/equity derivatives
+			- Harrison simunec
+		- commodities
+			- Harrison simunec'
+- What does the sales motion look like? Homework for me to figure out which kinds of investment classes to figure out first, what needs they have, and whether motion is top-down or vice versa or sandwich
+- What would the killer product features be? Suggest a few product features to Tarun to build and why they matter
+- PE
+	- The 5-10 year vision of the product should be that it can handle DD end-to-end, from CIM screening, to regularizing data from datarooms and analyzing it to see whether the data supports a good investment, to interviewing customers/clients and using whatever is learnt as part of the DD process, and concluding with an end investment recommendations. Where this product is most likely to be useful is actually at the lower-end of the market, because this is the part of the market that is most constrained by headcount relative to the universe of investable opportunities. In other words, the version of this product that creates and captures the most value is a version where it identifies investments that make tons of money, and they are investments which the firm otherwise would not have made.
+	- To get this stage, this likely requires innovation in model-agent architectures to allow for this long-term planning and reasoning. The interface obviously as to have great Ux, but I won't show what that Ux would look like as that isn't my area of expertise. I think the key differentiator is having a large enough # of frameworks in its head from past case studies such that the model can identify these investment opportunities and information is needed to confirm/disconfirm the company in front of it. Below is an end-to-end walkthrough of a due diligence process from the perspective of a fundamental-oriented equity investor (e.g CD&R or BCP, in contrast to an Apollo) and how I imagine a model could think through the opportunity
+	- It can read the CIM, see if it passes preliminary filters to fit the funds mandates and see if a call should happen
+		- Info that the CIM gives and examples of how the agent should think about it
+			- Transaction structure - if they're looking only for a minority investor and your fund is insistent on doing majority/control invesments, it's a no here and the analysis can end
+			- Size of the company - for larger private equity funds (e.g $1B+), there's a limit to how many investment professionals they can have, and these investment professionals can only manage so many companies at once. So there's a cap to how many investments you can make, and even if a company has a really small entry price and has the chance to return a high multiple, unless the end equity value is massive, it won't be enough for your fund to make money.
+				- I think there's variability on this, so it shouldn't be an absolute rule where as soon as the model sees a company would eatup $1m of a $100M fund, knows that the fund can do at most 10-15 companies, it says no. Rather it would run through different scenarios to see if it would be possible to get this deal to be a $30M size exit through rollups, in which case it could be a meaningful deal
+			- What is the company like?
+				- Product
+				- How much of the growth is organic vs paid? E.g if the company was previously owned by another investor, they likely grew the company through many acquisitions, employing a rollup strategy. If they're selling it to you, chances are they ran out of rollups! We'll have to figure out how optimistic we are about growth here on out
+				- Compare the organization structure to competitors through LinkedIn. If the company has way more s&m professionals, chances to cut down there as an example
+				- FCF Generation capability:
+				- Financials: revenue and EBITDA growth, margins, CapEx, cash flow generation, and an idea of the company's multiples relative to comparable company's and precedent transactions
+			- What is the industry structure like?
+				- If it's fragmented, then there's an opportunity for a rollup, but there's an open question of 'why no companies with significant market share have emerged yet', as this could indicate that the market does not support a monopoly of any sort
+					- The way to know this is to identify whether the industry has significant returns to scale. Airlines are a good example of this - their stocks don't do well because the industry by design cannot support high barriers to entry. There's always capital to support airplane leasing
+				- How interchangeable are our suppliers and buyers? If our suppliers are selling us a product which is core to our products functionality, likely as our company grows, they will increase prices to capture our profits
+			- Ok now that the agent has gone through the CIM, it can start hypothesizing what a potential investment would look like and what returns it could have, by pulling from its 'library' of exit scenarios
+				- E.g fragmented industry, rollup, exit at x-y multiple and earn this return by selling to this exit. Relevant data is that you have to look at precedent transactions or public comparables
+				-
+			-
+	- it then hops on the first round of dd, and is able to double-click deeper and and get the info necessary to gain trust and see if you can now enter a lengthier process by hopping on call with the bankers who run the process, or the company's management team.
+	- Then it's data-room time, in which case you want to be able to see
+		- Revenue analysis - low stakes, but this is something even julius i notice has problems
+		- Segment customers by how much of a % of your revenue is taken up by a signle customer
+		- Segment customers by # of customers depending on size of customer (large vs smb)
+		- segment revenue by products as a % of revenue
+		- do the above analysis for regions too
+		- cohorts analysis / split customers by time
+	- Cost analysis
+		- Benchmark costs vs peers (want anonymized data) to automatically suggest efficiencies/where things coudl be droppedh
+	- Then it's
+		- - CDD, as you mentioned is often undertaken by a consulting firm to evaluate the market and the target’s business
+
+	- FDD, hiring investigating accountants (big 4) to validate the financials of the company including adherence with [accounting policies](https://www.wallstreetoasis.com/resources/skills/accounting/accounting-policies). In addition, [NWC](https://www.wallstreetoasis.com/resources/skills/finance/what-is-net-working-capital) “peg” and net debt schedules are also calculated
+
+	- TDD, understanding tax liabilities of the target that you’ll inherit
+
+	- LDD, review of major contracts
+
+	- Structuring, optimizing how and the steps required to purchase the target (e.g. share [purchase vs asset purchase](https://www.wallstreetoasis.com/resources/skills/deals/asset-purchase-vs-stock-purchase))
+
+	- Technical DD (if applicable).
+	- Featuers the product should have
+		- Investment frameworks to identify opportunities
+			- Show them the example of long-feeding a text prompt to Claude with michael Platt
+			- What are some examples of how this could work in PE?
+				- Company-level theses
+					- What is the predictability of revenue?
+						- What is the length of a contract? How large are the contracts in magnitude?
+						- GTM - how is the product advertised, sold, and delivered? This impacts the length of the sales cycle and the unit economics of the product
+					-
+					- High FCF generaton/ebitda growth means that we can dividend recap
+					- SOTP analysis
+					- How does the business generate a dollar of revenue?
+					- How are the contracts typically structured? What is the average contract length? Magnitude? Margin?
+					- Describe the company's go-to-market strategy (how a company advertises, sells, and delivers a product)? Do you think it's effective?
+					- What is the customer attrition rate? Why do customers typically leave? How concentrated are the different customers?
+					- Who is the company's most important customer (or category of customers)? Supplier?
+					- Can you explain how (or draw out how) the company's supply chain works?
+					- What would you say is the company's main value proposition
+					- How does the company position itself from a pricing perspective?
+					- Walk me through the company's key products and services. What is the main use case of each?
+					- What is the company's approach to product development? Internal R&D vs. acquisitions
+					- - Walk me through the company's long-term financial forecast.
+					- How much of the company's revenue growth will come from organic vs. inorganic sources? Is revenue growth based on units or price increase?
+					- Discuss the profitability of the company's key business segments.
+					- What is the company's current gross and EBITDA margin? What do you view as the upside potential for these margins?
+					- What are the company's biggest contributors of costs?
+					- Can you walk me through the unit economics of the company's key product?
+					- What is the customer acquisition cost for the main product?
+					- Explain how the company manages its working capital (or cash conversion cycle)
+					- Do you think the company has an optimal capital structure? Explain your reason
+					- How much leverage does the company have? Can you give me a high level walk through of its outstanding debt?
+					- What is the company's typical capex spend? What is the high level breakdown between maintenance and growth capex?
+				- Industry-level theses
+					- Supply outpaced demand before so industry was at a bottom, but demand is growing and will continue to grow, and this is the best player to own in the segment
+					- Industry is fragmented in market share, there are strong returns to scale for these businesses, so a rollup is attractive here
+					- - What is the Total Addressable Market of the industry? What is the company's market share?
+	- How is the industry growing? What are the main industry tailwinds and headwinds impacting the company?
+	- Who is the company's biggest competitor? What are the relative strengths and weaknesses of the two companies?
+	- Are there any technological substitutes for your company's main services? What is the company doing to combat those substitutes?
+	- What would you do to run the company more profitably?
+	- How is the company's corporate decision making made? Are there any corporate governance changes you would make?
+	- What segments or geographies do you think the company should enter (or exit)?
+	- Are there any acquisitions or divestitures you think that the company should make?
+	- Are there any logical strategic or financial buyers for the company? If not, what is the company's path to liquidity or exit?
+		- Exit opportunities
+			-
+		- Risks

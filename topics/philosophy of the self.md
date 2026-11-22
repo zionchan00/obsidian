@@ -1,0 +1,4 @@
+- I think the biggest problem is that we don't have an idea of what a 'healthy' rate of change is going to be for young adults, and that as a result we aren't able to properly articulate how our desires should be
+	- it's already natural for young people to go through identity crises, but these are dramatically worsened in a digital world where there are strong incentives
+- There's no need of a historical account to make this argument either. All we simply have to say is that a time of increasing connectiveness, the power-law of life means that a few will do and the rest will imitate.
+- Social technologies such as IFS or Plato's tripartite theory of the soul

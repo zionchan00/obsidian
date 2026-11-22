@@ -1,0 +1,5 @@
+- ALready used tangerine credit on phone
+- Just linked BMO mastercard to chan.zion2000 email WITHOUT apple pay - can use apple pay to mask again
+- Still have tangerine debit
+- shawarma guys is best shawarma in london, already ordered it b4. get the chicken shawarma
+- zionchansilas@gmail.com is logged in on the PC with the amex attached to it via apple pay

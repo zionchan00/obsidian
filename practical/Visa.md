@@ -1,0 +1,9 @@
+- Need 3 of 8
+	- Press is a really good one, about you or your work
+	- Membership in a selective org (YC, on-deck)
+	- critical membership of a famous org (internships don't count)
+	- High compensation - in top 10% of your field, in your region. Can use salary, acquistions, bonuses, etc
+	- Judging - judged pitch competitions, hackathons, panels. Ideally these are large comeptitions w famous people on it before
+	- Scholarly Articles - opinion pieces on newspapers, journals, substack/medium doesn't count bc it has to be 'selected'
+	- Original contributions - made smth new/important in industry, could be algo/technique/tech, 
+- https://modfy.notion.site/O1-TLDR-4b3dee6fff4e401aa42c6d7ad2172cb3 30:00 minutes, I coudl freelance and do this

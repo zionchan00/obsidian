@@ -1,0 +1,13 @@
+
+- blood test
+	- everything is fine, except cholesterol, fairly high. and aso high triglycerides, likely from fried food
+- Inner side of left foot on the bone close to the foot, above the ankle, pressing down after running it hurts
+- Phone of nose place: jason xu, 4164995558
+- he said i have inflammation in my nose, something starting with r and there’s lots of it
+- might be rhinitis
+- cold sweaty hands feet is another rpoblem i have too
+- started using an air purifier dec 12, works very well
+- Also on. 12/20/2023, notiicng my temples hurt when i massage them, and amssaging them makies me salivate too
+- 12/27/2023. Feeling so shit during the day, did NOT tape last night but had the air purifier running. when i woke up my nose was clear, over the course of the day it got quite stuffy and my feet are insanely cold at 7 PM right now
+- Yellow sperm 02/12
+- [[Hair]]

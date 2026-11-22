@@ -1,0 +1,12 @@
+- Amex Platinum
+	- $699 annual fees
+	- $200 travel credit
+	- all inclusive travel insurance ($180)
+	- $1000 in points for spending $6k in first 3 months
+	- 1000 rewards + 200 travel credit + 180 travel insurance -699 = $681 profit
+	-
+- Amex Cobalt
+	- 181.86 annual fees
+	- $500 in points for spending $3k in first 3 months and $500 every month and $130 from gcr
+	- $ 448.41 in profit
+	-

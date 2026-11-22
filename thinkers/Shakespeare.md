@@ -1,0 +1,5 @@
+- Goddard on shakespeare
+- Shakespeare's Language
+- The Meaning of Shakespeare, Volume 2
+- Shakespearean Tragedy
+- A Natural Perspective: The Development of Shakespearean Comedy and Romance

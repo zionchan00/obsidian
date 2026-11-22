@@ -1,0 +1,17 @@
+- governments with this belief system which believe in it should in theory not have strong opinions on what is right or wrong in the personal sphere. People should be allowed to do what they want in the private sphere, akin to libertarianism, which is a more extreme version of classical liberalism
+	- The difference between classical liberalism and libertarianism is what they rose up in reaction to. Classical liberalism fights back against the church and religion, while libertarianism is fighting back against the state. It's even more funny then that Dawkins is dunking on religion when he's 300-400 years late: God is already dead, you're punching the wrong guy
+- The value is that you minimize conflict between different groups by not focusing on what they disagree on, and instead everyone should focus on getting really rich instead, because we've found that wealth is the most common desire. 
+	- There's a positive feedback loop, where in a society that focuses on getting rich, the values and decision-systems that are conducive to getting rich become more popular and more powerful. 
+		- Knowing a lot of languages, having a good idea of what problems there are to make money, having strong work ethic, being able to gain the trust of others and be a dependable person - these are generally traits that correlate with good genetics and good morals
+		- More wealth leads to better nutrition, which can unlock gains in intelligence and 
+	- Liberals talk a lot about 'human rights', which protect you, form a space around you, guaranteeing that you have the ability to do a certain thing. These rights are supposed to be enforced by the law. I wonder how human rights are different in conception from traditional protections in law
+- What do most citizens conflict over?
+	- Within a country, you might fight 1 on 1 with someone who has betrayed you or because of their belief systems (e.g Trump Hillary split in 2016)
+	- Group conflict: racial conflicts (only in the West, religious conflicts (liberalism solved this by allowing for freedom of worship), class split by wealth conflicts,  
+- What do countries fight over?
+	- Borders
+	- Material goods
+	- Security
+- But there are other ways to prevent conflicts. A country can be kept homogenous on the dimensions that tend to create the most conflict (like China) and focus on wealth-creation as a high priority for the state to achieve most of the gains of liberalism without its downsides
+- Books
+	- An intellectual history of liberalism -manent

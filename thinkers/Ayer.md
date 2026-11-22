@@ -1,0 +1,4 @@
+- Freedom and Morality and other Essays
+- Hume
+- Kant
+- Language, Truth and Logic

@@ -1,0 +1,14 @@
+- HT is going to LV for a car and bike show, Tom Wolfe connection
+- High trust society from him doing open drugs in the car, hitchhiking, and the car rental guy letting him leave with alcohol openly in the car
+- HT told the hitchhiker he's going to LV to look for the american dream
+- we don't know if the memories in the first 3 chapters are real or not bc of the drugs he's taken
+- pg 24-25. HT takes advantage of the drug to make hilarious comparisons
+- Pg 108. the pleasure that comes from getting the better of authority
+- pg 126-127. The American fear machine, the mechanism by which the status quo fights back
+- pg 145-150 captures the fear at that time in regards to drugs and serial killers
+- pg. 151. And who could blame the people for becoming increasingly paranoid?
+- pg. 155-156. Las Vegas is 'old society' in how protectionist it is, very efficient mechanisms for sorting out poeple who don't fit the mold. But contrast this to [[Kandy-Kolored Tangerine-Flake Streamline Baby]]'s telling of Las Vegas - it started with mob money, outlaw town. HT calls it a 'time machine to the late 50s'
+- Pg 164. "We're looking for the American Dream, and we were told it was somewhere in this area ... Well, we're here looking for it 'cause they sent us out here all the way from SF to look for it. That's why they gave us this white Cadillac, they figure that we could catch up with it in that"
+	- They were first sent to cover the Mint 400, then the attorney conference
+- Pg. 178-179. HT gives a take on why the counterculture failed. Studying history of Students for Democratic Society may be helpful
+- Pg 201-202. Drug of choice changed from psychadelics to downers in america. what does that say about the people. Consciusness expansion was out with LBJ, downers were in with Nixon

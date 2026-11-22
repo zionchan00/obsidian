@@ -1,0 +1,11 @@
+- Prolegomena to Any Future Metaphysics
+- Critique of Pure Reason
+- Critique of Practical Reason
+- [[Critique of Judgement]]
+- Groundwork for a metaphysics of morals #political
+- Universal Natural History
+- Religion within the Limits of Reason
+- Argument for God
+- Perpetual Peace #political trans. Ted Humphrey
+- What is enlightenment? #political
+- Kant and the Platypus

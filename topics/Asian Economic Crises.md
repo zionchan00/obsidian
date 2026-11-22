@@ -1,0 +1,1 @@
+- https://escholarship.org/content/qt58c6v2kx/qt58c6v2kx.pdf pg 13 onwards talks about it +. real estate bubble

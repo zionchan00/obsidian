@@ -1,0 +1,13 @@
+- 230a. Socrates says he has to examine himself and see if he is like an animal filled with desire like Typhon before he examines the veraicty of the myths
+- Phaedrus speech that we should prefer non-lvoers to lovers
+	- 232a non-lovers pick what's best, lovers love honor
+	- 232c lovers fear those who are greater out of jealousy, and deprive their beloveds of the company of those who are well-endowedThe inability of lovers to make clear decisions
+- 235b. Socrates says he can't agree w Phaedrus' view that Lysias' speech was GOATED, for ancients would dsiagree
+- 236c. Since Socrates is the lover of speeches, I wonder what his irrationality is
+- 237a. What does Socrates mean when he says he'll veil himself when he speaks bc he feels a sense of shame when he sees Phaedrus?
+- 237b. Socrates says his speech will make Lysias seem even more wise
+- 237d. But love was never defined, and nor its power
+- 238a. why does socrates here say opinion is needed for moderation? 
+- 238b. What is not said?
+- 238c. Socrates 'So then, the desire without reason which masters the opinion striving toward what's correct and is led toward the pleasure of beauty, and which,in turn mightily gaining strength from desires that are akin to itself toward the beauty of bodies, conquers in its leading, taking its name from this very might, is called [[love]]'
+- 

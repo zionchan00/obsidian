@@ -1,0 +1,9 @@
+- Zweig, World of Yesterday
+- Fin-de-siecle Vienna
+- Wittgenstein's Vienna
+- Vienna Circle Influences
+	- Positivism and empiricism: Hume, Enlightenment, Comte, J. S. Mill, Richard Avenarius, Mach
+	- Foundations, aims and methods of empirical science (hypotheses in physics, geometry, etc.): Helmholtz, Riemann, Mach, Poincaré, Enriques, Duhem, Boltzmann, Einstein.
+	- Logistic and its application to reality: Leibniz, Peano, Frege, Schröder, Russell, Whitehead, Wittgenstein.
+	- Axiomatics: Pasch, Peano,Vailati, Pieri, Hilbert.
+	- Hedonism and positivist sociology: Epicurus, Hume, Bentham, J. S. Mill, Comte, Feuerbach, Marx, Spencer, Müller-Lyer, Popper-Lynkeus, Carl Menger (the elder)

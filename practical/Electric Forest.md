@@ -1,0 +1,3 @@
+Car rental filter
+- https://turo.com/ca/en/search?defaultZoomLevel=11&delivery=true&deliveryLocationType=airport&endDate=06%2F27%2F2022&endTime=11%3A00&isMapSearch=false&itemsPerPage=200&latitude=42.21617&location=DTW%20-%20Detroit%20Metropolitan%20Wayne%20County%20Airport&locationType=AIRPORT&longitude=-83.35538&placeId=ChIJBbPw2l1PO4gR-5i_Jc_AQSM&sortType=RELEVANCE&startDate=06%2F23%2F2022&startTime=10%3A00&type=9&useDefaultMaximumDistance=true
+- Book a uhaul van

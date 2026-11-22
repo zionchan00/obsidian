@@ -1,0 +1,1 @@
+https://www.theintrinsicperspective.com/p/bits-in-bits-out

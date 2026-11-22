@@ -1,0 +1,3 @@
+- What are people for by Wendell Berry
+- Christopher Alexander
+- The Unsettling of America: Culture and Agriculture

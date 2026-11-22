@@ -1,0 +1,2 @@
+- So key question for any data labeller is: how can you build quality synthetics at scale (bc customers want scale) and how do you prevent reward hacking/design novel RL envirnoments (Quality)
+- What about greypoint? Hwo would you decide whether to place a bet on this company?

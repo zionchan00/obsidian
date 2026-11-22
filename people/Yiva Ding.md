@@ -1,0 +1,8 @@
+- OSG student ID - 15111
+- 1.75 hours
+- Eva Ding, 
+- Paris
+- Vp of Penn fashion collective
+- First exposed to finance through consulting club by helping impact investing opp get exposure to investing opp. got time management skills and finance skills
+- was then summer analyst at a private equity. 
+- culture, type of work, suits **

@@ -1,0 +1,1 @@
+- https://en.m.wikipedia.org/wiki/Avatamsaka_Sutra recommended this as a way to understand that it's psosible to live without language

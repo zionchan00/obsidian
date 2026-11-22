@@ -1,0 +1,11 @@
+
+- The state is
+	- 'in the decisive case the ultimate authority.'
+	- 'In its literal sense and in its historical appearance the state is a specific entity of a people'
+	- 'is the political status of an organized people in an enclosed territorial unit.'
+- The state as it relates to society, we move away from the universal state to the total state. What is the best way for the political to relate to culture, religion, art, economics, etc?
+	- Democracy must do away with all the typical distinctions and depoliticaliza- tions characteristic of the liberal nineteenth century, also with those corresponding to the nineteenth-century antitheses and divisions pertaining to the state-society (= political against social) contrast, namely the following, among numerous other thoroughly polemical and thereby again political antitheses:
+		- religious/cultural/economic/legal/scientific vs political. See Burckhardt, Reflections on History fo rthis
+	- Schmitt wants these domains to be independent, not necessarily related, and definitely not causal
+	- But he believes the 'inherently objective nature and autonomy of the political be- comes evident by virtue of its being able to treat, distinguish, and comprehend the friend-enemy antithesis independently of other antitheses'
+		- 'Emotionally the enemy is easily treated as being evil and ugly, because every distinction, most of all the political, as the strongest and most intense of the distinctions and categorizations, draws upon other distinctions for support. This does not alter the autonomy of such distinctions. Consequently, the reverse is also true: the morally evil, aesthetically ugly or economically damaging need not necessarily be the enemy; the morally good, aesthetically beautiful, and economically profitable need not necessarily become the friend in the specifically political sense of the word'

@@ -1,0 +1,39 @@
+- Based on Jack Keruoac's life from 1947-1950, On the Road
+- Mental model for literary analysis:
+	- How is the environment described?
+	- How do the characters speak? What words do they use to express themselves? What does that tell us about them?
+- Sal
+- Dean Moriarty
+- The lifestyle they lived and the values it represented:
+- "I shambled after as I've been doing all my life after people who interest me, because the only people for me are the mad ones, the ones who are mad to live, mad to talk, mad to be saved, desirous of everything at the same time, the ones who never yawn or say a commonplace thing, but burn, burn, burn like fabulous yellow roman candles exploding like spiders across the stars" pg. 7
+- Trying to understand where we get our beliefs from *exactly* is a difficult task. This becomes much harder concerning what is 'fun' and 'how to be happy' - isn't fun when you turn off your brain and 'live in the movement', 'experience' life?
+- The exemption of questioning how to enjoy life, and to a second-order what the best life is means the many rely on conventional belief-systems to give them the answers. To understand what most people believe are the 'right' answers to the most important questions, we must search for the origins of these answers back in time.
+- It is out of this search that I began my studies of post-war American culture. Written in the late 40's, *On the Road* details the years the author and his friends spent taking the bus, driving, and hitchhiking back and forth across America, from New York to San Fran. Since no one has invented time travel yet, this is as close as I get
+- In post-war American people are **extremely** trusting. A wealthy man is willing to let Keruoac and his best friend, Dean Moriarty, drive across multiple states in an expensive limousine that he owns with the only connection for trust being Keruoac's ID.
+- At it's core what is On the Road
+	- What does Dean represent? In Keruoac's eyes, Dean is the Western man reincarnate, the modern cowboy, a model for the new generation. He's always looking towards the future, he's free-spirited, unafraid of the unknown and has a love for exploration. He has no constraints; if he wants something, he will take it. Cars, girls, anything, no restraint at all. He captivates those around him because of how little he restrains himself, which creates the feeling that he must be superior, he's them but more extreme. In reality Dean is not a free man. He's a complete slave to his impulses, who's constant changing leads him travelling across the country in search of something. He doesn't know what form this something is but it always eludes him. If On the Road represents the beginin
+	- ng of the counterculture movement, then the movement was doomed from the beginning. Keruoac himself notes this; this is not an optimistic book, a happy tale. Littered throughout the journey are bits of sadness and disappointment regarding his time on the road, the feeling that it wasn't as succesful as he thought it'd be. In Dean we learn that freedom is an evil when pursued for its own end - the freedom to do what?
+	- Despite his initial reason for travelling being a love of the countryside, much of the time spent on the road is listening to Dean talking
+- Footnote. Most readers look at the hitchhiking and would comment that the decline of hitchhiking is representative of our society being low trust. I don't disagree that our culture has declined in trust since the 50s, but I imagine that  increased car ownership and better alternatives to travelling by car have probably decreased the number of people who hitchhike more than anything else. In a world without these factors, even with increased media coverage + consumability, I imagine hitchhiking would do better thanks to how common it would be
+- "But Dean's intelligence was every bit as formal and shining and complete, without the tedious intellectualness. And his 'criminality' was not something that sulked and sneered; it was a wild yea-saying overburst of American joy; it was Western, the west wind, an ode from the Plains, something new, long prophesied, long a-coming (he only stole cars for joy rides)" pg 9
+- "Somewhere along the line I knew there'd be girls, visions, everything, somewhere along the line the pearl would be handed to me" pg. 10
+- listen to: https://www.youtube.com/watch?v=mPxcpRbL5mk
+- "For a moment it was nod ifferent from being in Newark, except for the great hugeness outside that I loved so much. I rued the way I had broken up the purity of my entire trip, not saving every dime, and dawdling and not really making time, foolnig around with this sullen girl and spending all my money. It made me sick./" pg. 32
+- "Chad had decided not to be Dean's friend any more, for some odd reason, and he didn't even know where he lived." pg. 34
+- "Dean, who had the tremendous energy of a new kind of American saint: pg. 35
+- "I wanted to go and get RIta again and tell her a lo tmore things, and really make love to her this time, adn calm her fearsa bout men. Boys and girls in AMerica have such a sad time together; sophistication demands that they submit to sex immediately without proper prelimary talk. Not courting talk - real straight tlak bout souls, for life is holy and every moment is preicous". pg. 51
+- "Why don't you lay off? Why do you have to steal all the time? ''The world owes me a few things, that's all'. pg.62
+- "Guitars tinkled. Terry and I gazed at the stars together and kissed, '*Manana,*', she said.  'Everything'll be all right tomorrow, don't you think, Sal-honey, man!'. 'Sure, baby, *manana.'*. It was always *manana*, For the next week that was all I heard - *manana*, a lovely word and one that probably means heaven. pg.85
+- I don't know about you, but if there's one thing I now believe after putting my thoughts together, I think *manana* actually means hell.
+- Pg 86-87. native fam who picked cotton who Kerouac describes as having pride of their tent. That's because they worked for it
+- 'I was through with my chores in the cottonfield. I could feel the pull of my own life calling me back. I shot my aunt a penny postcard across the land and asked for another fifty.'  pg.85
+- "It was a completely meaningless set of circumstances that made Dean come, and similarly I went off with him for no reason." pg. 105
+- There are times where Kerouac is very percpetive of his situation. "I had nothing to offer anybody except my own confusion" pg. 113
+- pg. 117. even carlo marx realized their lifestyle wass
+- pg. 154 deans selfishness
+- The role the music played:
+	- pg. 115-116
+- The cities of America.
+	- pg. 71
+	- pg. 77-78
+	- pg.97 time square

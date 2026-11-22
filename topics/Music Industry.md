@@ -1,0 +1,76 @@
+- Problems
+	- For Artists
+		- Artists find it problematic that the majority of their revenue comes from live performances because it pushes them onto a grueling live schedule.
+		- There's always more money to be made. How revenue is earned right now
+			- Music sold via life performances
+				- majority of revenue is from here. You want streams to have max distribution so you can maximize # of people who see your liv eperforamnces
+			- Music sold via streaming
+				- Tradeoff between $ earned from exclusivity of listening vs $ earned from a new person going to your live performance
+				- Can't ban YouTube, radio stations, from playing songs bc of statutory licenses that let them play music w/o licenses
+			- Non-music goods such as physical merchandise, access to the musician
+		- Music matching is suboptimal for the artist but the pain isn't actively felt by the consumer
+		- "Many songs go entirely unheard with 90% of streams going to the top 1% of artists" - sound.xyz blog https://sound.mirror.xyz/eVCYxQEZQxHhZVkGqgvvFTSYjzxmyEfC2WPIwnIZEXE
+		- Every time a song is heard, the creator realizes very little value from their work - sound.xyz blog https://sound.mirror.xyz/eVCYxQEZQxHhZVkGqgvvFTSYjzxmyEfC2WPIwnIZEXE
+		- Prefernece of the old way of discovering music (blogs/RSS feed/'organic') vs new algorithmic discovery https://gigamesh.mirror.xyz/0pkjLXlM3qaOwrQcsquaOXlcLo6IvfFvbUAGxLuVEAI
+		- Spotify/soundcloud don't allow for fans to contribute extra money other than streaming
+		- "There’s a clear incentive mismatch for the platform, artist, and fan’s best interests. The platform’s goal is to increase the total number of users overall and listeners are nudged towards listening to only the most popular artists." https://sound.mirror.xyz/eVCYxQEZQxHhZVkGqgvvFTSYjzxmyEfC2WPIwnIZEXE.
+- What do artists want?
+	- To make money
+	- To create amazing art
+- What do consumers want?
+- Interesting startups
+	- The Sound.XYZ approach
+		- They said they were founded with two main objects create tools that put artists in control AND make music patronage more fun
+		- Features they said they ship in Dec 2021.
+			- A communal listening experience that makes Listening Parties feel even more like a synchronous social experience, taking inspiration from the holy grail of music experiences: concerts.
+			- A model that allows music curators to add value and monetize their ability to discover emerging artists.
+			- A crowdfunding feature that allows artists to raise funds from their communities for upcoming projects (i.e. albums, music videos)
+			- A better artist onboarding experience so we can sustainably grow our community from an initial cohort of genesis artists to millions of artists around the world.
+		- Begin with listening parties, then move onto other things
+			- utting out a new track should be an event, not an afterthought. Sound gives artists the chance to debut new music as a series of limited edition NFTs of the song. Each is numbered uniquely, so listeners can showcase their early support.
+			- Importantly, NFT editions enable artists to include more of their community but still maintain scarcity, versus 1/1s that can only have one winner. Since early editions are considered more valuable than later editions, backers are incentivized to discover new music early. They also benefit from publicizing their participation, drawing more interest around the artist and bringing back serendipity to discovering new music.
+		- Own the Moment
+			- Each Sound NFT is more than just the song. Owning a song’s NFT grants the backer the chance to make a public comment on the song — let the world know what you think! Sell your NFT, and your comment disappears, getting replaced by the new owner. Show off the Sound NFTs you’ve collected and prove you were a fan from way back in the day.
+		- Have Fun Being A Backer
+			- Supporting artists should feel fun, so we did something special. Every song has a “golden egg” hidden on a randomly selected timestamp in the song. If you leave your comment where the golden egg is located, your NFT gets upgraded to a 1/1 edition with unique artwork chosen by the artist.
+			- There’s only one golden egg per song, and the winner is revealed when the song sells out.
+		- Create a culture
+			- In addition to owning the song and etching your name in its history, Sound NFTs are your access pass to the Sound community on Discord where artists and listeners interact with each other through weekly hangouts, collaborative projects, and more.
+		- Planned features, jan 3 2022
+			- The ability to define song credits and surfacing this information in the NFT metadata
+			  Splitting revenue among collaborators
+			  User-led curation and onboarding of new artists
+			  A page for song supporters to showcase their catalog
+			  Native support for collaborations, albums, and playlists
+			  An iframe song embed widget
+	- Catalog approach
+- Daniel Ek's comments on why you want music to be free/cheap
+	-
+- Nederlander & Awakening with successful drive-ins, Shelter Music Group doing paid live streams, Silverback Music investing more in their merch business) not to mention the fact that Underoath generated over half a million dollars through their live streams via ticket sales and through strategic merch sales during the stream!
+- I like the Only Fans analogy. Porn, nudes, etc are so commodified, yet individual creators can still command income bc humans are unique. But with sexual content moreso than any other content, the feeling of being desired by the one you desire is ever more impactful. hence there's a higher propensity to pay for fan <> creator interaction. OnlyFans is selling being desired
+- The reading between the lines is that the experience artists complain about is mostly only true if you aren't one of the artists that have made it. Is this different from the startup founder w/o vc-funding who is angry about their failing startup not providing them a livable wage? I think the real source of outrage is the idea that art is inherently very valuable and society should recognize that artists are very valuable, that artists are very important, and should be paid wages which reflect that. The real anger is that for most people increased music consumption does not translate fully to increased listening time. Many people are playing music simply as background noise, not paying attention to the details and hence not forming real connections with the artists. Throughout time there have always been artists good enough to demand active listening and those artists to this day get it.
+- Let's take a look at the list of grievances brought forth in a Fuxwithit blogpost featuring many big names from the less-mainstream parts of the music scene. https://fuxwithit.com/2020/11/12/the-music-industry-is-broken-how-do-we-fix-it/
+	- "Those at the top rake in millions while artists often struggle to get by"
+	- "Music doesn’t sell like it used to and streaming services are paying artists a fraction of a penny per stream."
+		- Do streaming payouts change with artist success? What were musician revenue streams in the pre-streaming world like?
+	- "Live events and touring were the main source of income for artists of various sizes until the pandemic hit"
+		- Compare touring schedules of artists across different tiers of success
+	- Cherie Hu
+		- Artists suffering physically/mentally
+	- Clayton Baha
+		- Record labels make too much money > people are being fucked over
+	- Harrison Bennett
+		- "Get rid of every A&R and music supervisor that’s been responsible for working this plague of dance music cover songs. That’s the industry serving the industry, and devaluing music in the process. That’s what’s broken. It’s why we’re in a place where solid touring acts that have actual fanbases can’t make sustainable streaming money and are hurting right now." - Poor music quality
+		- ![image.png](../assets/image_1648262226992_0.png)
+		- Reflect the real world of music fans? When I look at the top radio songs, they seem to reflect very well the popular music tastes. I do agree that live events matter very very much bc artists can express themselves along more variables (stage design, effects, etc) and therefore differentiate themselves from one another further
+	- Henry Lu
+		- ![image.png](../assets/image_1648262524071_0.png)
+	- Mouna Dif Pacherie
+		- ![image.png](../assets/image_1648262609757_0.png)
+			- This take I like the most. The problem with constantly touring is that your production quality inevitably drops off. Touring is great, but we can't do it all the time. If you're a good act like ODESZA you'll be able to take a hiatus, come back, and sell out shows instantly though.
+	- RAC
+		- ![image.png](../assets/image_1648262910000_0.png)
+	- Wylie Cable
+		- ![image.png](../assets/image_1648262895709_0.png)
+- COmmon misperceptions
+	- 'Crypto music is price-gated'. Naw by virtue of being on the blockchian, anyone can listne to it right? Like this eporm track https://beta.catalog.works/eprom/how-u-make-me-feel

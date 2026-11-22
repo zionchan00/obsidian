@@ -1,0 +1,5 @@
+- [[bayesian brain]] ]
+- [[free energy principle]]
+- [Key Papers](https://www.fil.ion.ucl.ac.uk/~karl/#_Free-energy_principle)
+- https://www.youtube.com/watch?v=5PHzLvvhj4I
+- https://www.youtube.com/watch?v=T711im7ZgmU

@@ -1,0 +1,2 @@
+- I just got off call with a guy today who, to be frank, might be biologicalyl screwed.
+- 

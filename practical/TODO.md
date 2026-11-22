@@ -1,0 +1,77 @@
+- Big pages to check
+	- [[Current Quarter]]
+	- [[Reflections from Previous Quarters]]
+	- [[Weaknesses]]
+- Counter
+	- Writing
+		- How many words did I write today?
+		- How many words did I delete during the editing phase?
+		- How many words did I write over the past week? Reset every Sunday
+		- How many words did I wrote over the past month
+	- Emailing
+		- How many emails did I send today?
+	- Lifts
+	- What did I learn?q
+	- What did I create today?
+	- x
+- Next 2 weeks plan
+	- Start a 'podcast' where I interview founders and executives on how they operate. There's no one place with consistent alpha or insight in this case. Like I don't care a lot about the founding journey or company pivots, it's moreso organizational design that is of real interest to me.
+	- This way it's a greater ask, and the smaller ask of 'let's do a convo' seems bette
+- My goal for the 2 months
+	- I have a reading list for Q2 24 that I want to get through
+		- [[Q2 24 Reading List]]
+- Projects
+	- Home design on Sketchup
+	- [[The Future of Computing]]
+	- Interface Design
+	- New Social Media
+	- Real Estate Research
+	- Understanding Economic Development
+	- Information Theory
+	- Finish my book reviews
+	- New social media app that analyzes your goodreads/letterbox/spotify > paris you up
+	- What books am I reading right now
+		- Chaos Monkeys
+	- Investment research
+		- [[AI]]
+		- [[Nuclear thesis]]
+			- My initial idea was that you could do sourcing as a service with LLM's. Cold calling
+				- First order - you can automate cold-calling but you want to keep a repository of all the calls that are done. You then move on to becoming a marketplace of deals, and you can offer those deals by using AI to sort and classify the tag (which it should be goo dat because it's really good at sourcing, as Harmonic shows), and you become an online marketplace basically for businesses. 
+					- why hasn't this happened before? how does sourcing really happen at these LMM invesment banks?
+					- 
+	- In hindisght an AI for finance company
+		- Automating large-cap work
+			- deliverable creation
+	- Founding a company
+		- Lessons from Endex
+			- What keeps a young company together is
+				- Vision - moral (you're doing work which no one else will do, or our team will do it better than others, the work we accomplish will matter because it saves lives or improves lives of many people), monetary (we're targeting a large market which'll make a lot of money)
+				- Traction - the obvious feedback from the market validates peoples feelings for success, but it also creates meaning - somebody wants what you're making, it excites the brain with new information from feedback, and it ties people in financially to stay at the company, even if there's trouble
+				- Friendship - The stereotypical answer is 'I want to work here because these are the best people that I know'. Digging deeper, best on what axis?
+					- Facts - if everyone around you is young, the knowledge gap between you is likely quite low, because the odds that someone has actually accumulated more expertise on a topic than you in the same lifespan is low. Even if they have, you're likely so busy executing that it's hard to learn by osmosis, because you're all taking on such wide scope of responsibilities that everyone ends up being isolated around you. your exposure to them is likely at a framework level from meetings, where you can see the way people make decisions and work backwards from them into their principles for operating. the odds that someone your age has actually developed better principles is really low, but if they have, that's actually a big advantage, because once employees join a startup they often get into 'executing' mode
+					- Signalling value - someone can 'feel' smarter than you, and you hanging out with them by association makes you think higher of yourself. You can point to their previous backgrounds to others, or if you feel generally outclassed by them in some way, that makes you feel in awe of them
+					- Values - working at a startup is such a roller coaster up and down that you'll inevitably 'trauma bond' with the people around you. The raw number of hours between the employees means they begin implicitly expecting transparency between them on all topics, and they'll also lean on one another both in and out of work.
+						- The problem is that it's easy for one or a few of the employees to accrue power overtime, and become the 'leader' of the employees, by doing a better job than the founder. Founders should try to fast-promote these people so that they're no longer an 'employee' and are now 'c-suite' to widen the gap between this employee and the rest of the crew.
+						- When I think about my time at Endex, I think the people demonstrated good moral character and reliability, which made me want to trust them outside of work too. they also had interesting personalities and authenticity that made me feel liek they were real people. 
+			- you need to form a delta between 
+				- founders earns the right to keep massive amounts of equity for
+					- founding/early-stage: 
+						- recruiting: you bring the team together, so you know every individual team member best. you decide what the 
+						- capital: you maintain the relationship with investors, updating them regularly on what's going on with the company and ensuring that they're going to follow-on invest
+						- product: you've talked to customers the longest, so you have the strongest understanding of what the team has to build in comparison to everyone else. you can also work backwards and understand what has to be done in order to build this product
+						- feedback: you prove some delta exists between you and the rest of the team members on these metrics, so that you earn the right to continue being their leaderO
+
+					- growth-stage:
+						- as the company grows, the things which people can say are 'directly attributable to you' decrease overtime. what keeps you as the CEO is
+							- figuring out what the next stage of growth for the product is, what new markets there are to unlock
+							- setting targets for headcount correctly
+							- continuing to talk to investors
+							- because people don't know you peresonally as much, you earn the right to lead by managing your reports well. 
+								- give them feedback that is accurate, well-explained, and original. it's unlikely you can be a better domain expert than any of the executives you hire, but you can try to give feedback from different org perspectives which they might not have considered, or you can try to give feedback from a temporal perspective.
+			- C-suite know the least in the company
+				- The power asymmetry between executives and employees from the first having the ability to fire the second means
+					- employees will avoid asking hard questions and rather leave the company 
+					- There exists a preference cascade also, where employees are watching for what one another will do. You can't prevent them from having spaces outside the company, so if there's any discontent, it'll eventually be voiced. 
+			- 
+			- Trust and transparency makes or breaks a company.
+				- You want to be maximally transaprent because if you aren;t, durign critical tiems when you have tyo be less transaprent, peopel will assume the worst.Also becasue of the pweor asymmetry that exists, poeple will defaul tot the worse

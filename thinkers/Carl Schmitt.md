@@ -1,0 +1,1 @@
+https://juengertranslationproject.substack.com/p/the-political-theory-of-myth-carl

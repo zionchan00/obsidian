@@ -1,0 +1,7 @@
+- energy shortage
+	- Moldova 100% dependent on Russia for gas > russia demanding 2x price >asking EU for help but EU also scared of gas shortage
+	- magensium shortage in EU from china cutting production due to rising energy costs
+	- What is causing the energy shortage?
+- Disintegrating EU
+	- Financial: German central bank is opposed to expanding money supply policies from EU
+	- Political: Poland constitutional issue

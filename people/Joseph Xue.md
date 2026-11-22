@@ -1,0 +1,4 @@
+- 1 boutique internship from US
+- technical mentor is: evan
+- behavioural mentor is: xavier
+- 

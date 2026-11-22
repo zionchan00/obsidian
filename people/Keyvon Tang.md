@@ -1,0 +1,5 @@
+- TD security superday customer retail/healthcare/power-utilities/fig, next wednesday, nomura greentech first round 
+- No behavioural mentor right now, can take over for him Keyvon
+- TMAY
+	- double major in finance and sustinable biz
+	- see the story what

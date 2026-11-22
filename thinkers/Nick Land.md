@@ -1,0 +1,6 @@
+- He read Sean Caroll on entropy and time
+- Mou Zongsan he says has the potentialt o be the most important intellectual, given the rise of China
+- To reread from Xenosystems
+	- Teleology and camoflauge
+	- Right on the Money #2
+	- Gnon-Theology and Time (and all Gnon threads)

@@ -1,0 +1,5 @@
+- Mission statement: She wants impact, and capital is really effective at doing this
+- F1, soccer, zk-proofs
+- TMAY
+	- WITC in renewable energy company
+	- 

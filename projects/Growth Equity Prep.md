@@ -1,0 +1,32 @@
+- Growth equity investing mindset
+	- Valuation
+		- Can revenue growth beat valuation compression from revenue slowing down overtime?
+		- ![[Pasted image 20230416124254.png]]
+		- ![[Pasted image 20230416124306.png]]
+		- ![[Pasted image 20230416124328.png]]
+		- DCF: hard to justify perpetual growth rate
+		- Do not assume entry and exit multiple is same
+- Learning how to do a market thesis/find companies
+	- look at the range of check sizes that a fund does to find target valuations and company sizes![[Pasted image 20230416125319.png]]
+- Cold calling
+	- cold calling question casual talk - what makes a good lead (market, biz model, management, and fit for our invesmtent fund (abiility to win, size, industry focus), how to introduce our firm, how to prepare for a cold call, how to intro yourself on a cold call, how woudl you overcome objectiosn ona. cold call
+	- Looking for attitude (show you want to do it, talk about why you're excited, talk about past experience/success relevant) , ability to learn, judgement, communicaitonskill
+	- Goal on first call is not to win the deal on the call right now, your goal is to figure out whether the company is a good fit for you. Financial (revenue/growth/profitability/metrics(LTV,CaC,retention,NRR)), fudraiisng (last fundraise, criteria for new investosr, next fundraise), learn about the biz (e.g growth opps, channels, etc). Try to learn as much of this as possible beforehand
+	- Prep process
+		- Research firm: look on firms website for typical deal size/sructure, financial profiles and industries and geographies, how we add value, firms founding story, 1-2 relevant portcos to the call 
+		- Pitch firm: size/office location/hq, invetsment params, foudning story, track record/value add
+	- ![[Pasted image 20230416123404.png]]
+- modelling
+- Metrics
+	- LTV/CAC
+		- If you try to raise ARPU (price) you will naturally increase churn. If you try to grow faster by spending more on marketing, your SAC will rise (assuming a finite amount of opportunities to buy customers, which is true). Churn may rise also, as a more aggressive program will likely capture customers of a lower quality. As another example, if you beef up customer service to improve churn, you directly impact future costs, and therefore deteriorate the potential cash flow contribution. Ironically, many company presentations show all metrics improving as you head into the future. This is unlikely to play out in reality.
+	- ARR
+	- Runway
+		- MAU/DAU
+		- Sales Funnel
+		- SEO
+		- uyer and selel rwhat would you ask to determine if a deal is good?
+- 2 comapnies in software industr,y trade at diff multoples, why?
+- can you talk about a tech company or deal you followed over the past summer? what trend drove tha company or deal?
+- three tech companies: salesforce, apple, software starutp, how to rank gross margin and ebitda margin
+- 

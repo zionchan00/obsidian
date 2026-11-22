@@ -1,0 +1,27 @@
+- First principles of the goals of conceptual knowledge (remember he's concerned with internal language, not external, so subjectivity is ok is how he worms around 'objectivity')
+	- Creativity of language parallel from generative syntax to conceptual knowledge
+		- Generative syntax proves creativity of language (very large # of sentences can be created even tho we never heard of them means we have a finite set of primitives and a finite set of rules that create the set of all possible sentences, all possible 'syntatic structures')
+		- These syntactic structures are created to produce concepts. Hence set of concepts is also v large, and whatever theory we have of conceptual knowledge has to explain why/how
+			- Author says we have finite set of (mental primitives + finite set of principles) = grammar of sentential concepts
+		- 
+		- sentential concepts are made of lexical concepts. But even lexical concepts are subject to the 'creativity' argument which generative syntax and conceptual knowledge experience. author says that a 'finite schemas' are compared to new inputs to categorize lexical concepts
+	- Grammar acquisition from generative syntax is parallel to concept acquisition in both sentential (sentence) and lexical (word) domains
+		- In generative syntax we believe in universal grammar, in conceptual knowledge have to discover the innate grammar of sentential concepts
+		- lexical concepts have to be constructed from a list of innate possible concepts, primitives,  in light of the large # of concepts we can learn w little evidence (justice, belief, prosaic, what evidence is there behind these words>) + impossible to keep list of lexical concepts so there has to be creativity
+			- but given list of lexical concepts is near infinite, there has to be a 'creativity argument' for lexical concepts being decomposed into primitives + principles of combinations = grammar of lexical concepts
+	- So both generative syntax and conceptual knowledge share same mission: finding principles of combinations and primitives
+- 3 models for the description of meaning
+	- difference in how meaning is considered in mdoel-theoretric vs conceptual semantics. I don't get the below
+		- As stressed in section 2, the purpose of generative grammar has always been to explicate I-language, the principles internalized by speakers that constitute knowledge of a language. A typical statement of generative linguistic theory, say ’Sentence S is grammatical in Language L because of Principle P’, is taken to be shorthand for a psychological claim, roughly ‘A speaker of Language L treats Sentence S as grammatical because his knowledge of Language L includes Principle I”, subject to the usual caveats about attentional and processing limitations. A compatible theory of mean- ing must therefore concern the principles internalized in the speaker that permit him or her to understand sentences, draw inferences from them, and judge their truth: it must be a theory of I-semantics, not E-semantics. Within a theory of I-semantics, a statement in the Tarskian vein like ‘Sentence S in Language L is true if and only if condition C is met’ is taken as shorthand for something like ‘A speaker of Language L treats Sentence S as true if and only if his construal (or mental representation) of the world meets condition C’, and it is subject to similar caveats about attentional and processing limitations. This is the basis of the approach of Conceptual Semantics, in which a level of mental representation called conceptual structure is seen as the form in which speakers encode their construal of the world.
+	- difference between conceptual semantics and Fodor's 1975 'Language of Thought' hypothesis. I don't get the below
+		- ![[Pasted image 20221205213404.png]]
+		- ![[Pasted image 20221205213711.png]]
+		- ![[Pasted image 20221205213845.png]]
+		- ![[Pasted image 20221205213906.png]]
+- Organization of language
+	- ![[Pasted image 20221205221915.png]]
+	- formation rules (inside level), correspondence rules (between levels)
+- Feature-based aspects of conceptual structure. 3 major subsystems in conceptual structure
+	- Ontological categories and argument structure
+		- How to categorize concepts? Jackendoff argues for the following ontological categories
+			- Thing, Event, State, Place, path, property, Amount. advantages of this approach are found in section 6.1. Unfinished here

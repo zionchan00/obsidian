@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Reflection",
+      "path": "pages/Reflection.md"
+    },
+    {
+      "type": "file",
+      "title": "Research",
+      "path": "Research.md"
+    },
+    {
+      "type": "file",
+      "title": "Resources",
+      "path": "Resources.md"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+- 1844 Manuscripts #political
+- **The Marx-Engels Reader**, ed. Robert Tucker #political
+- The Communist Manifesto #political
+- The German Ideology #political
+- Capital #political
+- The Jewish Question

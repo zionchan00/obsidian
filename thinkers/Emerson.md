@@ -1,0 +1,1 @@
+Emerson's two series of "Essays" and "The Conduct of Life." - bloom says are contenders fo rthe scripture of AMerica

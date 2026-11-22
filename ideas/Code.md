@@ -1,0 +1,1 @@
+- pg 89: try to rederive all the other gates from NAND and NOR

@@ -1,0 +1,3 @@
+- sixth street is very behavioural focused, interviewing for structured products. tomorrow is first round interview
+- Has Bill as technical and Emma as behavioural classes
+- Veronica is her RA

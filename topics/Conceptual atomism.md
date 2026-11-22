@@ -1,0 +1,7 @@
+- Fodor's asymmetric dependence theory says reference is determined by concept's causal relation to things in world
+- Problems
+	- Accepting conceptual atomism means accepting innateness
+		- Asymmetric dependnece theory explains concept acquistion through the idea of a sustaining mechanism
+	- Atomism can't explain how concepts work. 
+		- response is that structure still exists, but it's associated, not necessary
+	- Atomicity has trouble explaining analyticity

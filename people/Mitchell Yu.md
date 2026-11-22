@@ -1,0 +1,24 @@
+- Sophomore at NYU stern, majoring in finance and data science, HS in China.
+- Why TMT?
+	- interested in media, has done research on Disney and entertainment industry
+	- interested in tech bc world is transforming it, likes analyzing riskier investments (i.e startups)
+- Why healthcare?
+	- Got into pfizer and other bio companies from COVID, so also into them bc of their transformative, risky compaies/risky industries
+- We need to work on 5 year projections
+- TMAY
+	- started trading in grade 6, started wondering what caused stock price movement, in HS did resaerch on quantitative modelling on disney, after that theoretical reserach,wanted to apply
+	- went to bank and did risk analysis, met CEOs
+	- here today to continue pursuing interest in finance bc doing resarch and working at companies and want to combine this w quantitaive modelling
+	- Style problems
+		- Monotone, same pace.
+- Why IBD
+	- Likes using quantiative models to analyze companies
+	- DIfferent tasks bankers do gives you somcuh exposure
+	- High-pressure environment, in looser environments it's hard to concentrate and push themselves
+	- work-hard play-hard culture
+- 3 stories of success
+	- low attendance in soccer games, tried to do more than expected. increased number of games to elimination games to make them more intense, setup more awards to attract more players, proud bc did more than expected, out of box oslution for new problem
+	- freshmen year of HS > pioneer resarhc program > accounting/business program > no modelling experience or training > upper years were too busy, didn't want them to hold my hands > taught myself > studied financial accounting after classes > was hard at first, high honors later > warmly welcomed by school commitee
+	- liviing a balanced life in college > overwhelmed in ECs/social/school > as i got accustomed, set up a calendar, prioritizing task sin a timely manner > balancing schedule > able to WLB good
+- 3 stories of failure
+	- 

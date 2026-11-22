@@ -1,0 +1,3 @@
+- 30 minutes
+- #todo 
+	- [ ] need to assign resume/tech/behav mentors

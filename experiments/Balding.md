@@ -1,0 +1,4 @@
+- The Peat explaination
+	- It's not excess testosterone (even tho males have it not females) so we came up with the sensitivity hypothesis, that MPB victims had more sensitive hair follicles
+	- But Peat noticed excess prolactin and cortisol in MPB people which is from stress. HIgher test actually makes hair grow thicker and faster. Prolactin, the 'molting hormone'
+	- E.g look at crease in ear lobe and heart disease association with mPB, and these two are prolactin and high cortisol, likely thyroid deficiency, letting metabolsim of cholestrol decrease

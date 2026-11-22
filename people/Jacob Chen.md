@@ -1,0 +1,3 @@
+- S&t analyst at a commodities hf
+- Transferring to dyson, needs to change resume to involve more campus stuff, can i have a new resume mentor cuz previous one he didn't like her
+- sophomore recruiting timelines whats left

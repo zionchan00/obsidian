@@ -1,0 +1,2 @@
+- Start with a cruise ship, 5- 10 tickets. Kids hack on a boat. Scale up eventually to get a private boat.
+	- On a cruise ship kids can't get alcohol either too

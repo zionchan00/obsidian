@@ -1,0 +1,3 @@
+- Why do kids have imaginary friends?
+-  why is it some countries have more jobs and apy more money? why si canada so much richer?
+- 

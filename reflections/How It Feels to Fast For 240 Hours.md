@@ -1,0 +1,6 @@
+**- 20 hours in. 12:00 PM Tuesday. This was the point in my fast where I was closest to breaking. It was extremely difficult to focus on my work, my work was inherently frustrating and boring, and I had low capability in my work. I don't know what made me persevere, maybe it was me telling everyone I was going to do a very long fast, but I pushed on, teared up after realizing I had chosen the wrong factor to u-substitute when integrating and the solution was quite beautiful when done right, and soldered on.
+- 27 hours in - 7:00 PM Tuesday. After the initial pain I consistently experience a state of zen which is similar to the high a runner experiences where the muscles stop burning. I do feel more 'awake' but at the cost of light-headedness throughout the day
+- [ ] 36 hours in - 7:00 AM Wednesday. I don't feel any hunger in my stomach when I wake up. The grogginess which can sometimes exist after sleeping isn't present either. I do feel light-headed, making it difficult to focus on things. I wonder if my one hour walk outside will change this. Right now I'm so curious how the fast will feel tomorrow, the day after tomorrow, etc. Everyday is a new day for me. I'm so excited!
+      
+      
+      

@@ -1,0 +1,4 @@
+- [[Mosca]]
+- [[Pareto]]
+- [[Michels]]
+- The Leopard by Lampedusa

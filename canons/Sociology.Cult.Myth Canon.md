@@ -1,0 +1,34 @@
+- Studying software open-source communities to undersetand status and abundance
+	- http://www.catb.org/~esr/writings/cathedral-bazaar/homesteading/index.html
+	- ESR, the cathedral and the bazaar
+	- Nadia eghbal, working in public
+	- https://alexdanco.com/2020/09/04/scarcity-status-versus-abundance-status-gift-culture-part-3/
+	- https://alexdanco.com/2019/09/07/positional-scarcity/
+	- https://scarcity.substack.com/archive
+- What sources of status are zero-sum tho? Mates
+	- Houllebecq
+- The Golden Bough and Wittgenstein's notes on it. Careful to only buy the OG multi-volume that has all of his OG footnotes, its his evidence thats useful as his myth-ritual theory may be wrong.
+- The Ancient City
+- Ruins of Kasch
+- The marriage of cadmus and harmony
+- All greek myths
+- The Gift: The Form and Reason for Exchange in Archaic Societies
+- Sacrifice: Its Nature and Functions
+- collection of essays on greek and roman
+- https://www.jstor.org/stable/24871266
+- Metamorphoses of the City: On the Western Dynamic
+- The Pursuit of the Millennium: Revolutionary Millenarians and Mystical Anarchists of the Middle Ages, Revised and Expanded Edition
+- The Myth of the Eternal Return and  Myth and Reality
+- Dumezil's work
+- True Believer by Eric Hoffer
+- Cassirer Language and Myth
+- The crowd/extraordinary delusions and the madness of crowds
+- Communities of violence: persecuiton of minorities in the middle ages
+- [[Magic in the Middle Ages]]
+- [[Myth and Meaning]]
+- [[The Sacred and the Profane: The Nature of Religion]] Eliades
+- [[Patterns in Comparative Religion]] Eliade
+- # The Varieties of Spiritual Experience: 21st Century Research and Perspectives
+- https://fivebooks.com/best-books/best-books-late-antiquity-lane-fox/
+- Crowds adn Poewr - Canetti
+- A History of Religious Ideas series

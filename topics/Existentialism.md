@@ -1,0 +1,3 @@
+- Existentialism and Humanism
+- Irrational Man: A Study in Existential Philosophy
+- American Nietszche: A History of an Icon and his IDeas

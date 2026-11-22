@@ -1,0 +1,5 @@
+
+- What is soul?-an answer which applies to it in its fullextent. It is substance in the sense which corresponds to the definitive formula of a thing's essence.That means that it is 'the essential whatness' of a body of the character just assigned
+- Suppose that the eye were an animal-sightwould have been its soul, for sight is the substance or essence of the eye which corresponds to theformula, the eye being merely the matter of seeing; when seeing is removed the eye is no longer aneye, except in name-it is no more a real eye than the eye of a statue or of a painted figure
+- Of the psychic powers above enumerated some kinds of living things, as we have said, possess all,some less than all, others one only. Those we have mentioned are the nutritive, the appetitive, thesensory, the locomotive, and the power of thinking
+- The soul is the cause or source of the living body. The terms cause and source have many senses.But the soul is the cause of its body alike in all three senses which we explicitly recognize. It is (a)the source or origin of movement, it is (b) the end, it is (c) the essence of the whole living body. 

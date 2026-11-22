@@ -1,0 +1,3 @@
+- Wordsworth - The Major Works
+- Poetical Works - Tennyson
+- Collected Poems of W.B. Yeats

@@ -1,0 +1,49 @@
+- Information resources
+	- Websites to check regularly
+		- Substack
+		- Semafor
+		- Project Syndicate
+		- Aeon
+		- Phenomenal World
+		- journal of controversial ideas
+		- Inference magazie
+		- asterisk-mag
+	- Longer-form best-of-posts to checkout
+		- https://joecarlsmith.com/2024/01/04/deep-atheism-and-ai-risk
+		- https://summerofprotocols.com/research - shoudl block some time to take a look
+		- https://infoproc.blogspot.com/2009/09/some-favorite-posts.html
+		- https://www.math.columbia.edu/~woit/wordpress/?page_id=4338
+		- https://www.glass-bead.org/?lang=enview 
+- Current Projects: [[My worldview]] , [[Keyboard]], [[What I want to spend my time on]], [[Startup ideas]], [[Frameworks for Investing and Startup Creation]], [[home on the internet]], [[theory of change]], [[housing markets]], [[philosophy of the self]], [[Health]]
+- Longer-form 2023 Goals
+	- Understand 3 historical periods very well. https://scholars-stage.org/a-study-guide-for-human-society-part-i/. Need to read more history so I can generalize from a specific time period to understand 
+		- Ancient Greece
+		- Maybe Germany in the 1700s ish?
+		- 1950s America til now
+		- Ancient China maybe
+- Medium-term thigns to checkout
+	- What's going on in energy?
+- General questions/things I am curious about
+	- food and status -
+		- 
+- Double check on labels
+	- Grammatical Man: Information, Entropy, Language and Life on information theory
+	- read code to learn how computers work
+	- read 'origins of the bicameral mind'
+	- Figure out which labs at UWO I want to reach out to to get a job and figure out how to convince them to hire me
+	- Finish my intro to buddhist philosophy book
+	- Finish Ancient City by Fusteul de Coulanges
+	- Read Paideia by Jaeger to understand greek culture
+	- Read Burckhardt's "History of Greek Culture" and 'The Greeks and Greek civilization'
+	- Read Dodd's 'The Greeks and the Irrational'
+	- Read Snell's 'The Greeks and the Discovery of the mind again'
+	- HDF Kitto's The Greeks
+	- https://www.jstor.org/stable/311453#metadata_info_tab_contents
+	- https://classics.fas.harvard.edu/philology-reading-list
+	- Figure out how transformers understand concepts
+- School
+	- Graduation Requirements
+		- 2700, 3170,2050,3555,2214,3885,2998,3820,4996,4060,2065
+		- Fulfills requirements for types of phil: 2700 ethics,3170 history of phil ,2050 - knowledge,3555 - equity
+		- Fulfills 'other 4.0' courses' requirement 2214,3885,2998,3820, , 4997,4060, 2065
+	-

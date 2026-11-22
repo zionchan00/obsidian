@@ -1,0 +1,15 @@
+-  logic is the study of the laws of truth. Are these laws natural laws, to be uncovered?
+- What does it mean for something to be true? True refers to what is REALLY out there in contrast to false, which is different from reality. By definition truth is objective, reality is outside us
+- Truth is not material. It's not right to call nature's creation true, our theories of natural phenomena may be true. When we say a sentence is true we aren't referring to the letters or the sounds, we're referring to the senses
+- assertoric sentences either have true/false sentences usually. a third case is that they have a 'fictitious sense' bc they're works of art that have false depictions of history or mock proper names (William Tell, Scylla, Odysseus), entities w/o references
+- ![[Pasted image 20221109182456.png]]
+	- talk to prof about this one
+- Logicians don't bother with mock thoughts (e.g as in contained with works of art, where the sense/idea is what is wished to be communicated for the sake of aesthetics even if it means sacrificing historical accuracy), only proper, which are either true or false
+	- But why does Frege think so rigid? Sometimes fiction can communicate the truth of a historical event better than the real facts, so doesn't it end up the same? ask prof
+-  [[thoughts]] are the [[sense]]s of assertoric sentences.the predicate 'true' applies to thoughts. 
+- [[ideas]] vs [[thoughts]]. Frege further distinguishes between the two by arguing that [[ideas]] can never be truth-claims by themselves. ideas are representations of reality that we have within our minds but for a truth-claim to be made we must create an assertoric sentence, a proposition, express a thought, with a sentence that compares the idea to its referent in reality. Frege further contrasts the two by their modes of expression: songs/pictures for ideas, sentences for thoughts
+- Frege believes in truth independent of the thinker and truth as an absolute, not a continuum. truth by definition to him CANNOT be true only for one person or a group
+	- ![[Pasted image 20221109120553.png]]
+- [[thoughts]] that are true aren't invented, they're discovered, e.g laws of nature. hence [[thoughts]] are objective and the same thoughts are graspable by different people unlike [[ideas]]
+- My problem with Frege's argument on 233-234 is it's normative, not metaphysical. he's describing the impossibility of discussion if thoughts were subjective bc lost in translation. but i'm guessing he's linking this back to the impossibility of relativism IF logic is to succeed as a field bc it searches for the truth, and hence thoughts cannot be subjective. what's the difference between [[thoughts]] and [[references]]?
+- 

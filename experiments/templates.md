@@ -1,0 +1,12 @@
+- [[Reflection (Check Everyday)]] 
+	- Start of Day
+		- TODO visit [[Reflection (Check Everyday)]]
+		- Visualize the daily/weekly/annual/monthly goals being dominated
+		- What goals am I setting for learning to kickstart positive feedback loops today?
+		- What's my planned schedule?
+	- End of Day
+		- What was my actual schedule?
+		- How did I do on the goals I set for myself?
+		- Was what I spent my time on today worth it? Were they the best way to make progress on my goals?
+		- Are my goals/desires good?
+		- How'd I feel today?

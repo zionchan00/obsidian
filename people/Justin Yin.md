@@ -1,0 +1,2 @@
+- likes vinyl records, currency/coin collection from middle east, and go karting, listens to hiphop for fun
+-  

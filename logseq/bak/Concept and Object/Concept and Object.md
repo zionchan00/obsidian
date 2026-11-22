@@ -1,0 +1,7 @@
+Frege is trying to explicate the boundaries between concepts and objects in response to criticism's from Kerry of his understanding of the two when used to make truth-claims.
+- Kerry provides the example of the father and the son.
+- The first way he does so is by proving that the relationship between an object and concept is not reversible while a relationship between object and object is. This is because the relationship between an object and an object is one of equality; the object is either exactly the same or is not exactly the same, they are the same level. 
+- He IS Zion Chan is a claim made by the speaker that the person in question is exactly Zion Chan, there is no difference between the two, we could swap them for one another and it still makes sense. This is the relationship of object and object.
+- But objects and concepts are not on the same level. An object is an instantiation, an example, one of many, of a concept but a concept is not an example of an object. Jupiter is a planet, or we could say Jupiter is one of many planets, but it would be incorrect to say that a planet is Jupiter. A planet is one of many planets,
+Kerry makes the claim that concepts can be objects through the example 'the concept "horse" is an object
+'

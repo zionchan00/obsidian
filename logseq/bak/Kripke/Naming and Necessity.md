@@ -1,0 +1,46 @@
+-  designator = name + description
+- referent is used to refer to the object that uniquely satisfies the conditions of definite description, not based on intentionality. i.e if you're talking about guy w champagne in his glass but its actually water and there's another guy w champagne actually in his glass, you refer to the latter
+- Mill's view - names meaning only comes from the description of their referent/names are their referent. there is no 'sense' to the name, no meaning
+- Frege and Russell disagree. Frege believed descripiton was sense of the name
+	- Problem w Mill's view is how to determine a referent. But according to description view, the referent is determined by the sense/description of the name. 
+		- E.g who is napoleon someone might ask?  I give the descriptor, and hence the reference is determined (french empperor who did x and y)
+	- The secodn is scenarios where two different names refer to the same thing, the view of Frege and Russell is able to explain the extra information that is gained from equatin gthe morning and evening star through 'sense' such that the identity is not banal
+	- Another is when we ask questions on the nature of the referent. Kripke argues that when we do so, i.e if we ask whether Aristotl eexists, we aren't asking whether the referent actually exists (bc the very fact o fthe question means that an entity named aristotle existed) but rather the sense of the name is correct (did aristotle rlly do all the things we think he did)
+- Kripke believes this is false because senses/descriptions can be incorrect - they're claims. E.g Aristotle = man who taught Alexander the great, can be false. 
+	- Common response is 'cluster concepts', there's  family of senses. Hence 'Moses did not exist' = contesting 'israelites had 1 leader', 'maybe their leader wasn't named moses'. In other words, we take the actions of moses in the bible and can claim that some of these descriptions are false. But how many have ot be false s.t we say Moses id dnot exist?
+	- There are two ways of implementing cluster theory
+		- descriptions gives the meaning of the name. E.g Walter scott is man who does x and y and x and y
+			- If we say Walter Scott didn't exist, then we say that Walter Scott's description is incorrect - some of it is not true. 
+		- Description doesn't give meaning/sense, it determines reference. the human being we pick to be Walter Scott is based on which human being best fits the description of Walter Scott. So if Salvador Dali actually fits x and y better, than the human Dali is the real referent, not the human scott. the human dali 
+			- If we say Walter Scott didn't exist, then we're saying that there is no entity that fits the description of Walter Scott. 
+		- one is a theory of meaning the other is a theory of referent
+	- Kripke believes that the if it's a theory of reference, then it becomes much less strong. E.g aristotle doesn't exist means there is no human that fits the description of aristotle.
+	- 'Moses does not exist', means 'no man did such and such', that might depend (and in fact, I think, does depend) on taking the theory in question as a theory of the meaning of the name 'Moses', not just as a theory of its reference. Well, I don't know. Perhaps all that is immediate now is the other way around : if 'Moses' means the same as 'the man who did such and such' then to say that Moses did not exist is to say that the man who did such and such did not exist, that is, that no one person did such and such. If, on the other hand, 'Moses' is not synonymous with any description, then even if its reference is in some sense determined by a description, statements containing the name cannot in general be analyzed by replacing the name by a description, though they may be materially equivalent to statements containing a description. So the analysis of singular existence statements mentioned above will have to be given up, unless it is established by some special argument, independent of a general theory of the meaning of names; and the same applies to identity statements. In any case, I think it's false that 'Moses exists' means that at all.
+- Kripke then discusses categoreis of truth: apriori, analytic, necessary. Most people use apriori and necessary as interchangable, but he doesn't. Kant makes distinciton between a priori and analytic
+	- a rpiori is that which can be knonw to be true w/o experience. Some philsoophers believe apriori means it can ONLY be known apriori. Kripke disagrees. this is the first concept he disagrees on
+	- Second is necessity. Could mean epistemological, maybe then it equals a priori. But sometimes used to distinguish between physical and logical necessity. But KRipke wants to use it to distinguish between facts that are true in this worldbut could have been false in other ones. necessary vs contingent in this way. to him a priori/posteriori is epistemological, this is metaphysical
+	- Moreover necessary a posteriori truths exist, and probabaly conitngent apriori truths, according to kripke
+	- He gives two reasons for why ppl believe necessary = apriori
+		- Firstly if something is true in our heads in all possible worlds, then it's necessary and apriori. but he contests this is possible
+		- Second is that if you were able to figure out something a priori, it has to be necessary by nature. Bt this doesnt' amek sense. If it was contingent or necessary, how could you know whether this without making sure the features we're talking about are conitngent or necessaryt experience
+	- analytic is true bc it fits the definition and true in all possible worlds (necessary) bc of its definition. so analytic truhs are both necessary and a priori. e.g bachelors are unmarried
+	- certainty is antoher thing. necessary != certain, and apriori != certain. 
+	- Kripke also explains the view that it may not be possible to say of any particular whethe rit has necessary or conitngent properties, whether we can even make the distinciton bc its dependent on the description. E.g number 9 has the property of odd in all worlds, but what if we use the number 9 to describe # of planets? In some worlds maybe there are 8 planets
+		- Is it necessary or contingent that Nixon won the election? If Nixon as defined as 'man who won election in 1968' and description = referent then it's necessary; SOME MAN won the election. But if it's Nixon as a specific human being then he could have lost the election
+- rigid v snon-rigid designator. rigid designator if in every possibl eworl dit designates same object (name + description). Kripke believes names are rigid designators. Someone else other than Nixon could have been president in 1970, so 'president of the US in 1970' is not a rigid designator. but no one else could have been Nixon the man
+- Kripke's problem is that if we aren't able to use names as rigid designators, we arent' able to talk about how the referents of names would be different in other worlds. pg 49
+- there are some definitions that fix a reference and others that are synonymous with a reference. pg 57. same w names. 
+- Aristotle example: Aristotle is greatest philosopher who studied under Plato. This description could be used to designate a referent OR to designate meaning. if former, than in every world we're still taking about the smae human, regardles sof his standing. if latt, r someone else other than the Aristotle in our current world could be the referent. so it depedns on whether we use descriptios as definitiosn or ways to fix a referent.
+- He's trying to prove tha tit's names, not descriptions, that are rigid designators. E.g with the star Hesperus. In our universe the star Hesperus occupies a certian position in the sky (meaning/sense/description). But in another universe it was knocked out of that position of the sky, but we can still talk about that same star, that same referent, through the name. We talk about the same star in both worlds.
+- Frege and russell talk is that proper name is nto rigid designator but rather proper name is synoymoous with descriptions that replaces it. Kripel says that descriptions can instead be used to determine a rigid reference
+
+- Does the student explain accurately, clearly, concisely, and fairly the author’s main aim? Typically, this will involve explaining his conclusion(s), but sometimes it won’t.
+
+-   Does the student explain accurately, clearly, concisely, and fairly the author’s main means of achieving this aim? Typically, this will involve explaining his argument(s) for the conclusion(s), but sometimes it won’t.
+
+-   Does the paper meet the standards of writing mechanics which are appropriate to an advanced undergraduate class? (E.g., spelling, grammar, choice of words.)
+
+-   Does the paper otherwise conform to the instructions for Briefing Notes?
+
+-   Does the student demonstrate some level of empirical, logical or philosophical insight which is above the norm?
+- On the day they are discussed in class, students will submit 2-3 page (i.e., 750-1000 words) “reader responses” to selected writings, consisting of an outline of the central

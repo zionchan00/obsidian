@@ -1,0 +1,1 @@
+- super shy, 2025, no boutiques yet, needs ot get on the grind

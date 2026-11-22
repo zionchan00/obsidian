@@ -1,0 +1,2 @@
+- [[Social Darwinism in American Thought]]
+- [[The Civilizing Process]]

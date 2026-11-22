@@ -1,0 +1,14 @@
+- I've asked a ton of founders what they think an interview process is for and they'll tell me, 'it's for hiring'. Break it down and it's for
+	- Seeing if the people who are interested in working at your company would make amazing employees
+	- Convincing the people who are passing your test that this is a company they should want to join
+	- Ideally this interview process is one that has self-virality - it can convince other people to join the company
+		- Other than running a process the candidate enjoys, this could be through
+			- The reference process - getting to know the candidates inner circle to see you can tap into that as potential recruits
+			- The candidate has to generate an artifact that's public facing and goes viral as part of the interview process. This is actually a great test because getting attention is one of the most important things anyone can do
+			- The candidate has to increase their desire to work at the company over the course of the interview process, so that when they get the offer the negotiations are easy
+				- You have to make sure to include the candidate in regular customer meetings + also showcasing the trajectory of the product overtime with detailed write outs of how thinking has changed
+				- It pays from day 1 to have structured artifacts
+				- You have to include the candidate in team meetings, to give them confidence that the team is cohesive
+				- You have to give them 1 on 1 time and fun time with the team, for them to understand the personalities of each person very well.
+				- You have to have them feel there's lots to do, which naturalyl shoudl be the case if there really is need for the role, and there are very clear iddeas about what problems they'd have to solve
+			- A good interview process is ulitmately a reflection fo hwo good your comapny is. You almost want to 'API-ify' your company, making it clearly legible for outsiders.

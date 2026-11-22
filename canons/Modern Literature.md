@@ -1,0 +1,1 @@
+Jünger's Eumeswil (or Heliopolis); Nabokov's Lolita (or Ada); Joyce's Ulysses (or Finnegans Wake); Gaddis' The Recognitions -- a scattershot of 20th century novels one ‘has to’ read, imo

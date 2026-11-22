@@ -1,0 +1,8 @@
+
+- Frege believes that objects can only be objects, never concepts by themselves, although they can be used as a part of a predicate, they'll never be 'proper predicates'
+	- What about  __ is alexander the great? The Is indicates that Alexander the Great predicates the object filling in the blanks? This is where Frege distinguishes between an 'equative' is (which says the two are the same object) and a 'copulative' predicative is (which says an object falls under a concept), distinguishable because in the former you can swap the object<>subject and still makes sense, in the latter you can't. 
+	- This is in contrast to Kerry, who argues that the concept and the concept-object can be the same.
+		- Frege agrees there are edge cases where a concept can be an object, i.e when a concept predicates another concept. But Kerry instead brings up an obviously wrong example, 'the concept "horse" is a object easily attained'. The use of 'the', an definite article, indicates "horse" is an object, for we're referring to a singular entity, while the use of 'a' indicates what follows is a concept.
+	- Concept-concept forms are possible too
+	- When we do want to predicate a concept, 
+- Elsewhere Frege discussed his ideas of “property” and “mark”, and these concepts are coherently related to what he is saying now about concepts and objects. Marks represent properties but are not properties. an object t may have properties x,y,z so we can take x,y,z and combine it into a phrase a and x,y,z are now marks of a. x,y,z are marks and properties at the same time but CANNOT be mark and property for the same thing, absolute distinction

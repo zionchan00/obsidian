@@ -1,0 +1,1 @@
+- cross platform clams by using snark's to make generalized claims in combination with ZK

@@ -1,0 +1,6 @@
+- freshman NYU
+- RA: Brian Xu
+- technical mentor: stafford
+- behavioural: lindsay
+- resume mentor: needs a new one. check over her resume, check over your behaviourals.
+- cxx

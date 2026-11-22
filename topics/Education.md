@@ -1,0 +1,24 @@
+- What is education for?
+	- We have to give people the knowledge needed to navigate this world, by being able to undrstand how it came to be and also how to change it as a result - the systems at play. Knowledge has a 'use' therefore
+	- The second thing is that education is always information about something, so everyone has to make decisions about what to spend their time learning. But also we want to make sure that we're able to effectively allocate people towards the problems that are important to be solved and problems which they want to work on. Part of this requires thinking about motivation not in terms of something completley intrinsic, but as a dance between
+	- We have to also mold people in giving them values. You might be highly intelligent, but free thinking in practice is actually super tough
+- What our education system actually fights against is the useful and the immediate. What it really optimizes for are people with
+	- a strong desire that allows them to endure the short-term lack of interest in the things they study
+		- this could be from parental pressure, in which case some subset of skilled talent falls out of the system
+		- this could be from peer competiion
+		- this could also be from a 'genuine' desire of their own
+	- the very rare polymaths who can genuinely find everything they're learning interesting at once
+	- people with really strong discipline
+- These are broadly traits which anyone and everyone would find important. The biggest problem is that we need a nice, compressed representation of these indicators. Hmm, does IQ testing account for most of these things?
+- Moreover boys also do really
+- Why has work ethic for college life dropped overtime?
+	- “The imperfect overlap between the school ethic and the work ethic is especially blatant in modern American colleges. Fifty years ago, college was a full-time job. The typical student spent 40 hours a week in class or studying.98 Since the early 1960s, effort collapsed across the board. “Full-time” college students average 27 hours of academic work per week—and only 14 hours of studying”
+- Caplan view
+	- Education signals discipline, intelligence, conformity. Most surprisingly, the way [[signaling]] works is that they come in packages, so if someone is deviant in one or more signals, it suggests they have an offsettign weakness. E.g you had perfect SATs but didn't go to college, means you have REALYL BAD conformity and conscientiousness. This only gets WORSE the more intelligent they think you are. Hirer's remorse is also put of signalling
+		- The same applies for beign super strong in either conscientusness or conformity. There is no alternative signal for conformity because by definition it'll be non-conformist, making it suspect, and if you're trying to signal conscioentousness but lack signals for everything else, you look stupid or are a bad teammate
+	- IF human capital purists were right then
+		- Forgetting subjects would be punished (perhaps they still impact your brain positively tho), cheating would be bad for students, 'would you rather get a pton diploma without the classes or the pton classes without the diploma'
+	- Look to Kutner et al. 2007 pp 5-7  and “National Science Board 2012, pp. 7-19 to 7-27 for more on how bad people are at retaining basic skills and facts from school. bahrick and hall 1991  for math. The 'optimistic' part of retention is that those who actually studied calc went onto retain some info, so I think if we had stronger views on what someone is meant to do earlier on in time we could waste less resources
+		- '“Accounting for guessing, the public’s scientific illiteracy is astonishing. Barely half of American adults know the Earth goes around the sun. Only 32% know atoms are bigger than electrons. Just 14% know that antibiotics don’t kill viruses. Knowledge of evolution barely exceeds zero. Knowledge of the Big Bang is actually less than zero; respondents would have done better flipping a coin. Guess-corrected, the average respondent knows 4.6 answers. If adults learned everything they know about these twelve juvenile questions in high school science, they learned 1.4 answers per year”
+		- “Educators can arguably blame the majority’s disbelief in the Big Bang and evolution on Christian fundamentalism. Yet ignorance of the ABCs of science is nondenominational. Only 7% of adult Americans who deny the Bible’s literal truth answered all twelve questions correctly"
+	- Check Gick and Holoyak 1983 and Reed 1993 for discussion on transfer learning. references 37 -

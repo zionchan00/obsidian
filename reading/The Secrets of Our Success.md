@@ -1,0 +1,156 @@
+- pg 179 rn, check out the chapter again on prestige too
+- chjapter 4 note 34 is awesome on 'nature' vs socialization debate
+- Heinrich attributes our success to long-duration evolutionary selection of cultural practices. But why is it that some things are invented in a short period of time? Pg 27
+- Pg 40-41 talks about when cultural learning replaces success-based learning
+- 106,108,109, 118,120,123 is key to understanding replication, and ch4
+- 97,98 is great. same w the seal hunting example earlier, 102,103, 131. 134, 136,137 (interesting that prestige doesn't pass down to kids according to Henrich),138,139, 154. 162 (problem is bc we can't appreciate the reasons why these rituals are done, it becomes easy for us to ditch them. we have to create new rituals based on choice. but old ones still exist - facing the natural environment together as an example). 164,165.
+- FOllow on thought is also what made science differfent?  How was it overtime that we were able to escape the reach and able to attain reason?
+- pg 199, how can we explain bullying then
+- https://drive.google.com/file/d/10W5lAhu_QmXTfCjzGwg6-3S_bi05NkGo/view helpful bookr eview
+- why is it that traits correlated with prestige are conflicting with dominance, e.g look at pg 126 and also the chart of traits
+- I think my key question reading the book is, where does the wisdom of these crowds stop working/making sense anymore, and also whether modern knowledge discovery functions in any way differently than old tribes, and hence it doesn't make sense anymore for us to follow tradition.
+- I don't think Heinrich also links papers mentioning evidence of evolution pressuring us to wards psychologies that are better at learning, storing, organizing, adn transmitting culture
+- I'm also interested in stduying how love has changed overtime and how that relates to cultural coevolution
+- Heinrich is able to explain mimetic desire as an outcome of the complexity of success. given we don't know which part exactly of someone's preparation is what is behidn their success, its becoem advantageous to copy them wholeheartedly (120op)
+- 204-205
+- Presentation
+	-
+- references
+	- 6
+		- 13, 15, 17
+	- 7
+		- 30, 31, 32
+	- 8
+		- 3,4, 16, 20, 22, 25, 27, 33, 34,
+	- 9
+		- 7, 15, 16, 18, 21, 23, 34, 40, 42, 43, 44, 45
+	- 10
+		- 2,3,8
+	- 11
+		- 5, 6, 7, 8, 9, 11, 24, 31, 32
+	- 13
+		- 2, 44
+	- 15
+		- 16, 21
+- Book layout
+	- Summary
+		- How does culture work then?
+			- Culture is a mix of
+				- technologies - fire, hunting equipment, travel, etc
+				- social technologies - integers, rules, institutions, etc. i think this idea
+				- science - facts about the world like where food is
+				- Heinrich can't offer an account of invention in general, and for the sake of his argument, offers a statistical one. All we need is random experimentation, even if accidental, from a sufficiently large population. The larger the population and the more experimenters, the higher the mutation rate and the larger the likelihood that a better way of doing things is discovered.
+			- Why does culture work?
+				- Causality is too hard for an individual to figure out over the course of 1 lifetime
+		- Intro
+		- Culture is smarter than you are, so trust it to survive
+			- Manioc is a plant that's both easy to plant and highly nutritious, a staple for many tribes in the Americas. But it's also highly toxic - it contains cyanide. Consuming it without preparation will lead to paralysis in the legs, brain problems, thyroid problems, etc.
+			- Somehow however, in Columbia the Tukanoans have figured out a way to remove the cyanide. Over the course of 6 days, they will scrape, grate, and finally wash the roots to seperate the plant's starch, fibre, and liquid. The liquid can be boiled into a drink, but the fibre and starch have to sit for atleast two more days, and then baked. (See Dufour 1994, Wilson and Dufour 2002, Jackson and Jackson 1990, and Dufour 1988a, 1988b. Varieties of manioc respond to drought by massively increasing their cyanogenic output. Bitter manioc supplies 70% of the Tukanoans’ calories.)
+			- The miracle in the first place is that the Tukanoans were able to realize that the plants were toxic because symptoms of cyanide poisoning take 5-10 years to show up. The second miracle is that they were able to devise a complex, multi-step solution to remove the cyanide, because given how difficult it is to connect consumption with poisoning, how could they experiment and figure out which steps had to be taken in the first place, which steps were necessary, and which ones were not?
+			- These are a lot of steps, and waiting for them to complete takes a long time. What if you grew impatient? Native women in these tribes spent a quarter of each day on this process. Say as an individual you realized that by boiling the plant alone, it's bitter taste would be gone, so even if you figured that it had cyanide, your intuition would tell you that the bitter taste came from the cyanide, and it was safe to consume and you had saved time. And in 5-10 years, you would end up very, very, sick.
+			- Just like how the early Tukanoans struggled with forming a causal model of the relationship between the cyanide content of the plant and consumption, we also struggle with understanding how in the long-run they were able to figure it out. Perhaps a member of the tribe refused to follow custom in the earlier times and eat the plant, and found themselves the sole person without a swollen neck, leading the tribe to realize the plant was toxic. Then the tribe had to experiment and figure out how to remove this cyanide. GIven the long feedback-loops, this likely took hundreds of years, maybe thousands.
+			- Attempts to play the scientist just don't work in this scenario. We know this for certain because the scientific culture of the 20th century Western world struggled with pellagra disease stemming from a lack of niacin in popular corn-based diets. Millions of poor just in America died from dementia as a result, and the disease ravaged much of Italy, Spain, and Russia too.
+			- Corn does have niacin however, but it needs to be unlocked by an alkali, like burnt seashells or fresh ashes from certain species of wood. Native tribes in Chile had figured this out long ago and made it custom to mix in ashes into their corn meals. But this solution was so counter-intuitive to Westerners, and they instead believed pellagra to be an infectious disease.
+			- Culture is smarter than we are. If you want to survive, it's best to shut up and follow it
+		- If culture is smarter than we are, then it becomes advantageous to become a group that is really good at creating a 'good' culture and making sure its members follow it
+			- How can we create 'good culture'
+				- Heinrich has no answers here btw, all we can do is max the number of 'n' so we get more randomness and higher chance of new inventions and new information
+				- What makes a good culture is both # of new tech/social tech/knowledge that allows its adherents to reproduce in large numbers and live longer lives, because these are the cultures which would survive
+					- E.g anti-incest/counincest prohibiations by hijacking innate psychology
+			- How can we make sure we follow good culture
+				- Select for genes that allow us to identify who is most dominant and prestigious so we know to learn more from them then others
+				- Become good imitation machines automatically so we're always learning from these people
+				- we can create norms around prosociality, generosity, transmission. We can also create social technologies like language, integer systems, and such that allow for faster diffusion of knowledge and try to make
+		- What are the rewards of following culture? Evolution
+			- Biologically - brain matter
+			- Genetically, physically - fire changes our stomachs, running changes our bodies, throwing changes our spinal cord
+			- Genetically psychologically - encourages us to become imitation machines by selecting for genes that hammer it into us innately bc these genes will pickup knowledge faster and better, encourage us to become status-seeking creatures so we can better identify who to learn from, encourage us to become norm-enforcers so we can ensure that our tribe is prosocial and healthy so that knowledge transmission + other parts of survival happen more
+		- What I love most about the book is it shows the extent to which culture impacts us. To survive in the first place we need it. After surviving at all tho, It both changes our biology over lifespans, hijacks our innate psychology to encourage outcomes that allow it to spread better, and it creates genetic variation among people over time. But culture isn't automatic, it's fragile, as the book shows. And what is left out by the book is the extent to which culture can go wayward too, which Heinrich isn't able to explain. I think I'd also love to talk about where cultural gene coevolution is headed in the future. These are also often pre-scientific societies, which construct bad causal models bc they don't have tools that allow them to see closer.
+	- Chapter 1 - a puzzling primate
+		- What's confusing about humans is that, when compared to animals, our bodies are so dependent on technology. We need fire to eat most food because our stomaches are weak, but we are born not knowing how to make it. We are vulnerable for long periods of time because our infancy's are so long.
+	- Chapter 2 - It's not our intelligence
+	- Chapters 3 - Lost European Explorers
+		- artic example
+	- Chapter 4 - How to Make a cultural species
+		- 'who we should learn from, what should we learn from them on, and when should we trust culture over ourselves'
+		- to identify, who,
+			- we do smth called social referencing
+				- look for people who are similar to us. Speak the same lagnuage, same gender, same ethnicity. (20, 21)
+				- We also look towards the way people react to see if they're worth learning from (15)
+				- 16, we remember whether soemone was correct as aninfant and use that to determine whether to listen to them in the future
+			- we also use prestige, reference 18
+		- we're so smart that even as babies, we can account for whether. amodel is more or less likely to have the info needed to navigate uncertainty. 14
+		- 16. we also remember people's track records
+		- Check reference 11 here, 12, 13, 14 for infant under novelty experiment, 15
+		- first is we'll look for obvious signs of success or things that correlate with success. E.g in the domain of hunting, it's common in lots of tribes to have your kills as trophies to make it obvious to everyone how skilled you are
+		- . this phenomenonis so strong that we'll even copy suicide pg 49.
+		- ToM for cultural intenlligence (29), 27
+	- Chapter 5 - What are big brains for? Or HOw culture stole our guts
+		- Because we were able to invent tools like fire, we were able to
+			- Lists of cultrual gene co-evolutions
+	- Chapter 6 - Why Some People have BLue Eyes
+	- Chapter 7 - On the Origin of Faith
+		- The thing is that there'll be strong selection pressures on us to actually believe in faith. E.g note that very smart people tend to be very mimetic
+		- 101,102 - people have shared cues to look for who to learn from but will differ in their explanations of their beliefs/actions because the explanations are added on after the fact
+		- 105,106 - and if people actually understood the reasons why they do what they do, they might stop doing them bc the causality no longer exists, and instead they rely on their own intuitiosn - and fall back into biases
+		- 107, the complexity of makign an arrow, all counter-intuitive
+		- E.g pg 110-112. evidence points to chilies being unnatural to eat, and what happens neurochemically is that we've trained ourselves to enjoy the pain
+		- pg 112-113. we think theory comes first and then artifact, when in reality it's inverse
+		- pg 115-116. the culture that made igloos had no knowledge of physics or temperature, but rather bits and pieces that slowly added up the ability to construct an igloo, but no ability to explain why ro how it worked, other than it just works.
+			- This makes me think about other cultural constructs like religion, where we're still interpreting the full benefits. the problem is once a selection pressure is removed and we can coordinate without it, we discard it wholeheartedly bc without the causal model we can't appreciate its value. so the full value of theorizing is to make sure that we don't stray away and thorw something out too early. E.g the example where peopel were dice rolling in ordert o randomize for farming to prevent overfarmimg
+			- DO we ctualyl need a theory of religion? At first, i thought we didn't. If truly what religio rpovided was so improtant, so fundamental to who we are as people, inevitably something will pop up to replace it. It might nto be as good, it might even be perverted. But there might be other side effects of religion, like the dice rolling, which we have yet to acknowledge. We do have to go out with a microscope, to examine every part of its rituals, fully undertsand the genius of the ancien regime, which had evolved over thousands of years and which we tossed away in two hundred.
+	- Chapter 8 - Prestige Dominance and Menopause
+		- Pg 131-132. Songs encoding a map of where to find water. Aboriginal songs actuallyy pass down accurate stories of changes in geology in Australia
+		- We fully imitate succesful peopel bc we don't know what exactly they do that causes them to be succesful, so we copy everythign in hopes we land something
+		- Pg 139. Cook got his sailors to eat sauerkraut to prevent scurvy by having the highest-status people at them first, then getting the rest of the peopel to eat it.
+		- Pg 134. We live much longer live vs other animals bc it was evolutionarily advantageous for us to maintain elders to keep passing on decades of accumulated wisdom.
+			- E.g one loss is knowledge of how to prepare food correctly and cook dishes of higher complexity. we eat diets that are much less nutritionally dense, much less vibrant in eyes too,
+	- 9 In-Laws, incest taboos, and rituals
+		- Pg 143-144. We follow those who we see as 'succesful'. How do we change what the views of success are. Is it that the groups are wiped out and that's how change actually happens? What is the [[theory of change]] being proposed here? For me p
+		- Pg 144. Cultural norms are so strong that they can convince us to do things which are bad for us (eating brains of dead relatives)
+		- pg 148. Ju'hoahnsi give the kids the names of the paternal grandparents to counter paternal uncertainty lower investment from father and father's family. the kids siblings even follow this
+		- Pg 153-157. Genetic psychology exists which encourages us to act a certain way> cultural norms interact with our genetic psychology to get outcomes that are different from the original intention, e.g name-extension, but also reinforce the behaviour through shame from disobeyind the norm, which is why people do things that aren't good for them themselves
+		- Pg 163-164. Examples of rituals were are used to tighten a communtiy by formally assignign certain members responsiiblity to one another (e.g extended fam). This makes me think we have to have new rituals, ones that are beautiful with their own status symbols
+		- Pg 131-132. Songs encoding a map of where to find water. Aboriginal songs actuallyy pass down accurate stories of changes in geology in Australia
+		- We fully imitate succesful peopel bc we don't know what exactly they do that causes them to be succesful, so we copy everythign in hopes we land something
+		- Pg 139. Cook got his sailors to eat sauerkraut to prevent scurvy by having the highest-status people at them first, then getting the rest of the peopel to eat it.
+		- Pg 134. We live much longer live vs other animals bc it was evolutionarily advantageous for us to maintain elders to keep passing on decades of accumulated wisdom.
+			- E.g one loss is knowledge of how to prepare food correctly and cook dishes of higher complexity. we eat diets that are much less nutritionally dense, much less vibrant in eyes too,
+	- Intergroup Competition Shapes Culture
+		- Heinrich argues that intergroup competition, in which groups with the best packages of technologies (weapons, food storage and food processing, such that a group could kill the other group in warfare + survive better in the climate + attract new members through prestige-biased transmission ) and social technologies (marriage and kin norms, rituals, that maximized the virality and strength of bonds), was a massive evolutionary selection pressure
+		- These pressures select for the groups that are the most prosocial (think from the POV of the group more than the POV of the individual), the most innovative, the most communicative, adn has access to the best natural resources.
+		- The way we define the groups is not by ethnicity (although this is one measure of what a group is) but rather by language and other markers, a process of self-domestication comes i
+		- Considering intergroup comepetition exists among primates, likely it existed prior to cultural evolution, since primates lack social norms. but social norms also likely fostered intergroup competition. Likely two groups wanted the same thing, competition came first, and then the group that was more advanced won and this was the start
+		- What does intergroup competition look like now? You must remember, economics is warfare by other means
+		- pg. 168. 5 frosm of intergroup comeptition
+	- Self-Domestication
+		- As society grew more complex advantage shifts from being able to navigate the antural world towards beign able to anvigate the soical world
+			- This means that those who are good at learning the norms of the society they grow up in, dominating in following in them, and are also able to maintain an accurate idea of what their and others 'reputation' is and avoiding it, are the ones who are able to do well
+			- Pg 186. Even 3-year olds are actively looking to infer social norms from the behaviours of others AND enforce them on others. They will punish those who are similar to them more than they punish those who are diff (pg. 204)
+		- I think given the arbitrariness of the rules, it's strange to me that we were able to use reason to critically gain a distance and think about these rules in the first place, that we were able to somehow gain the distance to do this at all. T
+		- Pg 189-197. How Westerners are different - social norms make us reflexively generous but also expectant of generosity from others. We will reject low offers in the Ultiamtum game on reflex
+		- 198. Shame went from submitting to the dominant male to submitting to society
+		- The thing is that we evolved to identify stereotypes and racist likely as a very natural and very healthy response to dealing with strangers who likely have very differnt social norms than us. That same machienry was also used to evolve those woh are likely 'like us' and we should learn from, given that most norms are super non-obvious to us and arbitrary, so our genes evolved to select for people who speak and look like us, given that these are transmitted the same way that norms are, to learn from, and hence this is our in-group.
+		- Pg 204. Heinrich says traidtional in-group out-group analysis is wrong, we actally think of things in terms of 'races' vs classes anturally
+	- Our Collective Brains
+		- Experimetn onm passign down knowledge. Education is a tool which is almost always imperfect - someoen who did all of the work to learn somethign will 'own' that idea in a way which the student who merely learns it will never have. FOrtunatley for us, the degree of difference can be neglible, and fortunately for us, some studetnms will even be able to build on top of the masters knowledge because they were able to shortcut in time and hence lcompensate for the below-average knowledge of their classmates
+		- One problem with analysis of collective brains is a particularly modern tendency to just increase the number of humans involved and believe this will lead to greater outcomes, wtihout acknowledgign the degradation of qualtiy that exists in most processes as they are scaled. E.g one sees that studetns who are really really good are rare, so if we increase the number of students, we'll have more high-qualtiy students. They don't realize the probability is not inherent to the phenomena, but is rather conditional oninformation. A studetn who is able to occupy a teachers attention solely in a 1-on-1 class learns much faster than the same student cloned five times in a 1-on-5 class. In a 1 -on-1 setting, teachers can spend the entire session mercilselsly interrogating the knowledge of the student, quickly identiying gaps and filling them in, whereas in a group setting a teacher would have to do so one by one, or through a lecture and testing, which are either slower or less perfect forms of testing.
+		- In reality we don't want learners learning from one master - we want learners to have multiple role models which gives them a wider variety of approaches to being able to learn all the different ways to approach their work.
+		- Perhaps what is saddest to me in this chapter is the degree to which knowledge is lost because the correct cultures were not set up to maintain them. Insert examples of tribes where their elders were killed off by epidemics, and because so much of expertise is tacit and intuition-driven (e.g many successful investors I've met will make decisions based off their gut, rather than some well-verablized reason. the intutioin comes first, the theory is after the fact), without proper theory-crafting, tribes simply FORGOT how to make bows and arrows or how to make boats. The quatntiy of calories they had access to shrunk , their bodies and braisn got smaller and dumber, and their populations shrank overtime.
+		- Think in our own lives - how many times over and over again we have to learn the lessons of parenting? Why are there no institutions dedicated to preserving, expanding, and compoundign on this knowledge.
+		- The key here is to increase the degree of fidelity in the information being transmitted, for us to get better at identifying which nodes to pay attention to and which oens to not, to also find ways to better distribute the knowledge to the people who want it through new mechanisms, and to create culture where all informatjion is shared and that we learn to transcribe our information downwards in the first place
+			- Part of this solution will be to step above the mechanisms we have right now for testing. We need to understand that there are multiple kinds of talent, each of which are suited for different things. [[Talent]]. If we can start sroting otu people earlier, but also find ways to allow talent to climb the ladder overtime such that intiial palcement matters less and less, we can increase the power of the cultural brain.
+	- Communicative Tools with Rules
+		- Language is usually thought to be 'special' but we shoudl realyl see it as another social technology, one that is shaped and adapted by instituions, technology, adn the organization of the society. Before and alongisde language, we had other methods of communicating with one another (hand movements, the whites of our eyes whihc indicate whiere we are looking at, and our bodies). These, incldign language, are all byproducts of cultural evolution.
+		- FOr virality, we see that languages which have more phomemes have shorter words, and larger societies also tend to have more phonemes in their vocabulaties (the theory is that the more diverse the population, the more likely it is that variation in pronunciation exists, but also since we have little in common with strangers, it becoems more important to match their pronuncaition). We also see that languages can include sounds and noises instead of words, when these noises better fit the environment. E.g clicks, whistles, and sign language. It's clearly an artifact of the environment for the most part, like culture broadly is
+		- The very structure of language likely has soemthign to do with tool-use either, suggesting that tool-use may have dictated the grammar of language. First evidence is the similarity in brain activation, second is that we can give a plausible account of how the structure of tools is similar to the structure of grammar: componential parts (materials), actions (the execution of the tools), and ordering (how to put the pieces together)
+		- Whatm is specifically noteworthy about language is how powerful of a social technology it is. Most cultures in history only had 2 or 3 words for basic colors, but English has 11 and korean has 14. The languages with lesser ones, they still see differences in colors, i wonder what it's like of rthem to cal something that sobviously different the same. It seems that people will call the sky 'black' when it is blue and then compare it to another object whihc they have the word for, and say the colors are alike - a process that is obiovusly less efficient
+	- Enculturated Brains and HOnorableness
+		- Culture changes yoru brains - reward system, placebos, language, memory, visual perception, abacus
+	- When We Crossed the RUbico
+		-
+	- Why Us?
+		- Pg 300-301. Moving away frtom trees towrads the ground allowed us to discover enw resources, meet more chimps so we could learn from one another, and create enw tools and tech. we need new vnirohnemtns
+		- pf 306 or 309 . we can bypass the demands for care by having commnity and fmaily members help raise kids, allowing  us to have more kids, allowed us to escape the limit we had from our brains
+		- Pg 309. social learnihgn through the family and information transfer
+	- A new kind of animals

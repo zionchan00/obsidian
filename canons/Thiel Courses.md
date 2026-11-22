@@ -1,0 +1,33 @@
+- Thiel Stagnation or Progress
+	- 1 - OUR PRESENT DECADENCE:
+	- Leo Strauss, The City and Man, Introduction p 1-12
+	- Ross Douthat, The Decadent Society, entire
+	- 2 - DECLINE:
+	- Oswald Spengler, The Decline of the West, abridged edition, selections p 3-114; 176-225; 245-254; 360-415
+	- 3 - SCIENCE:
+	- Francis Bacon, New Atlantis, entire p 63-111
+	- Derek de Solla Prince, Science since Babylon, entire
+	- 4 - TECHNOLOGY:
+	- Richard Rhodes, The Making of the Atom Bomb, selections p 13-28; 104-197; 279-317; 443-485; 617-678
+	- Film: The Right Stuff
+	- 5 - FEAR:
+	- Soencer Weart, The Rise of Nuclear Fear, entire
+	- René Girard, "Hamlet's Dull Revenge" from Theater of Envy p 271-289
+	- Film: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
+	- 6 - COUNTERCULTURE:
+	- Joan Didion, Slouching Towards Bethlehem, title essay p 84-128
+	- Tom Wolfe, The Electric Kool-Aid Acid Test, entire
+	- Film: Once Upon a Time...in Hollywood
+	- 7 - STAGNATION I: JOURNALISTIC ACCOUNTS
+	- Christopher Caldwell, the Age of Entitlement, p 3-279
+	- Camile Paglia, Provocations, selections p 465-480
+	- 8 - STAGNATION II: THEORETICAL AND NOVELISTIC ACCOUNTS
+	- Carl Schmitt, The Crisis of Parliamentary Democracy, entire
+	- Michel Houllebecq, Submission, entire
+	- 9 THE CASE AGAINST GROWTH:
+	- Dietrich Vollrath, Fully Grown, entire
+	- Donella Meadows et al., The Limits to Growth, selections p 45-155
+	- 10 WAYS OUT?:
+	- Ernst Juenger, The Forest Passage, entire
+	- Henry George, Progress and Poverty, entire
+-

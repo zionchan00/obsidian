@@ -1,0 +1,50 @@
+- Greek works to go through
+	- https://classics.princeton.edu/programs/graduate/reading-lists
+- Secondary resources on tragedy and myth
+	- The Marriage of Cadmus and Harmony
+	- Psyche - Erwin Rohde. Nietszche's friend who influenced him
+- Secondaries on transformation of Greek Society from platonic philosophy and the origins of philsophy
+	- Preface to Plato
+	- From Religion to Philosophy by Conford
+- Greek primary resources to read
+	- Homer
+	- Pindar
+	- Hesiod - Works and Days/Theogony
+	- Herodotus - The Histories
+	- Aristophanes - Clouds, Lyistrata, The Archarnians
+	- Aeschylus - Oresteia
+	- Plutarch - Lycurgus, Solon
+	- Sophocles - Oedipus Rex, Oedipus at Colonus, ANtigone, Philoctetes, Ajax
+	- Euripedes - Hippolytus, Bacchae
+	- Sappho - Poems 1 and 31
+	- Xenophon
+
+- Secondaries on Greek culture/history
+	- Burckhardt - focuses on the 6th century BC of the Aristocracy
+	- 
+- Secondaries on Greek religion and myth in culture
+	- Ernst Curtius or Basil Gildersleeve
+	- Look at 'A history of greek literature' by Lesky and 'Greek Tragedy' by him, they are s THE standard on poetry/myth
+- The Greek Way Edith Hamilton
+  The Greeks and the Irrational
+- The Discovery of the Mind: In Greek Philosophy and Literature
+  The Greeks and Greek Civilization
+  Glotz - The Greek Civilization and its institutions. found it in Dodds' work
+- The poetics of eros in ancient greece
+- [Hugh G. Evelyn-White](https://www.goodreads.com/author/show/2045270.Hugh_G_Evelyn_White)
+- [[Ancient Tragedy & The Origins of Modern Science]]
+- The SOul Of the Greeks
+- Writing the poetic soul of philosophy
+- Greek SCience G.E.R LLloyd
+- Nature, Law, and the Sacred
+- _Homo Necans_ (1972, English 1983), _Greek Religion_ (1977, English 1985), and _Ancient Mystery Cults_ (1982 lectures, published 1987) from Walter Burket
+- Orpheus and the roots of platonism
+- Sarah B. Pomeroy. A Brief History of Ancient Greece: A Political, Social, and Cultural History
+- The Tyranny of Greece over Germany
+- Ancient Greece by Judith Barringer
+- Bury's survey of Ancient Greece
+- The invention of athens
+- The WOrld of Odysseus - MI finley
+- Classical Bearings: Interpreting Ancient History and Culture
+- https://publishing.cdlib.org/ucpressebooks/view?docId=ft4r29p0kg&chunk.id=d0e55&toc.depth=1&toc.id=d0e55&brand=ucpress
+- Themis: A Study of the Social Origins of Greek Religion

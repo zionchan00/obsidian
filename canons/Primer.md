@@ -1,0 +1,11 @@
+- Why primer?
+	- Maksymam and Ryan understand that you can't seperate 'human being' from worker. it'sal in one, hen you hire someoen your'e hiring their whle beind. I see this beign demonstrated in the hiring of coaches, in the team's writings on blogs(emphasizin a human's curiosity which can lead to interests outside of work)
+		- the very hiring of coaches was asmart move,  great way totap things which ew can't say in publci but wuld say to an outsier 1 on 1, like a therpaist
+- Product
+	- Clubs:*Clubs are spaces for kids to interact asynchronously — much like a Facebook group — organized around interests. Examples include Storytellers, Gamemakers, Cooking, Photography, Naturalists, Music, and Inventors.
+	- Inside clubs are rooms and pursuits
+	-   **Rooms: COVID meant Clubhouse-like experiences, even for kids. Rooms are live, collaborative, audio-only experiences for up to 8 kids ages 9-14.**
+	-   **Pursuits: Pursuits are multi-week, deep-dive experiences where kids work together in small teams on a specific topic.**
+- Competition
+	- Higher Ground
+	- Synthesis

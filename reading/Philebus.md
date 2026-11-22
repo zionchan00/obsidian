@@ -1,0 +1,3 @@
+Jacob Klein's lecture/essay
+- What is right relationship between thinking, pleasure, and the best life?
+- Socrates. 11b. Well, then, Philebus claims that to enjoy, pleasure, delight.3 and all that is consonant with this genus is a good for all animals. The stand we are taking in opposition is that it’s not these things, but, we say, to be thoughtful, to think, to remember, and, what’s akin to them, right opinion and true calculations prove to be better than and preferable to pleasure, at least for everything capable of sharing in them; and to be capable of participation is, for all the things that are and will be, the most beneficial of all things

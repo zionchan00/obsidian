@@ -1,0 +1,70 @@
+- US healthcare system
+	- ![[Pasted image 20230303132102.png]]
+	- ![[Pasted image 20230303152143.png]]
+	- One explaination for why healthcare costs increase with increased tech adoption![[Pasted image 20230303150020.png]]
+	- ![[Pasted image 20230303150332.png]]
+	- Typologies of healthcare systems
+		- Compare them by sources of healthcare funding and where the funding goes through a country's national healthcare account
+		- 4 models of paying for healthcare services or whether sector financing is public/private or whether providers are private/public
+		- ![[Pasted image 20230303151958.png]]
+- To read
+	- On the flow of money/prducts/info between producers/providers and distributors
+- Consumerization of healthcare
+	- Value-based care, wearable technology, telehealth
+- MRNA has a lot of potential > cancer vaccine
+- Trends
+	- The merge between payer and provider
+		- In what way are they different? 
+		- In what way are they the same?
+			- Returns to scale exist (labor, purchasing/pricing power (even across geographies), data)
+			- Both are getting screwed by drug costs and labor shoratges
+			- Increasing admin costs and decreasing operating margins
+		- Trends pushing them together
+			- Shift to value-based care. Long-term prediction could be that a few will stay seperate, most will become RSOH
+		- Examples
+			- CVS Aetna $49B in 2019, Unitedhealth group acquiring LHC in May 2022 for $5.4B and for its Optum subsidiary,   
+- Primary care
+	- Carbon health
+	- One medical
+		- Stakeholders: consumers, employers, provider,s health netowrks
+	- Teladoc
+	- Kaiser Permanente
+	- Oak street health
+	- Galileo health
+	- Cityblock health
+- Clinical trails
+	- Trialspark
+	- Vial
+	- Power
+	- unlearn.ai
+	- Is clincial trials even a bottleneck?
+- Insurance
+	- Oscar health
+	- Bright health
+	- Clover
+- Genomics
+	- Color
+	- Nucleus
+	- karius
+- pill mills
+	- Ro
+- Osmind
+- Digital health
+	- Categories
+		- Billing and payments
+		- App development and deployment
+		- Screeniing, monitoring, diagnostics
+		- Provider directories and care navigation
+		- Hybrid virtual/in-person care
+		- Data integration and analytics
+		- CLinical intelligence
+		- Home health tech
+		- Virtual car
+		- Digital frotn door and pateint engagement
+		- Digital pharmacy and dme fulfllment
+		- care coordinationa dn collab
+		- workflow digitzation and automation
+		- computer-aided imaging
+		- clinical trials tech
+- Pharma
+	- ![[Pasted image 20230308205703.png]]

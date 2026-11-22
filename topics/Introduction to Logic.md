@@ -1,0 +1,50 @@
+ 
+- Exercises on pg 49-50,53,54, 63,64,68, 73,78, 83
+- arguments are never true or false, only statements or propositions can be true or false.
+- valid or invalid only applies to arguments/inferences/forms of reasoning, NOT to statements/propositions
+- Validity
+	- Invalid argument - when premise doesn't lead to conclusion
+	- valid argument - accepting the premise means you have to accept the conclusion
+	- logical inconsistency is when an argument, without having background knowledge, cannot be true, i.e you can a priori identify a contradiction in the premises. here incompatibility is taken as the standard for logical inconsistency
+	- logical incompatibility depends on knowledge of what we're talking about, while inconsistency is contradiction. in purely formal contexts, inconsistency is the standard for incompatibility. 
+	- formal validity is when we interpret incompatibility as logical inconsistency. whenever we're in a formal context where we interpret incompatibilityt as logical inconssitency, validity = formal validity
+- soundness
+	- argument is sound ONLY if valid and premises are true. otherwise unsound
+- Statements
+	- sentence-types are ideals, tokens are the real-world actualizations of these types. I.e it is raining vs il pleut vs es regnet, same proposition, same sentence-type, different tokens.
+		- sentence-type can be broken up into propositions (referent) and declarative sentence (the actual form of the referent which is subject to grammar rules, written or spoken)
+	- statement is a sentence that expresses a proposition that is true or false
+- Compound statements
+	- a compound statement has component statements inside. a statement is a component when it can be swapped out for another statement and the compound is still understandable
+	- simple statements have no components inside
+- Statement operators
+	- Statement operators bring single statements into compound statements. E.g 
+		- unary operators. turn single statement into a single compoundI. e.g (insert single statement) believe/that (insert single statement)
+		- binary operators: (insert single statement) or (insert single statement)
+	- truth-functional operators are operators that create a compound who's truth value is ONLY determined by the truth values of the component statement
+		- E.g Zion said x. This is true IF I said x
+		- E.g it is not true that Zion said X. The truth of the compound is dependnet on 'Zion said X', and hence 'It is not true' is a truth-functional operator
+	- ![[Pasted image 20221107162303.png]]
+- Conditionals
+	- Antecedent: the condition
+	- Consequent: what happens if condition is met
+	- Always symbolize in standard form (antecedent ➔ consequent) even if statement isn't
+	- truth-functional or material conditionals: if antecedent true, consequent happens
+	- complex conditional is when antecedents or consequents are also conditionals
+- modus ponens: if P then Q. P happens, so Q does too
+	- fallacy of affirming the consequent. is when you go from p > q, q is true so p has happened
+- negations
+	- be careful a negation has to contradict the original statement
+- modus tollens: From P ➔  Q and not Q, infer not P
+	- Double negation: P infer not not P, from not not P infer P
+	- E.g not P ➔  not C, C therefore P
+		- To prove this with MT, not P = P and not C = C
+		- P ➔ C, not C means not P, which means 
+	- fallacy of denyign the antecedent: p → q, not p, therefore not q
+- inference vs implication: implication is a relationship between statements (conditional like p→q, only assertion is that Q follows from P), inference is a human-created conclusion (argument like Assert  P, therefore Q is asserted to follow)
+- conjunction: p&q, p and q are called conjuncts. remember don't write (A→[B&C]), write A→[B&C]. true when both are true, false when atleast one is false
+	- Simplication: is when a conjunction exists, infer one of the conjuncts. E.g from p&q, infer p or infer q
+	- Conjunction: take 2 statements stated seperately and infer their conjunction. E.g from p and q separate, infer p&q
+	- ![[Pasted image 20221219174448.png]]
+	- conjunctive syllogism: premise is deny conjunction but assert one of the bonjuncts, inference is to deny the other conjunct
+- 

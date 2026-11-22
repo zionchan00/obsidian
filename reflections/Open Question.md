@@ -1,0 +1,1 @@
+Why aren't there family dynasties anymore? what advantage came towards that structure and whta disadvantages came against it?

@@ -1,0 +1,11 @@
+- Key themes
+	- What is philosophy
+		- [[Symposium]] 203e-204. Philosophy as Eros
+- [[the Apology of Socrates]]
+- Paramenides trans. Samuel Scolnicov, Theatetus trans. Seth Benardete, Sophist trans. Seth Benardete, Statesman trans. Seth Benardete
+- Phaedo, trans. G. M. A. Grube (Hackett: 1977) _*Phaedo, *_trans. E. Brann
+- Secondary Sources
+	- Klein, Burger, Benardete, Stan Rosen's commentaries
+	- https://twitter.com/athens_stranger/status/1532840385273221120?s=21&t=ZUgMLByuFlUDTSi8px47XQ
+	- Plato's universe
+	- 

@@ -1,0 +1,39 @@
+- Bioenergetics - bow streetch and chair stretch
+- 
+- https://en.wikipedia.org/wiki/Body_psychotherapy
+- Reichian Therpay: Willis is my next to read. maybe emotional armoring
+- Sacrial cranal
+- Tibetan sacrial cranal
+- Reichean dearmouring through masage intsructors
+- Seems hudosn uses breathwork in order to 'trigger' the emotions in people
+- Stuff I think works:
+	- Chris Lahkin
+		- ![[Pasted image 20250723191457.png]]
+		- When I [interviewed](https://chrislakin.blog/t/reviews) successful clients to determine the difference between my approach and what they had tried before (for example, including 8 years of talk therapy, 2 years of IFS, hundreds of hours of meditation, CBT, retreats, psychedelics, …), they said that my approach was the first to help with the present-day incentives for their issue. Other approaches had treated their issue as _simply_ _suboptimal:_“Your issue is due to childhood trauma. Your insecurities were useful at some point in the past, but now they’re just old strategies that aren’t serving you anymore.”
+		  “You need to practice meditation until you learn the skill of [being present](https://chrislakin.blog/p/being-present-is-not-a-skill).”
+		  “Practice these CBT mantas…”
+		  They didn’t resolve their issue because the present incentives went unaddressed. **It’s about present predictions, not past trauma**One might wonder, “What happened to you? What trauma _caused_ your inability to say ‘No’?” But that’s all irrelevant. [All that matters is that I had that unconscious prediction in that present moment.](https://chrislakin.blog/p/locally-optimal)
+	- https://chrisbarber.co/Resonance - haven't tried yet, but seews right
+	- Gendlin focusing
+	- Reichian breathing ont he floor, 15 minutes to start, work to 30, work to an hour
+	- Imagining a visual of myself hugging a part of me that I'm ashamed of (e.g the way I act like a little kid in some situation instead of acting l/ike an adult > "what ould an adult do to that kid" "hug them" > visualize it)
+	- Coherence therapy 
+	- finding environments to trigger emotions that I suppress in myself that are safe (e.g combat sports for anger and aggression, physically beating something up). learn that getting mad is ok, what's not ok is when self-emotions are taken out on others
+- Stuff that I'll try in the future
+	- do nothing meditation
+	- inner child 
+	- open awareness
+	- shinzen young meditation
+	- sowatic experiencing
+	- core transformation - https://neuroticgradientdescent.blogspot.com/2019/07/core-transformation.html
+	- the workb
+	- dzogchen
+	- TWIM
+	- wholeness work
+	- lefkoe belief precoss
+	- metaphors of movement
+	- internas double crux
+	- bioemotive parts work
+	- sedona method
+	- peaceful prefs
+	- 

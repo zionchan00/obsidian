@@ -1,0 +1,6 @@
+- Ricoh gr II is best GR for me
+- COnsider x70 as an alternative
+-
+- https://www.ebay.ca/itm/165401485887?hash=item2682b2623f:g:baQAAOSwTvBiF48k#vi-desc-maincntr
+- https://www.ebay.ca/itm/275198041702?epid=28015161811&hash=item401314de66:g:KLIAAOSwNTRh7iwV
+- https://www.ebay.ca/itm/144481967338?hash=item21a3cbdcea:g:syQAAOSwHFZiREaV

@@ -1,0 +1,2 @@
+- Agamemnon's Apology
+	- The Greeks needed a mechanism to explain 'irrational' behaviour, from the perspective both of the actor and witnesses. 

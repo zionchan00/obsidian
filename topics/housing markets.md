@@ -1,0 +1,4 @@
+- What's odd about Canada specifically is how the housing markets work here. We want more 'affordable housing' and we're building more supply, but I look around Toronto and there seems to be plenty of housing being built + lots of condos
+- https://deputypm.canada.ca/en/news/news-releases/2023/09/26/government-canada-unlocking-20-billion-new-financing-build-30000-more
+- Government reasons to keep housing up
+- Reasons to lower housing prices

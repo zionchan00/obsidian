@@ -1,0 +1,9 @@
+- Structrual Anthorpology - Levi-Strauss
+- [[Myth and Meaning]] - Levi-Strauss
+- [[The Interpretation of Cultures]] 1973 [[Geertz]]
+- [[Purity and Danger]] Douglas
+- Schools of symbolic anthropology https://anthropology.ua.edu/theory/symbolic-and-interpretive-anthropologies
+- [[Homo Ludens: A Study of the Play Element in Culture]]
+- The Secrets of our success
+- the WEIRDest people
+- The jewishmind, the arab mind

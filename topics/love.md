@@ -1,0 +1,15 @@
+- What are you willing to tolerate? What's a deal breaker
+- Why do relationships not workout?
+	- Lack of physical attraction
+	- This feeling that this isn't something I'm willing to fight for anymore. What makes you feel this way?
+		- Attention despiral - you stop paying attention to them because you have work occupying your mind, or other human beings, and if you aren't paying attention to something, you can't remember why it's awesome
+		- Also uniquely with relationships, we have expectations and we don't feel we have obligations. The reason being si that a bad relationship so negatively impacts the rest of your life, that you think fi a relationships will be bad going forward, even if you have tons of past history, the obligation to stay inside feels weak compared to knowing the suffering you could have in the future
+			- I think it's natural to have attention drift depending on what's happening in life, so you should stick it out and see how attraction changes as you invest more into the relationship
+			- Also seeing how someone acts during attention drift, are they able to be cognizant that that's the case, ask themselves why the relationship isn't so fun, and take action to solve it
+		- Also your own life feeling not good - you start to lash out on your partner when you feel instability, and also what you find attractive/value may change as a result. E.g people experiencing career doubts and instability (Cindy) will want their partner to have strong careers, people with doubts about friends (Emma) will patrol their partners friends, people with doubts about their attractiveness will want someone who they think is perceived as highly attractive by others (Echo)
+			- We're all going to go through uncertainty, so seeing how someone reacts to that and whether they value the relationship based on how helpful it is at that point in time in helping them is a test
+		- You actually get 'turned off'
+			- Unattractive behaviour from someone you date is going to happen, as the uncle eddie says, it's what you're willingto tolerate and how much that's the question
+			- Ch
+		- What makes a relationsihp feel sexy and attractive, high-energy and dynamic?
+			- You can't have too much of the childish behaviour, because childishness is actually anti-correlated with sexuality and sexyness. 

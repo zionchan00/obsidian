@@ -1,0 +1,3 @@
+- Going to haiton INTL this summer, recruiting for '24 sa. recruiting for evergreen, holding company
+- wants to do investing/PE long term
+- technical mentor is shaun, behaviural is dixon

@@ -1,0 +1,2 @@
+- https://www.sciencesource.com/CS.aspx?VP3=DamView&VBID=2OPVHKLELK8HV&SMLS=1&RW=1886&RH=925 print the image at costco
+- https://etsyshop99.com/product/2001-a-space-odyssey-stanley-kubrick-minimalist-movie-poster-vintage-retro-art-print-custom-poster-wall-art-print-home-decor/

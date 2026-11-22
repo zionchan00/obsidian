@@ -1,0 +1,34 @@
+
+- https://www.washingtonpost.com/archive/opinions/2001/09/23/how-did-spending-become-our-patriotic-duty/bc893ad4-c8a9-4a65-8ed6-aefd9f392691/ i quite like thi spiece on consumption-driven economics and, Samo linked it to Industrialism
+- https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf > i like this one a lot too, just read it onjan 16th 20234
+[[The Failure of New Economics]] roast of [[The General Theory of Employment, Interest, and Money]]
+- The Price of Peace: Money, Democracy, and the Life of John Maynard Keynes - intellectual history of keynes
+- Hayek, a life. highly recommended by cowen
+- Economic Philosophy: an Essay on the Progress of Economic Thought - recommended by Mcihael Pettis
+- https://www.reddit.com/r/Economics/wiki/reading/#wiki_general_intro_to_economics
+- https://www.reddit.com/r/AskEconomics/comments/u992pw/what_are_the_best_economics_books_that_you_have/
+- https://www.reddit.com/r/AskSocialScience/comments/11b6ig/what_do_you_think_the_top_5_or_10_books_every/
+- The Forgotten Man: A New History of the Great Depression
+- Rational Decisions, Binmore - taleb says best book behind neo-classical econ
+- https://moontowermoney.com 
+- Model of the economy
+	- Human capital
+	- Capital
+- Development
+	- When looking at Chiense land reform and the Xiaogaong experiment, i'm suprised that moving away colelctivisation boosts producitvitythat much - in geenralm, i'm confused people work THAT much harera dn samrter
+	- If you don't privatise water, you could haev state-funded initiatives towards the funding of water infrastructure such that no one gets denied acess still
+	- Why is privatisation as a tool so succesful?
+	- Cowen notes that Norwegian grandchidlren in AMerica will inherit high trust vie wof the world fromt heir parents, because trust comes from how you model the world, so your parents can pass assumptions picked up in Norway and bring them to AMerica
+- PPE recommendations
+	- There are some economics books not of a text-book nature which you may find interesting:
+		- M. Slater: The National Debt (2018)
+		- J. Kay: The Truth about Markets (2003), and The Long and the Short of It (2009)
+		- T. Harford: The Undercover Economist (2006)
+		- P. Krugman: The Accidental Theorist and other Dispatches from the Dismal Science (1999) M. Yunus: Banker to the Poor (1998)
+		- There are many books about the recent financial crisis and its implications, among the best are:
+		- P. Krugman: The Return of Depression Economics and the Crisis of 2008 (2008) M. Wolf: Fixing Global Finance (2009)
+		- G. Tett: Fool’s Gold (2009)
+		- G. Akerlof and R. Shiller: Animal Spirits (2008)
+		- N. Taleb: Fooled by Randomness (2004), and The Black Swan (2007) C. Reinhart and K. Rogoff: This Time is Different (2009)
+		- D. Graeber: "Debt: The First 5,000 Years" (2012)
+		- A. Admati and M. Hellwig: "The Bankers' New Clothes (2013)

@@ -1,0 +1,14 @@
+- What is my worst case?
+	- Failed father
+		- Unable to give time to my family
+			- How often do you need to be there for family though?
+				- Celebrations shouldn't be missed,
+			- Being in a position where long hours are worked because of low pay OR high pay
+			- Being in a position
+		- Unable to give presence to my family
+		- Unable to give resources to my family
+	- Failed citizen
+		-
+	- Failed friend
+	- Failed individual
+		- I actually think contrary to Western assumptions, working our craft/our passion may not be the highest honor. Looking at my parents, yes their work is hard and it isn't exactly what they want. But because their expectations are different in that they expect only work as a means to sustenance, they aren't disappointed.

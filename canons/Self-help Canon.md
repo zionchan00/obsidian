@@ -1,0 +1,9 @@
+- [Loving Kindness](https://docs.google.com/document/d/1nrHi6vTRJI_MELW_gtTiEaaYwK8I82ytMIpHbmM0KNY/edit#)
+	- ![image.png](../assets/image_1643562755886_0.png)
+- https://www.psychotherapynetworker.org/blog/details/651/going-beyond-mindfulness-with-internal-family-systems
+- https://personal-growth-programs.com/products/self-therapy/
+- The starter book: https://www.amazon.co.uk/Lovingkindness-Revolutionary-Happiness-Shambhala-Library/dp/1611806240/ref=sr_1_1?dchild=1&keywords=lovingkindness&qid=1635348283&s=books&sr=1-1
+- http://library.dhammasukha.org/uploads/1/2/8/6/12865490/a_guide_to_twim.pdf this next
+- guided meditation: https://www.youtube.com/watch?v=7Jb72-QgXOc and alternative http://www.leighb.com/DoYouLikeToBeHappy.mp3
+- https://www.amazon.co.uk/Mind-Illuminated-Meditation-Integrating-Mindfulness/dp/1781808201 concentration meditation
+- Radical acceptance and replacin gguilt

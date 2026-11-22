@@ -1,0 +1,4 @@
+- The Social Contract #political trans. Victor Courevitch
+- The Discourses #political trans. Roger Masters
+- Politics and the Arts, Allan Bloom
+- Emile, Allan Bloom

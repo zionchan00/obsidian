@@ -1,0 +1,2 @@
+- juniro at BC, couldnt find 2023 summer internship at bb. trying to go '24 FT consulting. gonna do a consulting internship
+- 3 chiense internships

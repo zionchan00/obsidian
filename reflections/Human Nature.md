@@ -1,0 +1,1 @@
+- People have a tendency to downplay their current problems. If you approach someone about a health issue as an example, they tend to immediately dismiss it as not a problem or not that big of a problem. Why? The more obvious of a problem it is, the more they point it out

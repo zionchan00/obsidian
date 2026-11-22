@@ -1,0 +1,6 @@
+- https://www.reddit.com/r/leostrauss/comments/og320k/two_outlines_of_john_by_benardete/
+- Leon Kass
+- Biblical and Classical Myths: The Mythological Framework of Western Culture
+- Words with Power: Being a Second Study of the Bible and Literature
+- The Great Code: The Bible and Literature
+- The Gospels - Sarah Ruden translation. [[Tyler Cowen]] says top book of the past decade, only in this translation is Jesus' strangeness shown

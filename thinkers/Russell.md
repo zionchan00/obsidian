@@ -1,0 +1,14 @@
+- An Inquiry into meaning and truth
+- Authority and the Individual
+- The COnquest of Happiness
+- The Analysis of Mind
+- This is Russell's theory of description
+- "The F is G" means
+	- There is atelast one f
+	- there is at most one f
+	- every f in g
+- To russell "the F" is not the sort of expression which has a referent. We would call it a quantifier phrase. "The F" doesn't have a  proposition. Meaning only happens when we create rules that set out when a proposition is true
+- Russell has the simple view of meaning: there's language meaning, world meaning, correlation between the two is meaning. there's no sense, no descriptive content for genuine names.
+-  'the king of france' is not meaningful, regardless of whether there is a referent. 'the king of france is badl' is meaningful but no referent
+- They aren't genuine real proper names, xo
+- 

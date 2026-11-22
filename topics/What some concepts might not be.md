@@ -1,0 +1,3 @@
+- pg 276![[Pasted image 20221210222527.png]]
+- i think the disparities have less to do with confuson around the definition of the concept and more to do with the instances being compared
+- On second experiment, refutation is that 'if a concept is mentalyl represnted by prototype > feature matching to test new instance > processing time will be faster for those with features more in common than prototype'

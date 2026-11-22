@@ -1,0 +1,6 @@
+- For Silas
+	- https://etsyshop99.com/product/2001-a-space-odyssey-stanley-kubrick-minimalist-movie-poster-vintage-retro-art-print-custom-poster-wall-art-print-home-decor/
+	- taxi driver or schindlers list
+	- maus
+	- jpg mafia, mf doom, or kendrick lamar
+- Get frames from ikea

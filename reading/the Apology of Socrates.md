@@ -1,0 +1,2 @@
+- Why does Meletus accuse him both of atheism, that he doesnt' believe in gods, but also that he tries to move people away fromt he gods of the city towards other gods? 
+- What even are the gods of the city?

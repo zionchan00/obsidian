@@ -1,0 +1,2 @@
+- note Tetlock's paper on this topic: people are offended if they believe you find their sacred beliefs commensurable/tradable. https://static1.squarespace.com/static/596a07c029687fd47a2d41cc/t/5eadf2ff5f50e02b1614165a/1588458239856/tetlock03.pdf
+- Graeber similarly notes the same with a certain tribe, in which life was incommensurable and hence could never be paid for

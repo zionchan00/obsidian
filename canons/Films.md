@@ -1,0 +1,23 @@
+- Ingrid Bergman - Persona. Good intro to his work
+	- Scenes from a Marriage
+	- Smiles of a Summer's Night
+	- Devil's Eye
+	- Tyler says "Wild Strawberries and Fanny and Alexander are also famous but not his best stuff."
+- Eric Rohmer: https://www.firstthings.com/article/2020/10/the-anti-romantic
+- When Harry Met Sally - Kass says good example of modern courtship
+- Upstream Colors
+- Her
+- My Dinner with Andre
+- A Serious Man
+- Dogville
+- Crimes and Misdemeanors
+- Kubrick
+- Tarkovsky
+- Antioni
+- Apocalypse Now
+- American Beauty
+- 5 cm a second
+- Eyes wide shut
+- Love Exposure
+- Reviews
+	- [[Yi Yi]]

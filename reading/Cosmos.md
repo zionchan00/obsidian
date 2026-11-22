@@ -1,0 +1,3 @@
+- IBC
+- $ATOM
+	- Used for staking

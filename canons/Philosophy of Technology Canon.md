@@ -1,0 +1,70 @@
+- Readings
+	- Ted Kaczynsky
+	- Heidegger
+	- Jacques Ellul
+	- Ivan Ilich, Tools for Convivilaity
+	- Spengler, Man and Technics
+	- Junger, Failure of Technology and the Worker (checkout Athenian Stranger on this part)
+	- Mcluhan
+	- The Gods and Technology: A Reading of Heidegger
+- History
+	- Industrial Reovlution
+		- Panaemonium, Humprehey 
+	- Medeival technology adn social change
+- Current thoughts
+	- My current thought on technology is that it provides faster and more accurate ways of fulfilling your desires
+		- Transportation: horse > car > bullet train
+		- Shopping: Sears > amazon
+		- Information: generic news > personalized feed
+	- Technology is objectively a selection pressure on humans, where those who have the genes + time to learn all there is will be best able to navigate the cultural landscape by understanding how the future looks and what one should do to survive in it. The natural reaction of those who are left behind will be to try to shut it down or ignore it. 
+	- My simplest argument for technology is that it is the best fight we have against fat-tail catastrophes, the best hedge we have against dying out
+	- What about technology is it that makes it feel like it's going to play a bigger role? 
+		- It's because I associate it with wealth creation, bc software has earned so much money a lot of smart ppl we know have become SWEs 
+		- miracles, spacex + chatgpt
+		- 
+	- My positive view is that
+		- computer technology is naturally freeing for the human because the computer is a blank slate that can simulate any computation given enough time - it can display whatever you want if you have the resources
+			- It can allow you to create whatever it is you want on your screen, so time + access to physical resources is no longer a constraint
+			- you can learn whatever it is you want, since knowledge has become digitized
+	- My negative view is that technology is 
+		- the lack of constraints on what is on your screen means that you have to have self-control to make sure you get what you want out of the screen, given the screen can become anything you desire, you have to do a good job of making sure it it shows you what you want
+- Current readings
+	- Jonas, Towards a philosophy of technology 
+		- The form of technology: what's new materially about modern tech vs old ones
+			- The biggest diff is that old tech has an 'equilibrium' of means <> ends, meaning that ends can be satisfied for longer periods of time vs now. Whereas modern technology is able to create new ends that were not possible, both from new possibilites but also from negative externailities and from the need for a new value chain, e.g we can now talk to people we otherwise couldn't, before while also raising our standards with 'better' ends than previously, e.g going faster and faster. As a result he says that modern technology is an 'enterprise and process', whereas older tech is a 'possesion and state'. He further points to our idea of 'progress' (to him the strongest argument for a split between modern vs past), the fact that many innovations were not invented but were introduced by other less civilized groups (e.g new forms of warfare), groups not properly utilizing their tech (e.g compass and gunpowder), no conscious/serious attempt to make new tech, little evolution in tech/tools/techniques, no information exchange across diff units. He also points ot these civilziatiosn being called 'classical' as evidence that they were content with a 'capped' perforamnce in science and tech
+				- The reason IMO is that we've unlocked auto-poetic technology. Information technology is different from anything that came before since it can ingest an input which abstractly represents all that there is in the world. It can then transform these inputs and do something with it. It can sense and it can process, similar to 
+				- 
+				- humans
+				- I'm actually skeptical if past technology was that different, or past attitudes were that different. I think information technology is a step-change in that it helps unlock further advantages from increased computation. I think this debate matters because perhaps the reason we feel technology is responsible for our problems of being badly socially adjusted is not because of tech, but because of other things. 
+			- What further drives change is profit motive to get rich + survival from longer life spans and resources getting more expensive (environmental damage and life extension from tech, so tech is exerting more pressure to keep itself going). States also have a strong incentive to invest in technology as a means for better statecraft
+			- There's also the hopes of technological utopia, which he correctly notes comes as a response AFTER seeing the power of tech, rarely before. it's a philosophy that comes only from experience, like a miracle
+			- And the faustian desire to understand, to manipulate
+			- Underlying all the above points, what they all share in common, however is that there is further 'unknown' to explore, more of reality we don' t quite understand yet, and that it is possible for us to do so
+			- What gives technology it's restlessness and the belief that it can go on forever is our understanding of reality that comes from modern science and the deep relationship between it and technology according to Jonas. Newton's laws were able to reduce the workings of the planetary bodies into simple equations, and it seemed reductionism was possible. Where as the deeper we go into modern science, we keep finding new areas where the old laws turn out to be bounded in their ability to predict the future, and we find more depth than ever. We now realize science is a never-ending journey and the complexity of science only grows overtime. To handle this complexity science needs the help of technology and hence pushes forward. Now IF science and our understadning of nature changes, then our beliefs concerning technology will change. Jonas writes that there isn' tjust a will to understand here, but a practical need for knowledge.
+		- Jonas sees two philosophical implications of tech: firstly how it impacts knowledge and makes it practical (not clear how), second on means - ends reversion (goes from being a mean to becoming an end in itself bc the more problems it useful it is the more powerful it becomes in our eyes)
+		- Technology becomes a consumer itself in its demand for inputs, changing man's relation to nature
+		- Also for a given new way of doing things (e.g railways vs horse), we not onyl complete a diff rpoduct that solves th eold end better of trnasprotaiyton but we also create a rpoduct thats so different inq aultiy that it createsnew ends
+		- I think Jonas makes a mitstake when he calls IT a uniquely an 'inherent pardadox' that threatens to replace man. ALl technologies since the beginnning fo tem have been evolutionary pressures
+	- Klein, What is technology
+		- hardware/artifacts (not natural objects made by humans)
+		- sociotechnical system of manufacture (both the humans and hardware/artifacts involved in the manufacturing process of hardware/artifacts, such as the value chain for a phone )
+		- technique (knowledge of how to accomplish something)
+		- sociotechnical systems of use - e.g the value chain around a tech and the people  in it, the bigger picture system. not just cars, but gas stations and roads and drivers test and driving instructors
+	- Three ways of being with technology
+		- Ancient skepticism
+			- Technology is bad because the rate of change is so fast that it prevents good habits from being formed - c.f Republic
+			- tech is bad bc it's naturally focused on alleviating the ills of nature, but this means we focus on the lowest/weakest/unhealthiest (doesn't mention that tech can accelerate the best too) - Republic
+			- tech is bad on a metaphysical level (Aristotle). Art creates things by form + matter, the material we choose we pick because it's a good fit for the end-product. Whereas with entire synthetics, they contain traits which don't fit in with their surroundigns at all. E.g when we make a clay pot, the clay has a weight to it which is similar to a stone. But a plastic container is way too light
+			- Bible/Torah/Quran - tech is bad bc it makes us focus on the earth instead of transcendence
+		- Enlightenment Optimism
+			- God actually wants us to move away from knowledge of morality/politics, bc that is what caused us to originally fall, not knowledge of nature
+			- Technology creates luxury, which can be neutral for morality OR technology is actually GOOD for morality, it encourages commerce which incentivizes good morals and peace. technolgoy also leads tos cientific progres which tends to increase tolerance and sociability. Montsequieu and Hume.
+			- There is no difference between nature and art as Aristotle put it, everything is art, including man himself, so we are all knowable + manipulable. 
+			- bacon was a pragmatist, and believed knowledge = what works, so technology is the best way to learn things
+		- Romantic skepticism
+			- The romantics have a different conception of nature, it is now thought about as something that is constantly changing overtime, and art is thought of like this too (Byron)
+			- Reason alone isn't enough, we have to rely on the imagination and our feelings (Coleridge and Blake)
+			- Tech is no longer an unabated good, as we see social division intensify from industrialization (Blake's London and Dicken's Hard Times)
+			- Tech unlocks the sublime, creations which are made by individuals and break what was possible before
+			- Tech however also inundates us with knowledge which can prevent action, which is most important (Rousseau)  
+		- Takeaway is that our view of technology depends on how it impacts our emotions individually, how it impacts how we relate to others, how we think about 'nature'/the world outside of us, whether the outputs are beautiful or not in the world

@@ -1,0 +1,8 @@
+- https://underground.university/book-lists/political-philosophy-an-advanced-reading-list/
+- https://montanaclassicalcollege.substack.com/p/hum-302-nationalism-vs-globalism?utm_source=url&s=r
+- https://contemporarythinkers.org
+- https://thegreatthinkers.org
+- I shoul ddefinitely read the presocratics (thales, anaximander, heraclitus, parmenides, thucydides again) then go into the rest of the greeks
+- Existential Marxism in Postwar France: From Sartre to Althusser
+- A Hundred Years of Philosophy (Pelican). - history of 20th century phiosophy
+- origins of modern poltiical thought - full series

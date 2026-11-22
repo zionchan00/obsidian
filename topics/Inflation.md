@@ -1,0 +1,21 @@
+Stephen Tapp
+- Why arent there policy options to get our economy moving? What levers do banks have?
+- 3 shocks: pandemic, policy response to pandemic, and now ukraine war (stagflationary)
+	- demand was initially pent up > now released > inflation from this +  supply decreasing
+	- grey zones shaded below are previous recessions
+	- ![[Pasted image 20221130181120.png]]
+	- i wonder what the tools are to deal with such massive uneployment?
+		- what happened in practice - rate drops and QE
+		- stephen poloz says 'if we used too much water to put out the fighter, atleast we avoided the second great recession'
+	- ![[Pasted image 20221130181637.png]]
+	- This showcases actual inflation vs predictions made at that time
+	- Rate hikes slow demand over 4-8 quarters: exchange rates, borrowing costs, housing durables, goods, services
+	- you can look at PCE data where you look at price and volume increasign at the same time which should be from demand increases.![[Pasted image 20221130182609.png]]
+	- prices he looks at: shipping containers, semiconductors, 
+	- ![[Pasted image 20221130183215.png]]
+- What is objective of bank of canada
+	- ![[Pasted image 20221130183733.png]]
+	- ![[Pasted image 20221130184155.png]]
+	- ![[Pasted image 20221130184837.png]]
+	- How effective are negative nominal interest rates
+	- ![[Pasted image 20221130190309.png]]

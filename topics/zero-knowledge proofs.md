@@ -1,0 +1,5 @@
+- https://www.youtube.com/watch?v=b8WwlHFBXfs
+- https://www.youtube.com/watch?v=hBupNf1igbY
+- ![[Pasted image 20231111202120.png]]
+- ![[Pasted image 20231111202151.png]]
+- ![[Pasted image 20231111202408.png]]

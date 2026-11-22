@@ -1,0 +1,9 @@
+- How far back does justice extend? 
+	- It's true that the Eldians committed terrible crimes. But their descendants no longer reap the gains of those crimes and had no choice over those crimes in the first place
+		- Affirmative action broadly, 
+- How to react to the world
+	- Zeke and his adoptive father. In the face of the suffering Zeke faced
+		- his parents neglecting him as a child, spending all their on the revolution + forcing him to train as a warrior candidate even though he wasn't a good fit for the program bc he didn't really want to do it
+		- being insulted by Marleyans whenever he was out in public
+		- Zeke and his mentor decided it would be better to have never been born into the world at all in the first place bc their Eldian blood would always lead them to be mistreated. I wonder if Zeke really believed that Eldians 'deserved' to die in the face of injustice
+	- Eren decided that his people did not have to go instinct. They could reserve their right to propagation and lose their powers

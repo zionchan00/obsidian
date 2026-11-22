@@ -1,0 +1,7 @@
+- prestige vs dominance hierarchies
+- 
+- Plato's tripartite theory of soul
+- Managing your own rationality. One of the scariest things is to sleepwalk into a decision because your brain didn’t think any scenario other than the one you took was worth considering. Without exploring the different scenarios, your alarm bells never went off, and hence you didn’t think. How do you prevent it? This is a big deal because for a lot of my life I have instinctual swings that feel right. This is problematic when your instinct and gut don’t have limited information (e.g you only get to meet half of a company you want to join and you like them, but the other half, if you meet them you’d dislike) and you need to use your brain. Below involves the design for a custom decision journal, which would force the following:
+- It would have to keep track of all my decisions, perhaps through a spreadsheet. It ideally has some sort of prompting mechanism which forces me to think before I write. I could try this out using a google form with a minimum word requirement, and then add a ‘viewer’ on top which makes viewing easier.
+	- decision tripwires
+- 

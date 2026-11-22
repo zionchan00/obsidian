@@ -1,0 +1,12 @@
+
+- Key people and the ideas they contributed for the formation of the PC. There are so many people, so many ideas, so many visions, that it's so hard for me to keep track of all of them and how they synthesize into the computer we use today
+	- Vannevar bush - Memex from 'As we may think' and making people realize that as the # of papers grew, search + processing becomes more important
+	- JCR Licklider - man machine symbiosis. the belief that humans shouldn't use computers just as calculators, but as a communication tool
+	- time-sharing was also a big one too
+	- Hebbes - computer is similar to a brain,
+	- Turing - computability theory, what did this change for people who were working on the PC?
+	- Shannon - what did information theory do for the PC?
+	- Chomsky - computability to language, universal grammar
+	- von Neumann - for his architecture, look into his og paper that laid out the basic architecture of the computer
+	- Engelbart
+- 

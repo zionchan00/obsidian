@@ -1,0 +1,26 @@
+- The arc of consumer social apps
+	- Facebook
+		- In 2008, Hi5, MySpace, and Friendster were close competitors to Facebook, yet by 2012 they had virtually no market share. The case of MySpace is remarkable, considering that in 2006 it [temporarily surpassed Google](https://mashable.com/2006/07/11/myspace-americas-number-one/) as the most visited website in the US.
+	- Instagram
+	- Twitter
+	- Tiktok
+	- Messenger
+	- Text-message
+	- Snapchat
+	- Calls
+	- Voice memos
+	- 1:1 w close friends
+	- 1:squad
+	- 1:wide squad
+	- 1: strangers
+	- Me <> groups
+	- People are clearly pretty desperate for a platform to share their feelings/more personal things, similar to how wechat moments is a place for my students to do so. It's why they've repurposed Tiktok, which was originally meant for lip-syncing, for this purpose. Why tiktok? The algorithm is really good at matching your content to people who relate
+		- On my moments, people share these feelings bc they want to update their friends. But on Tiktok, it's for 'bragging' and elicitng sympathy from strangers, since Tiktok posts are less graph-dependent while Wechat is limited to your contact book. 
+			- The equivalent of moments posting is posting on close friends instead. From Alina's post, she uses texts, but I see my friends use IG memes they see or save and repost them on their stories to express themselves. 
+		- These peopel share personal feelings bc 
+- A big plus of Discord also is that people would join as soon as they got home from school, it really was a third-place to hangout, because they started off with the games use case. In team games you have to have a perfect fit in terms of # of teammates, so friends would have to wait their turn to fill into a squad or wait for more peopel to come online to form another group to load into games. I think the voice features also upped the intimacy and intensity
+	- What's interesting is that my friends who didn't use discord, we ended up talkign on facebook for hours, non-stop. we could have just hopped on call, but the platform we used may have shaped our behaviourals towards typing
+- A place where you can hang-in, drop-out, has been field. What comes after? What discord makes abundant was the ease of access to whether or not your friends were online. 
+	- I think the problem Discord will face is that eventually the user base will churn off of becoming easily available online once you hit the workforce? Or even when you go to university, you can choose between becoming a discord recluse or you can choose to engage in IRL activities with people on-campus. If more and more of your squad ends up IRL, that social availability indicator from people joining voice channels becomes less valuable, and Discord becomes substitutable realyly for other technologies
+	- Discord is inherently a 'squad' technology, it requires group commitment and won't funciton as well in a 1:1 setting IMO. At that point you usually end up just texting
+	- I want to say technology will solve this, some product, but I don't think so. Discord was able to bring people closer bc it was downstream of a greater desire, the desire to play video games.

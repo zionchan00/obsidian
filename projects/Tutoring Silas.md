@@ -1,0 +1,35 @@
+- YRDSB material
+	- Taught:
+		- Conversions
+		- Rounding
+			- Teach him to round to the place values above
+			- man walking a littel bit halfway to destination, rounding up finishes the job, if he walks over, roundign down brings him back
+		- Place values. only has trouble converting numbers to words and trouble convering standard to expanding form. he doesn't line up his decimal palces when adding
+		- Base 10
+			- teach him decimal trick
+		- Scientific notation
+			- Teach him what the exponents on top of 10 mean
+	- Not taught:
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/MzIwOTI0MzYwNjA5/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/MzkwNDMzNDQxMDg2/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/MzkwNDMzNDQxMTE5/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/MzkwNDMzNDQxMTcw/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/MzQ0OTgyNDQyNTM5/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/MzQ1MDEwNTgyNjc5/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/m/Mzk2NjY2MDk4MTQz/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/MzQ1MjMzODY0NjIw/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/Mzk3Mzc3Njk4NjQz/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/MzQ1NTU2NTQyMTY4/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/MzQ1NjQ0MDkxNzg4/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/m/NDAwODM3MDUwMDMz/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/NDAxMDIxNTU0NDQy/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/NDAxNzYwNTY4MDg3/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/NDAyMzcyMDEwNjkz/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/MzQ2MjYxMTA2MDE4/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/NDA3MjE3MTE4NTg0/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/MjI2OTUzNDc3NjU3/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/m/MjI2OTUzNDk3Njk1/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/NDA4Mzg5NzYwNDM5/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/NDExNDI5Mjc0ODk2/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/a/NDIwMDk5OTM0MDEz/details
+	- https://classroom.google.com/c/MzIwMzI1ODgyMjI4/m/NDEyMDM0MDc5MjI5/details

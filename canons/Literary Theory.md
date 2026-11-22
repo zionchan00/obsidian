@@ -1,0 +1,18 @@
+- Illuminations: Essays and Reflections
+- A Thousand Plateaus: Capitalism and Schizophrenia
+- The Poetics of Indeterminacy: Rimbaud to Cage - on
+- The Pound Era - on Modernism
+- The Arcades Project
+- After Babel
+- The Dialogic Imagination
+- Selected WRitings of Ralph Waldo EMerson
+- On the aestehtic education of man
+- the critic as artist
+- The Outsider
+- Frye - Anatomy of Criticism
+- Fables of Identity: Studies in Poetic Mythology
+- [[The Rule of Metaphor]]
+- [[Marxism and Literature]]
+- [[Mimesis]]
+- Mirror and the Lamp
+# The Novel: An Alternative History: Beginnings to 1600

@@ -1,0 +1,14 @@
+- Idea 1: I want to make the aduince feel like this is all a fuknig joke. like somehow you’re expceted to grindslop. chainsmoker cat-ish in terms of accepting burnout, celine like but instead of nationalism it’s the expectation that we’re supposde to work so hard. like i feel like what leon si/amazon guy i interviewed/what i’m feeling is the early vanguard of what’s to come for more ppl. not everyone is a “gifted kid”, but we all feel. it
+	- So one character has to be: a really hard core person who genuinely does take pride in tehir work, tehy really do care, they really do see that eveyroen arnoud them is slop cannoning shit and they are also like, don’t you want to dream? dont’ you want to aspire? but they’re also grindnig for the wrong missions. like theres’ some part fo their presonality wher ethey wantt o work on meaningful thnigs, but they can’t quite get it.
+		- why do they want to work on meaningful things? on the surface, there's signalling value. it's obviously better to wokr on emannigul things vs not (e.g trying to feel better than the finance guys)
+		- "obsessed with missions of generational progress. im' buliding autonomy into the finance suite to extend the impact of captial"
+- 2nd character: the “I’m not sure. the I guess character”. I think the problem is anyone whos’ really hesitatnt, a olt of it is going to be inner monologue. they wouldn’t outwardly let anyone know all the confusion ongoing ,or a lot of it is like the “gut” feel in their body. i think it would be interesting actually to have a tv show where you represent the physicality of decision making ,not in a tenseness of the face way (which is how actor usually do it), but showing someones breathnig changing with an amp’d up microphone, or showing someone’s gut feeling. because so mayn of these hesitations aren’t fully visible, atleast to me. maybe if i watched soemoen else’s body language tho. i think it’s hard t omake the inner tension not feel contrived/visually ccringey/taknig a viewer out of the scene. i mean mr.robot did it with monologues and it seemed t obe ok
+- I think the university is the last aspirational place to be. it's slowly dying tho, there'll be something new. but maybe it's there. i can't rememebr a recent show centered around uniiversity quite well. even though in part i ithnk years 1 and 2 can have a good amount of development.
+- Actual script
+	- C1: so uh, tell me about yourself.
+	- C2: yea  what i care about msot is working on missions of generationla progress.
+	- C1: oh sick, ambitious
+	- C2: right now, im' buliding autonomy into the finance suite to extend the impact of captial
+	- C1: oh, why did you choose to do that?
+	- C2: You ever work in a group rporject, and everyone is slacknig off, and you're like,  i wish i did'nt have to carry all of these hevay people no my back, but i actually have to ebacuse if i don't do it, no one else will? i ithnk
+-

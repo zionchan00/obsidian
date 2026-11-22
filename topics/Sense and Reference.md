@@ -1,0 +1,26 @@
+![[Pasted image 20221004170526.png]]
+- Two scenarios of equality
+	- one where the signs are the same. knowable apriori to be true
+	- one where signs are different. a posteriori
+		- one where the difference in signs provides no new information, e.g the only difference between a=b and a=a is the shape of the letter, as 'signs' that designate something they are the same, they have the same 'cognitive value'. 
+		- one where the difference in signs relates to a 'difference in the mode of presentation of the thing designated'. same reference, different sense. these
+- In this article the only referents he focuses are definite [[object]]s. [[concept]] and relations are for [[Concept and Object]]. every name for a definite object is a proper name
+- each reference has multiple signs but each sign is paired to a specific sense and a specific referent. all signs have senses but not all signs hav[]()e references
+- Imagine scenario where we're trying to talk about the sense of a sentence known as 'delta'. we would do so by telling someone 'the sense of a sentence 'delta''. in doing so our referent would be the sense of delta, and hence our indirect referent is the usual sense of delta
+- A key characteristic of senses is that they aren't individuated - Frege believes a universal library of senses exist which we share (doesn't say so explicitly, but this is made obvious on pg 154). This is to be contrasted with Vorstellung, [[ideas]], of which for the same sign and the same sense two people can have different [[ideas]] of what the referent is. The [[ideas]] we have are always unique to us, not comparable to others
+- idea in our head (subjective) > sense (objective)> reference of proper name (objective) is the order. E.g look at the moon through the telescope. The Moon that is the referent (objective) is accessed through the visual Moon we see in the telescope glass (objective) which we see when it shines on our eyeball (idea, subjective bc our eyeballs are all hit by the light differently)
+- 
+- referents of physical objects like the Moon are abstract and don't exist in the physical realm, but the idea we have of the Moon is compared to the image we see in our eyeball (Frege believes our eyes interpretations would be unique like an idea)
+- so words/expressions/sentences can be different at the idea (a translation, interpretation of a poem where the poem is trying to provide a sense of a referent but the interpretation of the sense is always individual, hence an idea), sense, and reference level.
+- Proper name = sign = combination of signs = expression
+- Frege fights against skeptics who deny that we can guarantee a reference that all that matter sis our intentionality in speaking/thinking that we believe it exists
+- Frege specifically brings up 'assortive' sentences, sentences which state a fate rather than a claim. He seems to think that these sentences are unique because they have a 'thought', which is not subjective thinking but the part of thinking that is objective. 'is this thought, now, to be regarded as its sense or its reference?'. it's the sense, because if we change a word in a sentence w/ another w/ same reference but different sense, the whole sentence's reference will stay the same but sense changes. 
+	- I still don't understand the difference in practice between an idea <> thought/sense <> reference
+- Frege thinks about the scenarios where we care whether a sentence has a reference or not. An example of one we wouldn't care about is in a poem, where we're more concerned with the aesthetics and therefore the thought/sense than we are the reference in his view. But if we do care about the truth, then we'll care about the reference. A sentence will only have a reference if its components also contain references.
+- Frege considers assertoric sentences in which we want to discover their reference as a 'proper name' and its reference to be True/False
+- Frege also talks about 'levels', ranking truth-value above thought s.t a truth-value can never be a thought. subject and predicate are elements of thought, when combined we only reach thought, but we never go from sense to reference, it doesn't go from thought to truth-value. how do we move from one level to another then?
+- To understand a sentence we have to consider both the thought + reference bc all true/false sentences have same reference, specificity is gone. Frege uses the word 'judgement' to refer to the analysis of parts of the sentence in relation to the whole, with the references of parts to the whole, and in this way going from thought to truth-value.
+- What if there's a sentence within a sentence, and we replace the inner sentence. WIll the truth-value change? Not if same reference. but this can change when the entire sentence or part of it is a direct/indirect quote, bc these words don't have the usual reference bc direct quotes have other sentences as their reference and indirect speech has thoughts as their reference
+- What about subordinate sentences/clauses and their references? Pg 160. This is gay im not goign through this edge case
+	- The first case is when the subordinate clause is not an independent thought
+

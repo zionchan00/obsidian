@@ -1,0 +1,9 @@
+- Future guest
+	- Udara.io
+	- The founder of cosmos to talk about the history of money
+	- cool PhDs from toronto
+	- Eva Vivalt from U of T, Kevin A Bryan from U of T
+	- Thoery of Everything guy
+	- Ivanvendrov on twitter
+	- https://anesmithbeck.com/
+	- 

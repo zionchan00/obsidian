@@ -1,0 +1,1 @@
+Through examination of this new kind of relation to pain, we now intend to secure an elevated point of surveillance, from which we may be able to catch sight of things still imperceptible on the ground. Our question is: What role does pain play in the new race we have called the worker that is now making its appearance on the historical stage?

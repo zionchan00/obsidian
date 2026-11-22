@@ -1,0 +1,5 @@
+- Robert Heinlein - Musk Recommendation
+- Olaf Sapledon
+- Culture Series
+- Asimov Foundation
+- Permutation City, Quarantine by Egan, A FIre Upon Deep/True Names/Marooned in Realtime, ARistoi by Williams, Neverness by Zindell, Player of Games - Yudkowsky recommendations

@@ -1,0 +1,17 @@
+- Untimely Meditations
+- **The Use and Abuse of History** trans. Adrian Collins #political
+- Beyond Good and Evil #political
+- Philosophy of the Greeks
+- Genealogy of Morals
+- On Truth and Lies in a Nonmoral Sense
+- The Gay Science
+- The Birth of Tragedy
+- The Antichrist
+- Human, All too Human
+- Thus Spoke Zarathrusta
+- Ecce Homo
+- Read Ralph Waldo Emerson
+- Nietzsche's New Darwinism
+- Kauffman on Nietszche too
+- The Germanization of Early Medieval Christianity: A Sociohistorical Approach to Religious Transformation
+- https://araltes.substack.com/p/the-translator-and-his-shadow-part?s=r

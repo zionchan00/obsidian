@@ -1,0 +1,1 @@
+Recommends [[Hitchcock]]'s Vertigo, Hobson and Pound, V.S Naipul A Bend In the River and his 3 books on India, 19th century RUssian literature more than 20th bc Russia had outsider view on European modernity, Pessoa, [[Kipling]], [[Toynbee]]

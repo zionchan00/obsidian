@@ -1,0 +1,4 @@
+- Why was it that horses incentivized landlords to give land iv exchnage for farmers promising to becoeme horse warriors? wouldn't this incentive to get soemeone to fight for you exist even without horses?
+- ![[Pasted image 20251212183432.png]]
+- ![[Pasted image 20251212183631.png]]
+- ![[Pasted image 20251212183645.png]]

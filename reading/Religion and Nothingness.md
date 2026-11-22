@@ -1,0 +1,131 @@
+- Quotes
+	- 'Common sense tells us that the idea of two absolute truths is a *contradiction in terminis*, that only one or the other can be truth. But is this really so self-evident? Does it not stem from one specific and fixed idea of the absolute and the relative? Is a new way of looking at the absolute and the relative, according to which two absolutes could come into being conjointly, utterly unthinkable? Have we no other way to conceive of the relative than in terms of setting limits - as we do, for instance, when we divide a sheet of paper into two by drawing a line across it? Might we not conceive of a way of looking at the absolute and the relative whereby two things, in spite of , or rather because of , their both being absolute, can turn out to be relative to one another - like a single sheet of paper seen at one moment from the front and at another from the reverse?'
+- Comparign him and strauss on science/nature relationship wtih bacon and descartes
+- On cultures
+	- Prof points out that cultures have their own ground, a ground which all cultures as cultures stand on. but this ground is not the 'end' of a culture (bc cultures can be existentialism). but we want to avoid complete isolation, cultural relativism
+	- Can we connect his work on identity to Carl Schmitt
+	- Look for a unity that doens't engate differnece, but look for the ground of difference. 
+	- people nowadays say 'you have to be me to know what its like to be me'
+- On fighting nihilism
+	- Our life has relational meaning, we solve nihilism by realizing that we mean things by other. Prof says when he weas about to die, he thought whos ogign. to take care of my wife, she doesnt know how to use the PC
+	- I should ask Prof why a return to natural right isn't possible
+	- Also what the ocunterculture did wrong
+- What is it about death that is absolutely individual? 
+- Research project. Come up with my own project that i'm passionate about. clean, well-organized, well-documented, creative texts. rigorous, deep reading. 10.5 font
+- Personal meeting 1 on 1 as soon as i come up with a topic
+- secondary sources have to be ones on japanese philosophy
+- Exam. Create a conference paper, 20 minutes long, diff from research topic, then a q&a session. graded on paper, field q&a, and how you ask questions
+- 'Where does the breath come from?'
+- What is the logic of soku?
+- Crisis of culture
+	- Crisis of religion and philosophy from scientism
+	- Crisis of religion from atheistic existentialism
+	- Crisis of mechanization of man
+	- The rise of belief in a non-rational and non-spiritaul way of life, standing on nihility that is simply a non-rational desiring machine
+Prep
+- Japanese Philosophy Sourcebook as a reference for jap philosophy
+- robert e. carter - the kyoto school and Kirsig's book Philosophers of Nothingness afterwards 
+- 
+- Lecture 1
+	- Time and historicity is a problem in relation to sunyata
+	- self/dasein/monad 
+	- sunyata is a 'non-substantial substance'. we're looking for an interiority more interior than interiority, for the ground of interiority. the problem of the western tradition. sunyata is nothingness, form = nothingness
+	- greek sense of being: something is when it is self-identical with itself. parmenides begins this. what is is, nothing is an oxymoron. there is only heat, cold does not exist, you only feel the absence of heat
+	- so this sense of being can't allow for change, only eternal now. plato: 'time is the moving image of eternity' - the timaeus. aristotle: 'change is actualization of potentiality that is already in the substance'. 
+	- Prof says japanese langauge is diff from english bc subject doesn't have to be predicated and subject doesn't have to act. 'this is hot' vs 'hot', 'curry is tasty'. japanese has no plurals.
+	- ouisia means essence and being but not substance. analytic philosophy is clarifying logos: what it means to say something about something. ontology is about what there is to talk about
+	- there is also no transcendence, no exteriority. 
+	- there is a problem of 'said of'' vs 'being in'. barack obama is first black president'. barack obama is defined by this property which is attributed to barack obama but also comes from barack obama. 'how do we speak of something outside of language?'. 
+	- sunyata, nishida's pure experience, are attempts to escape dualism
+	- christianity is an actualization of a history that was set up already at the fall. this is western history. but radical history is when something new comes into existence
+	- the history of being is the history of time. paradox of time
+	- 
+- Chapter 1: What is Religion?
+	- What is our relationship with religion? 
+		- We all need a story to tell ourselves a) what the good life is so we can decide make decisions b) what the future will be c) what is real and what isn't (metaphysics and epistemology). 
+		- Science tells us b and c, and of a it can only give us evolutionary biology, we do what we do to reproduce. But we know this is a partial explaination, it's unsatisfactory because we seem to derive meaning from things which aren't auto-linked to our species imporvement. But even if it did, it seems science is unable to make us WOW completely in this (or atleast the majority of us). Science seems to lack a magicality, a wonder, or maybe the writers are just bad lol
+		- Philosophy and religion are normally distinguished in the West because a conflict between reason and revelation is believed. Why is it unreasonable to believe in a God? 
+	- What do we get from religion that makes it a necessity for humans? We need it to determine whether life itself is worth living, so it's different from survival goods and cultural goods, both of which have utility
+		- 'Religion has to do with life itself. Whether the life we are living will end up in extinction or in the attainment of eternal life is a matter of the utmost importance for life itself. '
+		- Religion must not be considered from the viewpoint of its utility, any more than life should. A religion concerned primarily with its own utility bears witness to its own degeneration. One can ask about the utility of things like eating for the natural life, or of things like learning and the arts for culture. In fact, in such matters the question of utility should be of constant concern. Our ordinary mode of being is restricted to these levels of natural or cultural life. But it is in breaking through that ordinary mode of being and overturning it from the ground up, in pressing us back to the elemental source of life where life itself is seen as useless, that religion becomes something we need- a must for human life.
+	- Why is religion personal for everyone? Bc it has no utility bc it doesn't take living as an assumption, hence we have to ask why we are alive to begin the path, and this is never top-down
+		- We become aware of religion as a need, as a must for life, only at the
+		level of life at which everything else loses its necessity and its utility. Why do we exist at all ? Is not our very existence and human life ultimately meaningless? Or, if there is a meaning or significance to it all , where do we find it? When we come to doubt the meaning of our existence in this way, when we have become a question to ourselves, the religious quest awakens within us. These questions and the quest they give rise to show up when the mode of looking at and thinking about everything in terms of how it relates to us is broken through, where the mode of living that puts us at the center of everything is overturned. This is why the question of religion in the form, "Why do we need religion?" obscures the way to its own answer from the very start. It blocks our becoming a question to ourselves.
+	- The above presupposes that we normally get meaning from somethign already. So it seems that we can actually live pretty good lives without asking the q of religion, from when things are going well and we have good work and relationships with humans. religion and nihilism only become a problem in the case of failure. This also means that, as i suspected, the rise of a feeling of nihilism has only come forth bc the usual things we get meaning from have faled
+	- What is nihilism? Nihility refers to that which renders meaningless the meaning of life. 
+		- When we become a question to ourselves and when the problem of why we exist arises, this means that nihility has emerged from the ground of our existence and that our very existence has turned into a question mark. The appearance of this nihility signals nothing less than that one's awareness of self-existence has penetrated to an extraordinary depth.
+	- I wonder from the way Nishitani is going on page 4 that nihilism is an attempt to replace religion. Both appear at the same time 
+	- What is religion? 'real self-awareness of reality'. 'our ability to perceive reality means that reality realizes (actualizes) itself in us; that this in turn is the only way that we can realize (appropriate through understanding) the fact that reality is so realizing itself in us; and that in so doing the self-realization of reality itself takes place.'
+	- Self-awareness of reality part is mad confusing
+		- ![[Pasted image 20230221181305.png]]
+		- 
+	- What are we missing in Nishitani's eyes when we ask the question of real reality only from the mind
+		- ![[Pasted image 20230221181503.png]]
+	- What's the difference between nihility and death?
+	- Nishitani lays out why Western philosophy keeps us isolated and unable to see reality. But what are we concretely missing from this perspective? What is a things 'own mode of being', a things 'own home-ground?' Pg 9
+- Chapter 3
+	- My notes
+		- What's the proper relationship between man and the non-human in nature?
+		- If Nishitani believes scientism is real, what is the function of religion? 'real' self-awareness of reality according to chapter 1. Can science accomplish that? but most people wouldn't use this as a definition for religion
+		- Pg 91-92. Embrace of death from sunyata vs scientific embrace of death and typical embrace o flife
+		- We meet nature on the level of instinct when we act (it's inside our acts and IS our acts)
+		- technology is us encounterin gthe laws of nature on the level of knowledge
+		- nishitani differnetiates between technology as tools vs mechanized technology which come sfrom the natural sciences, where we encounter the laws in the abstract/universal. he says 'this is our clases tnecounter with the laws of nature'
+		- how does the machine completely objectify the work of man? how does nature control us again when we mechanize it? why do we end up objectifying/mechanizing ourselves? what is lost because of this?
+		- Nishitnai seems to what to preserve the relationship we have where we are free from the rule of law of nature on pg 91, he just thinks it hasn't been executed properly, and standing on sunyata can solve this
+	- Prof Lecture
+	- this is about the crisis of culture and the relationship between religion and philosophy. Loft sees socrates as an example of religion and philosophy as one, who lives the search for the ultimate
+	- Nishitani is trying to displace the human
+	- Field in the text is 'ba' in japanese, this is different from 'bashou' which is place
+	- [[Kant]] had two seperate worlds: a causal world and a moral world. Nishitani sees thats not how reality works.
+	- The machine gives us freedom. But human life progressively becomes mechanized and impersonal - we become the machine. What happens here is a certain 'denatured' nature. A disenchantment of life happens. Kepler when young still saw the stars as living things that moved with their own agency. Older Kepler can only see them as following laws.
+	- Japanese hug trees. Loft says after 2 years, he started doing it, 'torigi'. He began to see the forest as a living entity, the river expresses itself, it has uniqueness, it is not just 'baschtein' (def mispelled), Heidgger def.
+	- The creative spontaneity of physis, of life constantly creating a plurality of things, is reduced to the Fordism of economics. The multiple ways of Being in the world are reduced to Euclidean geometry. This is the crisis of culture. We've gone from a creative culture and become a culture of production. We have become nothing but desiring machines
+	- There's two nihilisms: crypto-nihilism and solitary nihilism, and between is a spectrum. crypto-nihilism is the consumerism, the masses, the last man. positive nihilism is the attempt to climb out of this banality
+	- What do ethics/art/religion have in common? They all go beyond themselves. Nishitani's problem is with scientism, not science. Science in the Renaissance was directed towards improving human life, not knowledge for knowledge's sake. Scientism knows no limits, the scientist in scientism has no concern ethics
+	- Transcendental ground is code for other - that which is both beyond myself and the ground for myself. Relationships require mutual recognition, science only has relations, not relationships. 
+	- Modern world only has immanence, which is human centred. In the medieval world the problem is that the transcendental ground is completely other, it's on the 'far side', but in the modern world we are the ground. We are the history because we make it
+	- Sunyata is radical nearside. It determines not just mine but everyones existence. Personal impersonal. There is a life-oriented access through traditional religions. Christianity has no death; body dies, but soul is immortal. Death is just life again
+	- Without divine telos, there's meaningless. 1:38:00. stopped paying attention, need to go over this part again in the recording. 
+	- In both absolute life and death, we cease to exist. They're both ecstatic from the relationship to eternity, but they have the same structure, that's the problem. Sunyata is a transcendent immanence, the radical nearside.
+	- Only in the standpoint of nihility is human autonomy possible. True for [[Heidegger]] in [[Being and Time]], being is only possible in an encounter with non-being. But nihility is eternal death, but it's beyond life, we have to reach out, Nishitani dislikes this. After our death, there is no life - that's the diff between Christianity and Heidegger, eternal life vs eternal death. It's a step up still bc we're aware of the uniqueness of our existence
+	- Being-from-nothing soku sunyata. Only when you have a groundless ground can you have an infinite arising. God and nihility provide the telos, the end of everything. [[Heidegger]]replaces the eternity of God with the eternity of death.
+	- Sunyata is not objectifiable, the abyss of the abyss of nihility, neither atheism nor theism, because Buddhism is the religion of the absolute nearside. Sitai and sittai, a self that is no-self, created by being built on the sunyata
+	- [[Heidegger]] cannot ever say Dasein is empty. Where does the breath come from? Do we will to breathe? It comes from the homeground, that radically individuates me as me
+	- Nothing is strange or unique in a disenchanted nature. The apple fell, it's just gravity. But why on this day, why on that apple. Where does the breath come from?
+	- Kant distinguishes between subject and object, the transcendental subject is unknowable bc it can't be known without being framed by our horizon. the self is a dingonzouk, it's a noumenal reality that is beyond and cannot be known. The flower in itself, si right there, thisi flower, this day. 
+	- On the field of nihility, an unbridgeable abyss separates us. Sunyata is 'an encounter of absolute two but at the same time absolute one'. True sunyata, true emptiness, is what reaches awareness in all of us as our own absolutte self-nature. [Heidegger's] [[Dasein]] can't do this because everyone's death is different from mine. Now we can be both radically individuated but also radically united. 
+	- The paradox of representation for Nishitani. For him there is no 'authentic self' beyond the mask, the face is the mask.
+	- Fire doesn't burn itself. We understand it as combustible bc we are combustible, we can be burnt, so we understand fire as that which burns, and hence the essence of fire is to be combustible. I haven't understood fire in its own homeground, the eye does not see the eye, the sowrd does not cut the sword. 
+- 
+- To convey the power of this challenge and do justice to Nishitani’s concern to philosophize “as a matter of life and death,” an introduction to his thinking does well to focus on his understanding of human existence as consisting in three levels, or “9elds” (ba᯲), as explicated in his masterpiece from 1961, Religion and Nothingness (original Japanese title: Shūkyō to wa nanika ὕ⤗ާޮጓފ] What Is Religion?]). :e three levels are: the 9eld of consciousness (which embraces what he calls “the 9eld of sensation” and “the 9eld of reason”), below that the 9eld of nihility (kyomu 䨘㓟), and underlying that the 9eld of emptiness (Skt. śūnyatā; Jp. kū 㸸).5 :ese 9elds are always co-present, and each deeper 9eld is more extensive and encompassing than the one above it. On the 9eld of consciousness (which is where most of us live most of our waking lives) we exist, so to say, in a “life” perspective; the 9eld of nihility represents by contrast a “death” perspective; and the 9eld of emptiness o;ers a death perspective on life, or a “death-life” perspective. Insofar as existing on the 9eld of emptiness o;ers us, on the Buddhist view, the most enlightened life, this death-life perspective enables us to understand and live life to the fullest
+- Chapter 5
+	- Profs Lecture
+		- The Western tradition gave us a linear sense of time against the background of eternity. Heidegger does the same with the background of eternal death. Nishitani wants to create a philosophy that is linear circular, every moment is new. This is Nishitani's challenge to Buddhism - that it fails to recognize novelty, it lacks linearity. Prof thinks this is the core of Nishitani's project, how to reconcile the two views of time.
+		- Section 1. European Nihilism
+			- [[Heidegger]] says the history of being is a history of our concept of time. The standpoint of nihility is a productive negativity, it's always a relational existence.
+			- Buddhism believes that everything is suffering. [[Heidegger]] talks about existential angst at ones own death, but never the death of others. Nishitani wants to universalize this existential angst to all others. In the myth of the transmigration is the existenial interpretation of being in the world
+			- Reason can't understand eternity. The moment of infinite finitude. When Nishida talks about absolute nothingness, his is non-relational. 
+			- Auseinaclersetung. Setung is very important in german philosophy, it means 'to set'/law. The first part, auseinacler, means to seperate. aus = out, ein = one, acler=other.  Science is good at asking about the whatness, but it can't talk about the existential, the thatness
+			- What we need to 
+- Other Kyoto school and broader Japanese philosophy
+	- Kitaro Nishida - "An Inquiry into the Good" Hajime Tanabe - "Philosophy of Metanoetics" Keiji Nishitani - "Religion and Nothingness" and "The Self-Overcoming of Nihilism." Nishitani also wrote a book titled "Nishida Kitaro" - this book is essentially a biographical work of Nishida and covers important philosophical ideas of Nishida. 
+	- Jun Tosaka - "A Critical Reader." This book is a collection of some essays written by the political philosopher. He died in a prison in 1945.
+	- For an introduction to The Kyoto School: James W. Heisig - "Philosophers of Nothingness" Robert E. Carter - "The Kyoto School"
+	- To see the Kyoto School's ideas pitted against a Western Philosopher; Peter Suares - "The Kyoto School's Takeover of Hegel"
+	- If you're interested in older Japanese philosophy, you can check out some poets like Basho and Ryokan.
+	- Japan also had a code of ethics for Samurai. There is a book called "Hagakure" - Yamamoto Tsunetomo. This book covers the main principles of how to be a Samurai (Bushido), so you'll find some ethical writings here.
+	- Three more authors I'm fond of: Miyamoto Musashi - "The Book of Five Rings" --this book is filled with martial arts strategy, but as Musashi says in the early pages of this book: "The true Way of Martial Arts is to train so that these skills are useful at any time, and to teach these skills so that they will be useful in all things."
+	- Dogen - "Moon in a Dewdrop" --these are a collection of writings from the Zen monk Dogen.
+	- Shunryu Suzuki - "Zen Mind, Beginner's Mind" --a good introduction to Zen Buddhism.
+	- Side note: if you're familiar with Kierkegaard, I'd recommend "Kierkegaard and Japanese Thought" - Edited by James Giles. While not entirely philosophical, these collection of essays offer a nice introduction to Japanese Thought by way of a familiar philosopher (again, if you're familiar with Kierkegaard).
+- Important things
+-   "existential conversion" (70)
+-   what is behind the "mask"? (71, 72,  
+-   "encounter" (101-102)
+-   what is the essential paradox of representation? (120)
+-   "likeness" -- A bird flies and it is like a bird" (139)
+-   time and bottomlessly in time (161)
+-   distinction between nihility and śūnyatā
+
+See you all Monday,

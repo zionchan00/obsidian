@@ -1,0 +1,4 @@
+- Mansfield suggestions
+	- Cervantes, Shakespeare,
+	- Rick in Casablanca
+	- Man in Full, Wolfe

@@ -1,0 +1,10 @@
+ - What do people want to know about others?
+	- Gossip: new jobs, new relationships, what they've done/rumors about what they've done to others, also gossip about achievements
+- I think what I want is more spontaneity of reaction to increase the # of interactions between people. The quantities of posts from individuals on platforms has gone down overtime (e.g FB wall doesn't get used anymore, IG # of posts goes down overtime), and people probably move towards messaging instead
+- Different framings we can compete at
+	- public <> private
+		- notice that instagram was able to eat the friend layer that snapchat used to compete in for my age demographic bc instagram controlled the longer-term social graph since it had permanence, which makes it better for real-world status than snapchat. 
+			- a huge advantage of instagram actually is that you're able to accumulate status by pinning and saving stories
+	- permanence <> continuity
+	- young <> old 
+		- my brother spends most of his time on reddit 

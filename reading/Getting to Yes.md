@@ -1,0 +1,14 @@
+
+ Positiosola bargaining is sbad because the side that doesn't push as hard believes the side that does doesn't care about the relationship. It makes it difficulst for longterm-realttionships to be sustainable as a result. Or teh flip side is that you drop a negotiation because you want to preserve the relationship and because teh other doesn't see it that way, they now view you as exploitable
+"Understanding the other side’s thinking is not simply a useful activity that will help you solve your problem. Their thinking is the problem. Whether you are making a deal or settling a dispute, differences are defined by the difference between your thinking and theirs. When two people quarrel, they usually quarrel over an object—both may claim a watch—or over an event—each may contend that the other was at fault in causing an automobile accident. The same goes for nations. Morocco and Algeria quarrel over a section of the Western Sahara; India and Pakistan quarrel over each other’s development of nuclear bombs. In such circumstances people tend to assume that what they need to know more about is the object or the event. They study the watch or they measure the skid marks at the scene of the accident. They study the Western Sahara or the detailed history of nuclear weapons development in India and Pakistan. Ultimately, however, conflict lies not in objective reality, but in people’s heads. Truth is simply one more argument—perhaps a good one, perhaps not—for dealing with the difference. The difference itself exists because it exists in their thinking. Fears, even “even if ill-founded, are real fears and need to be dealt with. Hopes, even if unrealistic, may cause a war. Facts, even if established, may do nothing to solve the problem. Both parties may agree that one lost the watch and the other found it, but still disagree over who should get it. It may finally be established that the auto accident was caused by the blowout of a tire that had been driven 31,402 miles, but the parties may dispute who should pay for the damage. The detailed history and geography of the Western Sahara, no matter how carefully studied and documented, is not the stuff with which one puts to rest that kind of territorial dispute. No study of who developed what nuclear devices when will put to rest the conflict between India and Pakistan.
+			As useful as looking for objective reality can be, it is ultimately the reality as each side sees it that constitutes the problem in a negotiation and opens the way to a solution.”
+
+Excerpt From
+Getting to Yes
+Roger Fisher
+This material may be protected by copyright.”
+
+Excerpt From
+Getting to Yes
+Roger Fisher
+This material may be protected by copyright"

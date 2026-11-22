@@ -1,0 +1,53 @@
+- [[Essay]]
+- The problem of evil in relation to theology is that given the existence of Evil, If God wants evil to exist, he's not good/ God does not want evil to exist but he is unable to prevent it - then not all powerful
+	- Zion: so how can we allow for optimism in such a world where a perfect creator is supposed to have created this world?
+		- What about an imperfect creator?
+		- We've discarded the creator. Now we have to explain evil without being pessimistic. There is something metaphysically wrong with human beings such that we are all capable of 'evil'.
+			- How much can technology do to change innate human capacity to do bad?
+		- What are the kidns of evil
+- But what is evil in the first place?
+	- Evil is deviation from what is natural, from what we believe to be good
+	- How can we explain potentiality and change?
+- I wonder how [[Descartes]] was able to strategically shift philosophy away form metaphysics towards epistemology int he discourses
+- Course Notes
+	- Bayle/Descartes pessimism
+	- Optimistic responses
+		- Epistemic optimism/A posteriori argument
+			- Shaftesbury, The Moralist
+			- Pope, Essay on Man - disorder is local, everything is ordered from a higher POV. Great chain of being, which God created for the sake of diversity and we are lower than him and angels on, is why we cannot see from higher POV. natural and moral evil are the same, both are a result of universal laws from the order created by God. we must accept our place in the universe, accept it as it is, as one of many parts of the universe
+		- Metaphysical/ A priori argument
+		  ![[Pasted image 20230126133927.png]]
+		  ![[Pasted image 20230330222018.png]]
+			- Leibniz is optimistic bc he believes a) God exists b) God as an all-knowing and good human being will necessarily create the best possible world c) hence we shoudl be ok with our evil?
+	- The Challenge to Optimism from the Earthquake, Voltaire and Rousseau
+		- Voltaire
+			- Optimist says earthquake is punishment, Voltaire says many were young + Lisbon wasn't anymore sinful than London/paris/Madrid
+			- Pope says the earthquake is part of the natural law of things. Why didn't God design the universe better?
+			- Pope says it's pride that we want to change the natural order, Voltaire says it is humanity in the face of suffering
+			- What is his position?
+				- Punishment for original sin?
+				- Deisim - God doesn't favor humanity, designed universe rationally, Providence is false
+				- Neoplatonic/Manichean conception. God's power is limited in respect to creation
+				- Life is a test to see whether we deserve eternal life. But the suffering isn't justified, there's no reason, it's a test
+				-
+		- Rousseau
+			- Embrace optimism because it helps us deal with life better
+			- Fault of humans of settling so tightly and built weak buildings, their fault
+			- Some peopel died bc they wanted to keep their material goods
+			- Some of the people dying now avoided pain in the future
+			- Natural evils happen but become disasters only when humans are involved and the corruption of modern men from obsession w material goods
+	- The Failure of Theodicy, Kant and Hume
+		- Hume
+			- Empiricism says that our experience of the world clashes with the idea that it was designed by God to be good for human beings, that this is the best design God could have executed given unlimited power. Therefore belief cannot be supported by reasoning from experience
+			- The first cause of natural evil is pain. Why couldn't we use slightly less pleasure or the possibility of harm scare us from a decision?
+			- The second natural evil is the way God rules, through universal laws and no interference with the world. I think Hume's asking for miracles here. E.g 'fleets that are good for societies always getting fair winds, good princes living longer, rulers having good ethics'
+			- The third circumstance is how all living beings only have the bare minimum to thrive in this world against natural elements, find food/shelter, and defend ourselves. we're forced to compete, can't fuckup either.
+				- Hume says we could have been given more willpower or more creativity to do better while still being challenged
+			- The fourth circumstance is that the excessiveness of certain phenomena. too much rain leads to flooding, passions insdie us leading us to do dumb things.
+				- Hume asks why God couldn't have reuglated them better?
+			- It seems the universe is amoral
+		- Kant
+			- What are the 3 types of counter-purposiveness Kant lists at the outset?
+			- What does Kant mean when he says Job's friends declare themselves for that system which explaisn all ills in the world from God's justice?
+			- What does Kant understand by truthfulness?
+	-

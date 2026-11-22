@@ -1,0 +1,69 @@
+- 2.  Be it resolved that ordinary proper names and the names of natural kinds lack descriptive content and are rigid designators.
+  - Why is this true for proper names?
+  - What is descriptive content? It could be made of either a single or a cluster of properties that a referent has. Depending on the theorist in the case of a cluster of properties, some of the properties may be weighed more heavily than others. The referent is that object which satisfies most, or the weighted most, properties singularly fulfills the properties. 
+  - The first potential relationship between proper names and descriptive content that Kripke sets out to disprove is that it is possible for descriptive content to be the meaning behind a proper name such that the two are substitutable, basically equal.
+	  - The first problem that could be raised is that senses have to be necessary
+	  - 
+	  - singular existence statements. did aristotle exist? is the man fictional, or is he real but not have the right description
+        - part of the test for these accounts is that the senses have ot be necessary. hence we can't give descriptions as senses because most of them are contingent, that is descriptions don't truly work as substitutes for names. i.e if aristotle meant 'teacher of alex the great', tautology, but bc latter could be false, it's not
+        - can't even run possible worlds experiments bc if description changes in another world, we can't refer to the same object anymore bc YOU CAN'T TELL WHO'S NIXON when you start with desscriipive traits. To ASK the question of 'nixon in a possibel world' requires the assmption that Nixon exists in that world already, even if he strays from the description associated wtih his name in this world
+  - The second potential relationship between proper names and descriptive content that Kripke refutes is descriptive content as a means to determine the reference for the name
+	  - The first problem he has is that in practice, speakers are able to refer to objects without employing descriptions that are accurate or uniquely identifying. Many people mistakenly believe that Albert Einstein invented the Atomic Bomb, yet they clearly are referring to the correct person in their intentions - their mistake is attributing the wrong property to the object and hence according to descriptivist theories they are actually referring to Oppenheimer or perhaps some other member of the Manhattan Project. When asked who Richard Feynman is, many people would reply he is a physicist and in intentionality they would have the correct referent in their minds. The problem is that this description is not uniquely identifying. There are many physicists that exit, and hence descriptivist theories would say that Feynman is not the object being referred because he does not best fit the description. In Kripke' s point of view, we should be defaulting to intuition and practicality as the judgement for theory. 
+  - What role does descriptive content play in Kripke's positive theory? He believes descriptive content can be used to fix the reference of the name.
+    - The problem with the descriptivist account is that 
+      - description as theory of meaning = synonymous
+      - descriptions to determine reference
+        - Moses exists changes - we go from 'man who did such and such didn't do this so Moses didn't exist' to 'a man who we refer to as moses may have been diff fromw hat we thought'
+          - Kripke says we don't solve singular existential statements anymore then and identity statements don't work either
+        - wha tabout solution of Socrates = man called Socrates, walter scott = man called Walter Scott
+            - Kripke says no, violates ciruclarity principle
+        - cluster theory
+          - 
+        - Solution: Descriptions can be synoynmoius with a designator or used to fix reference
+          - also allows you to take about possible worlds w/o contradiction. E.g Aristotle = man who taught plato, imagine he never did philosophy at all
+          - one-meter stick example. if you fix one meter to stick S, then you can know a priori that stick S si one meter epistemologically by necessity. but metaphysically, it's contingent. this is a contingent apriori IN CONTRAST to one meter = stick S always
+          - Hesperus example . What if hesperus was not in that position anymore?
+    - The role of descriptions is instead to do what Kripke calls 'fixing the reference'. They are non-rigid designators t
+    - hat can be used to help us identify the object through traits which are contingently part of the object.
+    - The problem is that descriptive content is NOT rigid, and hence we cannot use them as a meaning/the determinant of reference. We can use them to fix the referent/identify it in the first place, but that does not mean that descriptive content IS the referent
+    - 
+    - Rigid designators are designators that are able to refer to a referent in every possible world, meaning even if the referent has changed, rigid designators are still able to refer to them.
+    -  Why are proper names rigid designators? Possible world thought experiments are done for the purpose of imagining in what way an entity in our current world could have been different so they need the entity to have some consistency, some non malleability, so we can talk about the same entity in different worlds
+    - E.g identity statements like Hespheros = Phosphorus work bc of rigid designators. Even if Phospohrus was in a diff position in a diff world, it still works. Rigid designator A = Rigid Desgiatnr B is necessary, Description A = Description B is contingent; Hespheros = Phopshorus is necessary, Their planetary positions being the same is contingent
+    - The implication is that there is a NECESSARY relationship between the name and the referent, whereas there isn’t one with the description and the referent
+  - Why is this true for natural kinds?
+  - what is a rigid designator? the idea is that we can refer to the same referent regardless of circumstance 
+  - What is descriptive content?
+  - In what way are natural kinds and ordinary proper names different or the same?
+  - In practice desriptors tend to be not unique
+  - In practice descriptors tend to be wrong
+  - If we imagine possible worlds, we need proper names to be rigid designators
+- Pg 91 is where Kripke begins his own theory of naming and reference
+- designator = name + description
+- referent in this paper doesn't consider intention, i.e if the descripition is misapplied to another referent by accident, the wrong referent is still the the referent
+- Theory fo names has to
+	- are descriptors theories of meaning of names or theories of referent for names?
+	- explain how to determine referent
+		- Description vs 
+	- explain identity statements and how they're informational
+	- challenge the descripiton of the referent. E.g did Aristotle exist
+	- how do we identify objects across different worlds where they have different descriptions?
+	- singular existential statements - e.g Moses did not exist. Do we mean that a person who we think is moses did not do all that was attributed to them, or the real referent did not exist at all and this was purely a fictional tale
+	- identity statements
+- Kripke' sponit si that when we look at possible worlds, we don't ask whether this person is nixon. we look fro nixon and ask what different properties he has (pg 43). Hence we don' t describe possible worlds purely thorugh their attributes, e.g 'Suppose a man with a dog named Checkers, who looks like a certain David Frye impersonation, is in a certain possible world and loses the election.' we say 'suppose nixon had lost'
+- essentialism vs sometimes necessity, modality de re vs modality de dicto
+	- In metaphysics, the term "modality" refers to the way in which something exists or is possible. Modality is concerned with the possibility or necessity of something, as well as the ways in which things can be true or false
+	- Modality de re and modality de dicto are two types of modality in philosophy. Modality de re is a type of modal statement that attributes a modal property to an object or individual. For example, the statement "Socrates is possibly wise" is a modality de re statement, because it attributes the property of possibility to the individual Socrates.
+	- Modality de dicto, on the other hand, is a type of modal statement that attributes a modal property to a proposition or statement. For example, the statement "It is possible that Socrates is wise" is a modality de dicto statement, because it attributes the property of possibility to the proposition that Socrates is wise.
+	- The main difference between modality de re and modality de dicto is the type of entity that the modal property is attributed to. In modality de re, the modal property is attributed to an object or individual, whereas in modality de dicto, the modal property is attributed to a proposition or statement. This difference has important implications for the interpretation and analysis of modal statements in logic and philosophy.
+- analytic statements are true by virtue of meaning and true in all possible worlds by virtue o f its meaning, so they're both necesssary and a priori
+- rigid designator designated same object in all worlds, non-rigid/accidental is not the case
+- ![[Pasted image 20221214175729.png]]
+- ![[Pasted image 20221214182818.png]]Modality de re allows us to actually talk about THIS table, while modality de dicto means we have to go from description > find the table that best fits it
+- ![[Pasted image 20221214185013.png]]
+- ![[Pasted image 20221214184845.png]]
+- ![[Pasted image 20221214193453.png]]
+- ![[Pasted image 20221214203942.png]]
+- ![[Pasted image 20221214193847.png]]
+- ![[Pasted image 20221213231922.png]]
+- On unicorns. Why does Kripke believe that even if archaelogists could prove that animals in the past existed with the traits fitting unicorn, the extension for the concept of unicron is still empty

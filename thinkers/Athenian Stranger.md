@@ -1,0 +1,1 @@
+https://twitter.com/Athens_Stranger/status/1603839665156419584 ![[Pasted image 20221217002452.png]] - origins of philosophy, [[Hesiod]], [[Nietszche]], [[Heidegger]]

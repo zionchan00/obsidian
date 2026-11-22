@@ -1,0 +1,10 @@
+- Two Treatises on Government #political
+- An Essay Concerning Human Understanding
+- A Letter Concerning Tolerance #political
+- Some Thoughts Concerning Education
+- [[The Reasonableness of Christianity]] #political
+	-
+- Questions Concerning The Law of Nature #political
+- Lectures from prof
+	- Locke's Educaiton for librty by tarcov, straussian˚
+	-

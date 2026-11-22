@@ -1,0 +1,7 @@
+- First convo was July 17th
+	- Talked about the reality that venture is not about the analysis because anyone can learn the analysis, the best venture investors don't do analysis, it's really a sales and relationship game in reaching out to the best founders/getting them to come to you and winning the deals
+	- Even at the partner level, it's still a sales job. VC is not pure investing, it's not pure cerebral like in HF
+	- The venture is a very competitive business. Have firms like Sequoia where the investors don't even have to be really good, compare this to HF where every analyst has to be good
+	- Gave me advice on do stuff that other people think is dumb/take a risk in first job, think what you want to be doing at 35 or 40 and work backwards to get there, think very hard about the environment you're learning in (i.e Insight partners is amazing bc buyout/vc/growth across different verticals all in one building)
+	- Bearish on crossover strategy bc it's an index strategy across macro. 
+	- Very candid, very honest with his answers, and we talked for an hour

@@ -1,0 +1,7 @@
+- 1. Fix resume, meet RA 
+- 2. 
+- need to assign technical behavioural mentor and resume mentor
+-   boutique applications need to be done
+-  share spread sheets with jobs
+-  20 minutes
+- wants to stay in america

@@ -1,0 +1,46 @@
+- Open hypotheses:
+	- What do I like picking and what do I like creating? How much does the moral moment matter to me of the end? Why does 'extraction' feel wrong
+	- How much do I like public facing content creation? In what format (tweets, long-form writing, videos, audios) and how many people (just me, 1:1 interviews, 1:n interviews)
+	- How much do I like analyzing people and reading people all the time and assessing their talent and gifts?
+	- How much time do I like spending reading abstract theory? How much of it can I consume without my head feeling like it'll explode? I know my bound for execution work from OSG in the past, but TBD what it is for now
+	- What topics am I most excited about?
+- Perhaps the most important thing for my personality right now is the realization that much of my life is controlled by fear. This is the same for everyone really, everyone has a core fear driving their actions. And I'm curious that if the fear is gone, what my personality would be? The fear specifically is that "I may not matter to the world UNLESS I do something that's valuable. Something moral, something new, something special, something other people care about. Something easily understandable as useful. Something which is interesting." Or is it "I can't get more than I deserve". This came from my mother reperatedly telling me that I wasn't worth anything because I was bad at school and hence a bad child + I was an active drag on her just by existing, because then I prevented her from leaving my father. Everyone has a sob sotry like this on teh inside likely that the ytel themselves.
+	- I only like multiplayer activities, because being with others "pulls" my attention actively towards work
+		- I love fast feedback, multiplayer games - e.g I could play pickleball genuienly for 4-5 hours a day, I also enjoy racing cars bc it's really clear who's ahead and who isn't and I love the feeling that the game is 'calling' to you to respond, and you tunnel vision into the person ahead of you and need to catch up.
+		- It's also why I like debate, it's such a tight back and forth game. I don't particularly favour big team games though, e.g didn't like BBall or Soccer bc I felt so uninvolved, and I never felt a pull to lead or coach the games and plan them at a high level
+		- I like business mostly because I enjoyed listening to the stories being told on podcasts, but my actual blog consumption is quite low, and my book consumption is higher
+	- My search algorithm and values system is dictated by other humans as the pointers
+		- I can't do the blogs because I hate having to sort out what's good and what's not, it makes me feel uncomfortable not having another human direct me to sort out the good from the bad
+		- I end up having large shifts in interest or feel a strong sense of ennui because after talking to people, it's easier for me to get excited about something or see it as important, and it feels arbitrary how so many things could be potential main missions
+	- I disappoint people around me because if it comes to the safety of feeling "needed" by something (E.g work is calling me,), I fail my other obligations - not that it's physically impossible, but because at that point in time my self worth is tied up into something else and I feel like any moment being pulled away from it is at risk of damaging my life
+		- E.g when I was transitioning away from OSG > Endex, I could feel that "pressure" cavingin
+	- If there's a binary conitnuum of ""
+	- Prehaps even my romantic tastes are coloured b ythis.
+	- I’m nto intersetd in techonlogy, only in people/arts andstory telling, ebacuse of this
+- I want to be a principal who's taking on some sort of risk. E.g I have to care a lot about being punished for bad selection
+- I also have always liked to prank people because I feel like when doing a prank you have 'permission' (well not from the person specifically, but the act of a prank) to do whatever you want
+- It seems like I can think very out of the box on business matters bc so much of business is logically rearranging parts of things, aka their relationships. Aka being a creative deal maker, a creative combiner of things, is something I've really enjoyed. Pairing abstract entities together based on logical relationships. I don't know if this logic translates well however to areas that are less abstract (e.g set design or plot writing) and whether I'd enjoy those more, and I don't even know how good I am at pairing people together either (how discerning am I?)
+- I have a love of being able to cross the lines and surprising people, aka through public stunts or ideas, and I love underdog angles too. I'd have a lot of fun coming up with ideas on how to fuck with incumbents and old people in a disruptive way.
+- I'd have a lot of fun also thinknig about fnding things that are undervalued. i'm very picky about the substance of something, and i think every bit of information is incrementally differentiated, similar to an investor. E.g
+- What else am I valuable for? I think I enjoy bringing people together, I wish I knew more people to do this for and had more opportunities to bring them to. Specifically, I think discovering what people are good at is beautiful (seeing that person's take on a general thing, and using that to read back into their own personality is a skill that I hope to become incredible at), guiding them to do more of it is something that is personally so meaningful for me. But even then I can only do it for like 4 hours a day of focused time.
+- I think my other time split is in consuming information (something longform, structured, for 3-4 hours a day would feel awesome).
+- I have really enjoyed interviews as a format specifically because a very individuated take on why something matters comes out. This is also true for essays, but the interview take si almost always a common sense version that's easily understandble and digestbile too, which i'm a fon of
+- I love the idea of analyzing and assesing people and human talent. I think finding a seat where I could p
+- I enjoy a mix of higher order theorycrafting and lower orderd applied logic
+- I find that I
+- A secure system has no insecurities, and the same is true for you. The path: find & unlearn ~all of your insecurities
+- Insecurities are like strategic (locally optimal) risk-aversion. Chesterton's Fence, careful
+- Dwelling on negative emotions or the past slows you down. Instead, focus on how you would _like_ to feel in each type of situation that triggers your symptoms
+- Find a container that maximizes your “releases per hour” (RPH). Aim for 10+ RPH. Find your “10x Coach”
+- Stress-test your breakthroughs so they don’t flake. What would be the worst-case scenario version of this situation for you? How can you feel as you want if that situation happens, too?
+- Beware self-fulfilling prophecies: sometimes things go poorly only because you expected them to
+- Check in months/years later to see what’s really working
+- Ensure your coach’s incentives are aligned with the outcomes you desire
+- why aw i scared to feel helpless?
+- why am i scared of people leaving me?
+- why do i hedge my feelingo when I tell thew to others?
+	- e.g
+- why am i scared to talk about how I feel to my girlfriend?
+	- i'm scared she'll leave me
+	  
+	  _This is a draft for the blog_

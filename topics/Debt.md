@@ -1,0 +1,4 @@
+- Jacobs call
+	- really liked listening to podcasts, through internet and the app platforms, this past summer had a great experience doing climate, and watnt o see how tech works in other verticals, and  that's why i'm here today. 
+	- investment like the best, patrick o shaughnessey, wallstreetjournal's future of everything, this week in startups. you said you wanted 
+	- bif diff between college east coast vs working in west coast?

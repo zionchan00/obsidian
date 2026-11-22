@@ -1,0 +1,175 @@
+- Writing Date
+	- December 2025
+		- [[YC Is A New University]]
+		- 
+- 
+- Written
+	- 
+	- The Problem With YC And Power Laws
+	- [[On the feeling of deep love]]
+	- [[Storm of Steel]]
+	- [[Reflections on France]]
+- WIP
+- what sort of goods would be scarce if 
+	- [[technology]]
+	- Douban vs soundcloud/goodreads/letterboxd split
+	-
+	- What determines the 
+		- seafood such as lobsters and eels. it's a commons tory to say that lobsters used to be formally abundant when the coastal waters were cleaner, washing up in such number that they were cheap enough for the poor to live on. https://www.boston.com/news/wickedpedia/2023/10/10/did-prisoners-eat-lobster-in-colonial-times/#:~:text=“Dirt%2Dcheap%20because%20they%20were,and%20slaves%2C”%20another%20declares disputes this narrative for lobsters, arguing that lobsters were never extremely abundant, but did rise in status as a food which, when combin
+		- ed with climate change, pushed prices upwards and solidified as a high-status food. but maybe it's true for eels
+			- NYT article disagrees tho. Such was the abundance of the American lobster in the North Atlantic that coastal peoples didn’t need to set traps to catch them. Instead, they plucked them straight from the shallows and raked them up by the hundreds off the beach after storms — a gift from the ocean that went largely unappreciated. “Their plenty makes them little esteemed and seldom eaten,” the Massachusetts Bay colonist [William Wood wrote](https://www.vice.com/en/article/xy7vzw/lobsters-delicious-history-is-completely-insane) in 1634, observing that Native Americans speared them on hooks as bait for fish, the true prize. In an 1876 report on life among British settlers in Nova Scotia, John J. Rowan noted that people were “ashamed” to be seen eating lobsters, and that lobster shells strewn around a house were “looked upon as signs of poverty and degradation.” Even into the 20th century, schoolchildren living in New England and the Canadian Maritimes were mortified to find lobster sandwiches in their lunchboxes, proof of their poverty. In World War II, American G.I.s ate tins of lobster in the trenches.
+			-
+		- Class war theory -
+		- Traditional Japanese sushi i s made with lean cuts of fish, such as tuna
+		- Similarly in China crab and hot pot both used to be considered low status. Hot pot began as a peasant food, formedbecause of the simplicity of the dish
+		- Caviar used to be thrown away, but yet is now seen as a symbol of luxury
+		- There;s an interesitng class warfare angle from the NYT - you take a food that the poor eat, upper class then buy it up because they have more spending power, and proceed to waste ti abundantly as a flex over the lower classes.
+	- On Culture
+		- violins peaked in 1708, despite advanced technology (advanced imaging technology, the capability to analyze the composition of the finish and the age of the wood), we still can’t replicate the sound.
+	- Why Software isn't boosting GDP - tacit knowledge and culture
+		- software can’t eat the world is the same as why machines are inferior to hand crafting - too many nuances that are encoded in tacit knowledge.
+		- I think about my student Steven, who describes the difference in nigiri between him and his master. His master is able to have just the right press and touch such that the rice of the nigir blows up in your mouth, falling apart right when it enters. His master can try to verbally describe the technique but it's too lossy; even when using his fingres to press onto his students palm, it takes the students years of imitation before their technique is perfected
+		- if we are going to boost economic growth, if we are going to get to a better future, we are going to have to figure out how we can better capture tacit knowledge and scale it. In the first place we have to make it commonplace to understand the value of tacit knowledge and tradition at all however.
+		- Bwater case study
+		- Bridgewater. At one point they actually tried creating a software which could mimic the founders decisions, but things got awkward when the software disagreed with the founder
+		- Most of the news is pretty pessimistic, focusing on all the downsides of the culture (people cry when they get tons of bad feedback, the founder is eccentric, and his big software project did not work out), and since the firm had an outwardly democratic culture that encouraged tons of discussion, people are now shocked that its basically 1 dude making all the decisions
+		- Seems the tech isn’t good enough to do real cybernetics yet, but the real kicker nobody seems to focus on is how impressive it is that there’s basically 1000 people who exist to write economic research for 10 people to read, and 1 key decision maker is able to beat the market, and do so in an investing style that’s extremely unfocused since he’s investing all around the world, basically dunking on specialists
+		- He’s tried hard to take the ‘special juice’ inside his brain and encode it into software, but it just does not seem possible to turn this tacit knowledge into something explicit that he can pass down to others, and this is the upper bound probably of how much AI/software can help us do new things
+	- [[The Rise and Fall of America: the 50s-80s]]
+	- [[On Friendship]]
+	- [[The Abuse of Art and Hatred For the Present]]
+	- [[Who is Michael Ovitz?]]
+	- [[On Good Conversation]]
+	- [[On Learning]]
+	- [[How It Feels to Fast For 240 Hours]]
+	- [[All I Want To Know Is Where I'm Going To Die So I'll Never Go There]]
+	- [[Venture Capital]]
+	- Is it counterproductive to talk about the past
+	- I think there's no future of sovereign software without sovereign hardware.
+		- Firstly because the rewards of data capture and user manipulation are correlated, and the long-trend of hardware development has been increasing data capture because it creates products that are more useful for users; the more your device knows about you, the more it can do for you.
+		- Secondly because new. Secondly because the current generation of technology incumbents both have the bank accounts and the willpower to monetize the next generation of hardware. They will likely create increasingly enclosed operating systems.
+			- We should see increased profit capture in in-device interactions - Apple's 30% charge will be 40% now, because the increased creativity the device allows for will convince consumers to spend more money.
+		- But how can you fund these kinds of technologies? You can do it either by
+			- venture capital - in-capable of funding long-term projects bc on a risk-adjusted basis software/faster-projects will always be more attractive
+			- government funding - they need to be convinced this is an imperative
+			- philanthropy - we need to convince people with money to be much mroe creative with their capital.
+	-
+	- Why does Japan have a culture of excellence?
+- From Ovitz's bio, one of his consistent biggest mistakes was loosening up his standards for people around him and making exceptions. How do I have high standards for them without being a sociopath who cuts off people all the time?  Or is that the way
+- How do you make sure we don't end up liek China and Japan?
+	- Unfavorable population demographics > stagnant economy > cost for having family is too high > demographics get worse
+- On the danger of philosophizing and spreading my views, i can harm people who's natures aren't the same as mine. I.e Jason who's motivated by number go up
+- Should you make it easier or harder for people to communicate with you?
+- How to prevent yourself from falling asleep at the wheel
+	- Make a list of what I wanted to do at the beginning of the day and what i actually got done at end of the day
+	- "what are the most important problems in your field, and why aren’t you working on them?”
+	- k "what are you interested in?" or "what have you been thinking about lately?"
+- Tom Wolfe in the Valley
+- How should we judge stated vs revealed preferences?
+- How to decide what and when to learn?
+- What Ayn Rand got right
+- How should I go about using my time
+- How to make learning fun
+	- Discover the beauty of a subject. Often school  ruins it for us
+	- What's the connection between discovering beauty and practicing using the searching muscle brain your brain for answers?
+		- "“The area of a triangle is equal to one-half its base times its height.” Students are asked to memorize this formula and then “apply” it over and over in the “exercises.” Gone is the thrill, the joy, even the pain and frustration of the creative act. There is not even a problem anymore. The question has been asked and answered at the same time— there is nothing left for the student to do"
+			- When we're given the answer we're robbed of the joy of discovery. Does that make it harder to appreciate the beauty? Not at all, if someone showcased me the process it'd be beautiful still
+			- If our schooling systems are getting worse overtime (recursively worse because bad teachers > bad students become bad teachers) then the only way out to truly learn is to look to the past, to the OG sciencers
+- Multi-city analysis of problems in cities
+- Schmitt, Junger, and War
+-
+- Written
+	- [[On the feeling of deep love]]
+	- [[Storm of Steel]]
+	- [[Reflections on France]]
+	- [[I Miss Good Gossip]]
+	- Variations on a theme
+		- context is what is scarce - ppl telling stories about their lives > need to prove pithy advice, music and live shows, also me and my ML mishaps
+	- [[Sympathy for the Incels]]
+- WIP
+	- Notion is the New OS
+		- Notion began as just a note-taking app, where people journalled, planned their lives using text. It eventually moved on to become an 'all-in-one' app, beacuse to plan correctly we need to recreate much of modern note-taking: spreadsheets, calendars, etc.
+		- The appeal of Notion isn't that it has the best calendar or the best spreadsheets. Excel has much more powerful spreadsheet functionality, but most of that functionality is useless for the reasons people use Notion's spreadsheets: less for financial modelling and more for data-capturing of different properties that an entity has. Excel was overbuilt compared to what Notion is.
+		- The upside is you get a slightly more aesthetically pleasing spreadsheet interface for the same functionality, and even better it's an interface that is universal to all your other interactions. There is no new friction itnroduced. AND the ability to link these entities to other parts of your application, something which Excel wasn't meant to do
+		- But the primary product appeal of Notion is that it serves as home on the Internet, a place to filter the Information that comes through. The first thing that people see when they open up their computers is Notion, they check their planners, they check their calendars, they stay organized this way. They will surf around the Internet, but whatever they want to remember and hold onto will be put inside their Notion.
+		- Could one Interface rule them all? Is that even desirable?
+		- Notion brings permanency to the Internet.
+	- Economics From First Principles
+	- What happens in a world of artificial wombs/surrogacy?
+		- First rich people will likely have even more kids. actually, why do really wealthy people have so many kids in the first place? how are their families structured? does the mom just really like raising babies?
+			- More wealth inequality, but also a great way to raise the number of educated but also the number of legacies that exist at each school
+				- I'd long private schools and real estate that's close to nice private schools. This also increases the competition for laptop-class jobs and laptop-class spots, raising the price-in-practice for what people will pay for these services (private school consultants, college admissions counsellors, etc)
+			- Definitely nannying will go up in value.
+			- I am curious why rich people have so many kids tho. I guess it's because for them the cost of doing so has gone down, and the things they really want from their kids, to exist as status symbols they can be proud of, can be gotten with relatively little work. for all of HS, they can be sent to a boarding school, to go accumulate symbols of achievement in the future.
+		- How would this change debates on abortion, reproduction
+			- One thing is that the # of visible pregnant women in lower-income communities should increase, so we should see pregnancy increase in these communities from it becoming more normal, given you can't really tell whether a baby is a surrogate or actually someone's own from a belly. This is IF this becomes a bigger practice
+			- maybe you get more connection between upper<>lower class from a surrogacy relationship. There could be offers of sponsorship, assistance in the future. I'm curious how these relationships work as of right now
+			- In fact, how is surrogacy done as it is right now? There's likely an opportunity for a full-stack clinic where for tons of money, you can have high IQ smart women
+		- There's also same-sex couples, who usually play traditional dom/sub dynamics, replicating the autonomous/merged together inclinations of male/females. Their kids should be fine from having both of these influences, but they'll likely have some headaches around not having 'mom and dad' like everyone else. If they're the opposite-gender of their parents, their learning rate should be slightly slower since they don't have as strong of a role model to imitate
+		- You probably want better technologies/sensors to monitor the health of the surrogate too
+		- How large could this industry get?
+		- How would this change economics?
+	- Status markers on the internet
+		- Henrich tells us that we look both for signs of prestige and dominance along with homogenity to determine who to learn from. An underrated superpower of the internet is by removing signs of homogenity in both biological terms (skin, height) and some signs of status markers (e.g 4chan), we allow for a more abstracted/meritocratic flow of info
+	- The Importance of Sovereignty. October 12th, 2023
+		- The word sovereign is important because it's separate from freedom to me. Freedom sounds unattached, it's been poisoned by narcissistic excess. Sovereignty is about control of yourself, yes, but its association with old monarchs also suggests something about self control. To be sovereign is to both have the ability to do what you want but also to know what you truly want. One without the other is hell
+		- A large part of being sovereign is material freedom. The ability for a human to earn enough to support thriving, to work a job which fits who they are as a person, to be able to defend ourselves from enemies.
+		- I think a big part of sovereignty is having an institution. Instituions are different from groups in that an institution will have explicit, formalized rules and roles that can be used to hold people accountable. Rules will also dictate how rewards and punishments are meted out. The most important thing about an institution is that the executives is able to create a gravity well that pulls others into their worldview. They do so by offering material gain, promising their allegiant material sovereignty, but also by offering psychological safety through work, by offering participants a role to play in the worldview.
+		- The reason why it's been so top of mind is seeing how Roy has been able to carve a friend-group/community for himself from his workplace. There are people who come and go but the core 'inner circle' will be assumed to stay thanks to the large material rewards and status they gain in the organization from their responsibilities. Moreso the dependency we gain from workplace 'trust' will naturally spillover into personal 'trust', unless someone does something to suggest that they are deserving of one but not the other. it's this gravity well effect that makes me believe this is so important. Everyone becomes a believer, everyone's purpose becomes clear, it's so much easeir to feel happy when we have roles carved out and even better when the roles fit who we are
+		- We need more instituions broadly not just because we need more roles, but the more institutions we have the more narrow they can get and the more customized the roels can get for each person. This is the way 'out' of the post-modern crisis. Smaller and smaller groups for work, but we will likely be a part of many institutions, with small local ties that keep us bounded, and out of these small ties, we gain loyalty to the larger state
+		- What role does technolgoy have to do with this?
+	- Principles for Running An Organization
+		- Prevent Resentment at All Cost
+		- Prevent Tribes from Forming
+	- There's an essay to be written definitely on the success of UCB as a model for educational systems
+	- Why are some countrys people ordered and some others not?
+	- Digital childhoods and physical memroy?
+	- [[The Rise and Fall of America: the 50s-80s]]
+	- [[On Friendship]]
+	- [[The Abuse of Art and Hatred For the Present]]
+	- [[Who is Michael Ovitz?]]
+	- [[On Good Conversation]]
+	- [[On Learning]]
+	- [[How It Feels to Fast For 240 Hours]]
+	- [[All I Want To Know Is Where I'm Going To Die So I'll Never Go There]]
+	- [[Venture Capital]]
+	- [[The Script is Broken]]
+	- Is it counterproductive to talk about the past
+	- Friendships a Confession Booths
+	- Following Joy's comments on me and love, am I too selfish? She said that the feeling of obsession si when all you do is think about the other person. But all I do now is think about myself
+	- The West is unable to empathize with religion seriously because we cannot understand people who would die for such high values. China takes religion, takes the Islamic threat seriously, and recognizes that Islam is the last religion with the political behind it, and that's why they do what they do.
+	- Why does Japan have a culture of excellence?
+- From Ovitz's bio, one of his consistent biggest mistakes was loosening up his standards for people around him and making exceptions. How do I have high standards for them without being a sociopath who cuts off people all the time?  Or is that the way
+- What are good reasons to begin something?
+- How do you make sure we don't end up liek China and Japan?
+	- Unfavorable population demographics > stagnant economy > cost for having family is too high > demographics get worse
+- On the danger of philosophizing and spreading my views, i can harm people who's natures aren't the same as mine. I.e Jason who's motivated by number go up
+- Should you make it easier or harder for people to communicate with you?
+- How to prevent yourself from falling asleep at the wheel
+	- Make a list of what I wanted to do at the beginning of the day and what i actually got done at end of the day
+	- "what are the most important problems in your field, and why aren’t you working on them?”
+	- k "what are you interested in?" or "what have you been thinking about lately?"
+- Tom Wolfe in the Valley
+- Judgement vs condescension
+- What's the right balance between skepticism and dogmatism?
+- How should we judge stated vs revealed preferences?
+- How to decide what and when to learn?
+- What Ayn Rand got right
+- Negatives of the Internet we should keep in mind on ourselves
+	- Hard to become obsessed
+- How should I go about using my time
+- How to make learning fun
+	- Discover the beauty of a subject. Often school  ruins it for us
+	- What's the connection between discovering beauty and practicing using the searching muscle brain your brain for answers?
+		- "“The area of a triangle is equal to one-half its base times its height.” Students are asked to memorize this formula and then “apply” it over and over in the “exercises.” Gone is the thrill, the joy, even the pain and frustration of the creative act. There is not even a problem anymore. The question has been asked and answered at the same time— there is nothing left for the student to do"
+			- When we're given the answer we're robbed of the joy of discovery. Does that make it harder to appreciate the beauty? Not at all, if someone showcased me the process it'd be beautiful still
+			- If our schooling systems are getting worse overtime (recursively worse because bad teachers > bad students become bad teachers) then the only way out to truly learn is to look to the past, to the OG sciencers
+- Multi-city analysis of problems in cities
+- Schmitt, Junger, and War
+- Talking a bit too fast, 'willing to listen to'
+- TMAY
+	- fsfae
+		- fdsfaf
+			- fdsa
+			- pg 9, theme
+			-

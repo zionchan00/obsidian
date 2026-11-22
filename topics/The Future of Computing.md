@@ -1,0 +1,25 @@
+- Spatial Interaction
+	- 
+- The Personal Computing Revolution Hasn't Happened Yet
+	- The History of Computers
+		- Smaller in size
+		- Ease of interaction
+			- Abstractions that and
+	- How could I want to organize my apps? 
+	- There are apps. We compartmentalize into apps because 
+	- Operating system > apps (browser etc)
+	- I have a mouse to get around my screen
+	- Also we rarely use the graphical layout anymore, instead we skip and use search bars to fin things. My desktop as it is is a complete waste of psace right now
+- Increasingly personalized software
+	- But the quanttiy of control that we have over our devies software is still limited. I want a version of Twitter without the addictive for-you-page. Yes that's good for Twitter, but it isn't good for me. We need to have control at the level of the application and the website still
+		- FOrtunately Arc-browser is tackling this. The next thing for us to do is to create more intutiive interfaces for customization. Imagien being able to, in antural nmaguage, control the way your brwoser looked, rearrange websites entirely to your own liking. You don't HAVE to do these things, but IT hink once people are given the options, they would chooes to do a surprising amount.
+			- I think it's wroth explroing what the theoretical limits of langujage <> coding are and why we code int he first place here
+- More Permanent Hardware/Right-to-repair
+	- When we can't find our phones, panic strieks our body - it literally feels like we've lost a part of us. But we're ok with throwing our phones away,  because we can move all our data off. Given how many important memories we have on them, why are we not more sentimental? We look at childhood toys and childhood video game systems and get a sense of memory washign over us. But we do not see them being commemorated or put away anywher eon display. Usually they're thrown out still, or hidden away in a drawer. I think it's because, frankly, they're ugly.
+		- Can anything look and feel high-tech witout feeling tacky? What are examples of structures that last 50-100 years, and still feel important? We cwouldn't want clothing which doesnt' show some sign of wear. What tyhpes of materials actually look better overtime. How would they feel?
+- How does AI change all of this?
+- Other attempts I'm tracking that I like
+	- https://www.inkandswitch.com
+	- All of Bret Victor's work
+	- https://alexanderobenauer.com/ollos/
+	- https://alexanderobenauer.com/labnotes/002/

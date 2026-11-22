@@ -1,0 +1,9 @@
+- Ideas for a Philoosphy of Nature
+- System of Transcendental idealism
+- First outline of a System of the Philosophy of Nature
+- Philosophy and Religion
+- Investigations into the Essence of Human Freedom
+- The Abyss of Freedom
+- The ages of the world
+- Philosophy of ARt
+- Berlin Lectures

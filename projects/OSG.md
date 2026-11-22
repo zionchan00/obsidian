@@ -1,0 +1,195 @@
+/date
+- Current OSG things to keep in mind
+	- Club list for schools
+		- Top Cornell clubs for IB recruiting
+			- Cornell Financial Analysts
+			- Cornell Hedge Fund
+			- Alpha Fund
+			- ^equal
+			- Cornell Investment Banking Club
+			- below are pretty close
+			- Cornell Alternative Investments
+			- Cornell Undergraduate Asia Business Society
+			- Cornell Venture Capital
+			- Mutual Investment Club Cornell
+			- 
+		- Rice look for clubs
+	- HK interviews
+		- Harry Uchicago 
+		- Phoenix
+		- Kelly
+- RA
+	- Icey - NYU rising senior, media comms, minor in biz studies. returning to JPM ibd, public finance team
+	- Shift from Christine
+		- Shift: Eric Jin, Aaron Dai, Jacob Liu, Christina Duan, 
+		- shift: William Emory to an emory RA
+		- Jiarui hella MIA
+		- Likes: Anita, Victor, Huirong, Yafan, Jerry Deng, Yutong is a bit slower, Aurora
+- Todo 
+	- Make a list of readings for kids
+	- Create an app tracker for people
+- List of kids
+	- Check everyday
+		- Justin Pton 2027
+			- https://docs.google.com/spreadsheets/d/1sPdIL6t43rgYG81PFBhi6RVSDGQeuXl-ftgsF0tta-g/edit#gid=0 > track sclub apps
+		- [[Andy USC 2027]]
+			- All Due times listed in PST
+			- IIG interview: 7:30PM, Sep.6 Wednesday
+			- GIS Application: Wednesday midnight
+			- VIG Case study: 12:00PM, Sep.6 Wednesday
+			- VIG interview: 4:00PM, Sep.6 Thursday
+			- Search fund internship Interview 1:30 PM Sachem Capital
+		- [[Anna Cornell 2027 ]]#clubapps
+			- gotta give her a tech/behav mentor
+			- gotta watch her club timelines
+			- alpha fund coffee chat
+		- Will Yale 2027
+			- TMAY
+				- data science? computer science? modelling? 
+		- maria duke 2027
+			- econ, states double major, ༼つ◕_◕༽つ and environment ceritificate
+			- tmay
+				- should mention what made you realize that advocacy wasn't enugh
+				- and also how you dsicvoered you rresearch program bc the jump isn't intuitive
+				- realized that research projects need money to come to life + data analysis > ok what made you realize this
+				- 
+	- Abel NYU 2027
+	- [[Jerry NU 2027]]
+	- Brian Emory 2026
+		- need to look at his stock pitch inc hat
+		- no internships also
+	- Ray 2025
+		- SIG GE interview week of the 14th
+	- Anita COlubmia 2026
+		- Look at 
+	- [[Leo Brown 2027]]
+	- [[Kuan NYU 2027]]
+	- [[Michael Berkeley 2027]] #clubapps 
+		- BIG and CFC apps due friday
+	- Dora Berkeley 2027 #clubapps 
+		- BIG and CFC apps due friday
+	- Jacob Cornell 2026 #clubapps 
+	- Andrew Mao 2026
+		- 2 boutiques ongoing rn
+		- Finished technicals
+		- I expect you to business breakdowns everyday
+		- September 28th get started on his first pitch
+	- Yifei Wesleyan 2025
+	- Agnes Cornell 2027 #clubapps 
+	- Andy USC 2027 #clubapps 
+	- Huirong 2027 #clubappssoon 
+	- Joanna UCLA 2026 #clubappssoon
+	- Christy UCLA 2026 #clubappssoon 
+	- Leon Berkeley 2026
+	- Harry UPenn 2026 
+	- Harry ucla 2026
+	- Mido Uchicago 2026
+	- Ethan MIT 2027
+		- gotta give him a tech/behav mentor
+	- Phoenix Wellesley 2025
+	- Alina Liu 2025
+	- Jerry Brown 2026
+		- gotta give mocks for DB IBD
+	- [[Chad Columbia 2027]]
+	- Louie 2025
+	- RIchard Wang
+		- TMAY
+			- jump to finance isn't intuitive bc you don't explain how you discovered finance, just realized that finance was similar
+	- Allison 2026
+		- 2 search funds rn
+	- William MA 2025
+		- 0 boutiques, technicals is at 10/11, 1-2 classes to complet the course. Boutique hunt
+	- Mark 2025
+	- David Wang 2027
+		- PEG is spring opening
+		- Finance Society
+		- Investment Analysis group
+	- Ricky 2027
+	- Fred NYU 2026. just gotta read more news, keep up with invest like the best, boutique hunt
+	- alan nyu 2026. 
+		- 2 lessons away from finishing tech
+		- stuart will ask a lot of questions, interview questions, hunter gives lots of info thats not on the slides that's based on his own experience. 
+		- Interested in working in Hk
+		- 'my second question is'. 'what kind of skills and traits is evercore looking for from analysts'
+		- green card
+	- jerry 2026 - 1 invest like the best intrrview a day 
+	-  ben wang 2026
+		- needs 1 more boutique, already had 1 american boutique, worked at shanghai one this more
+		- im his behav mentor
+		- tech
+		- is into sustainability stuff
+	- steph rice 2027 - invest like the best chase 
+	- linda 2026
+		- invest like the best chase
+		- tmt and retail news
+	- yafan 2026
+	- Calvin 2026
+	- jonathan nyu 2026
+		- 2 american boutiques
+		- need to tell hunter to ues slides for tech/behav, find a new behav mentor
+	- marcus 2026
+		- send google doc link from finn
+	- William NYU 2026
+		- enjoyed his summer, stopped taking technicals
+	- angela 2027
+	- jerry unc 2026
+		- October 16th, 2023
+			- nearly finished tech review
+			- industry trend from johnny and behaves was way worse, he cannot understand what he's saying. his why gas stations wasnt good enough brad 
+- List of behaviourals to prep for
+	- Tell me about yourself, why this job, why this location, why this bank/firm, why this sector, why your university, why your program, 3 strengths/weaknesses, tell me about a time you made a mistake/underachieved/disappointed someone/received negative feedback/received constructive criticism/tell me about a time you worked in a team environment, what was the most difficult thing you experienced as a leader, tell me about a time you worked with a difficult team member, tell me about a time you demonstrated leadership/initiative even when you weren't officially a leader, what is your leadership style, does the leader make the team, tell me about a time you faced an ethical dilemma, tell me about a time you did an analytical project
+- General OSG notes
+	- **What makes a good business?
+		- 
+		- From a value chain perspective: scarcity and abundance. Pre-printing press: what’s scarce is the ability to read and write. The constraint is the # of books, books are where knowledge is stored and transmitted, but super expensive bc # of people who can copy and create more books is limited (only to priests and rlly wealthy people) and it’s time intensive. Given reading and writing is only needed to consume books and only books are for these classes of people, no way for ordinary people and no reason to learn to read/write and consume books
+		- Gutenberg press was invented: Books become abundant, what’s scarce is the ability to read/write still, but now that books are cheap (machine is fixed cost, you pay once, and paper is cheap variable cost) , ordinary people have a reason to consume the books. So as a person who knows how to read/write, you can choose to a) tutor a wealthy person as usual or b) tutor a class of normal people who have saved up and as a group can pay you lots or c) tutor for free bc you’re a priest and know you can mass-produce bibles and want everyone to know the word of God
+		- Mass literacy is abundant, what’s scarce is authority: The printing press is relatively expensive, but it’s affordable. So now we can have multiple places that print books (publishers and manufacturers) and we also have newspapers (they can make money off of the new population of people who can read and have a desire to know whats up around them). The constraint becomes who has the printing presses AND has social status to become a SOURCE OF TRUTH.
+		- Digital age makes content creation abundant and we go from read society to a read/write society: We go from publishing on pages, where space is finite and therefore expensive/valuable bc everyone’s attention is locked onto those pages, to digital, where infinite pages (cost of storage/running a website is cheap and creating additional webpages is free). Cost has changed but WHO can be a publisher has changed. Anyone can have a blog and the ability to share websites with no gates means content can go viral + on the places where our eyeballs are, infinite feeds exist  (space limitation is weakened), and algorithms which reward ‘the best content’, means anyone can get.
+		- What’s scarce? Still authority, bc what’s abundant is information (too much, maybe misinformation sometimes?). NYT and WaPo and the Economists do pretty well by having authority from history (still do worse than before) but small-town/medium-sized newspaper, dead. Authority from specialization and experts: American Affairs, Palladium Mag, some think tanks, etc, still great. 
+		- What’s scarce? In all this information, how do we find what we want? Google becomes extremely valuable - intent based searching. 
+		- How to make money? Monopolize the ability to make something that’s scarce, abundant. 
+		- Second lens is traditional moats/competitive advantages
+			- Avoid moat-brain. It’s when you look at company, see a moat, and say - it’s a great business, it has a moat. ????. E.g network effect. In theory is that for every user that joins a product, the product becomes more valuable to other users/future users. In practice though, network effects are local. A user in zimbabwe on linkedin doesn’t matter to me, only those in my professional sphere/adjacent.**
+- importance of follow up calls
+- TMT banking answers
+	- Interesting m&a deal
+		- ![[Pasted image 20230203144013.png]]
+		- ![[Pasted image 20230203144036.png]]
+	- TMT trend
+		- ![[Pasted image 20230203143947.png]]
+	- Potenial m&a deal
+	- potential PE buyout
+	- understanding tech business models (in case they ask "walk me through how Google makes money", etc.), tech industry primers (semiconductors, internet, etc.), understanding tech multiples (which industries use what), tech trends & news (e.g. what's your favourite tech trends), how the financial statements are read for tech companies (e.g. deferred revenue breakdowns), and finally some public & private stock pitches.
+	- Tell me about a bigtech company
+		- Biz model/monetization, general financial information (revenue mix, margins, appropriate multiples, etc), future strategy
+	- Here are EV/Revenue multiples, EV/EBITDA, P/E. Which industry is it? internet/semiconductors/software
+	- Favourite news story?
+	- favorite tech trend?
+	- future of x industry?
+	- KPIs and financial impacts:
+		- 
+- Healthcare
+	- Recent market trends
+	- My favorite vertical/company
+- Battery Ventures
+	- TMAY 
+	- Which option among PE, growth, and IB do you prefer? 
+	- In private market strategies, do you prefer growth or PE? 
+	- What brought you to apply to Battery? 
+	- Why Boston? 
+	- How did you diligence companies in your previous internships?
+	- Can you tell about a portfolio company that you like/dislike? 
+	- What do you think was the rationale behind that investment? 
+	- Pitch me a stock
+	- Pitch me a portco. What's their advantage vs competitors?
+	- also asked me why do you think two identical companies one has 8m sales and one has 10m sales?
+	- What are 5 questions you'd ask someone on a call?
+- MS MP
+	- Superday: A lot of it is behavioral and asking me which sector of tech that I am interested in and what would be strategic for the tech companies to do.
+	- First round: Asked about a late stage private company that I have been following and how would I value it if I take it public and followed up with some valuation questions. 
+	- fewafkweao
+		- fekwaofkeawok
+		- fwefekao
+- Why banker
+	- 'analytical skills', 'problem solving ability', 'investment banking internship experience cemented my experience', 'digging into biz models', reading financial reports', 'analyzing all the parts of a biz'
+	- get to work independently and solve things by yourself, but there's also a team environment

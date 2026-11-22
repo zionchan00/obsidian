@@ -1,0 +1,4 @@
+- Regional inequality, hard to get hukao
+- https://scholars-stage.org/making-sense-of-chinese-history-a-reading-list/
+- [[Confucius]] - Annalects
+- 

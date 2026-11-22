@@ -1,0 +1,94 @@
+- Terms
+	- Semicodncujtors/chip/silicon
+	- Fabless - e.g Apple, Tesla, AMD (bought ATIs and entered GPU market n 2006), Nvidia, Qualcomm Broadcomm, ARM Only design chip. $400-$500B market
+	- Foundries - TSMC. They manufacture
+	- IDM - Intel (arouind 2015/2016 fell of Moore's law, but TSMC is still riding it). Both manufacture and design
+	- Chip architectures - x86 is one, which onyl Intela dn AMd use, whihc creates the same isntruction set between the two. ARM has its own instruction set. You can use a compiler which does 80% of conversion, but last 20% is har dungalmorous work. ARM seems to have lots of bene
+	- Isntructionsets : Low-level software which itneracts directly with the hardware has to be customized to fit the hardware, which creates lockin between osftware and hardware
+	- CPUs - used in data centers + phones/compujters. Data centers will have millions of CPUs. companies that make CPUs, half of thei rengineer sare wokring ona. chip, other half are SWEs. Software ecosystem amkes up most of the moats
+	- GPUs - Nvidia 70% market share, AMD 30%
+	- TPUs
+	- IPUs
+	- Qcom - whay  are they?
+	- Abgo
+	- tEXAS IONSTRUMENTS
+	- Micron
+	- Moore's Law - every 18 months, the number of transistors on a cihpdoubles. But the falling off of moore's law emans that company's are increaisngly making their own chips. we're going from homogenous computing to hetereogenous computing, bc before ther'ed always be a better cpu COMING out by the tiem i finished my own chip
+		- corrolary of Moore's alw is that the cost of manufacturing chips (buying necessary machines + R&D) increases at the same rate as performance gains, which is why dedicated manufacturing companies came up (e.g CHIPs act is $52B, but TSMCs CapEx in 2022 alone was $44B). Only Samsung and TSMC can make 7nm, but even Samsung looks shaky
+	- Braodco,
+- Inflections
+	-  I think the best way to view that is to think of this industry as moving with a pendulum. I talk about, in the fifties, how everybody was vertically integrated, and then we swung all the way to the point where everything is completely abstracted. We're starting to move back. Not necessarily for manufacturing, that's still going to be specialized. But we're starting to see a lot more non-chip companies make chips. Some of that's electronics companies, Cisco makes their own chips, Western Digital makes their own chips for electronics. But mostly what I'm talking about is internet companies. The seven biggest data center companies, the Super 7: Google, Facebook, Amazon, Microsoft, Baidu, Alibaba, Tencent. Those companies are all designing their own chips. And it's very interesting. You asked what's one way to look at it. To me, the most interesting chip on the market now is something that Google has created called the VCU, the Video Coding Unit. You could almost just call it the YouTube chip because it was designed by the team at YouTube to do video compression and decompression, video and coding. Very, very special purpose chip. You don't see it much in the press because there was no competitor. Usually, Google releases their chip and there's some competitor who's going to publish a white paper and talk to all the press about how "This is not as good as what we make." There was a whole new category of chips that nobody really had thought to create before. But Google had a very, very specific need to build this chip for their own benefit. And so they went out and designed it and got TSMC to manufacture it for them. And it saves them, they haven't said numbers, but it's got to save them hundreds of millions of dollars a year in OpEx and CapEx. It's a pretty interesting story there.
+	- And then that percolates through all of these companies. It's important to remember, when we're talking about data center electronics, the CPUs, the GPUs that go in data centers, they're very, very powerful niche product and they're very, very profitable for all the chip companies. And those seven companies, maybe throw in Apple on a couple others, consume probably 70% of the server CPU category. Data center, electronics is a discrete market in its own right. It's about $20 billion market and you have seven, eight companies buying 70% of the output of the most profitable chips that any of these companies make. And now you're starting to see your customer has become your competitor. And that's just this one area. And we're starting to see this percolate through lots of other companies. The automotive companies are going to have to do something like this at some point to get to autonomy. We don't know what they're going to do yet, but there's going to be a big change when that happens. My favorite example is John Deere. I think most people, where I live in the Valley, think of John Deere as very low tech. But in reality, they are a very high tech company. They're actually designing their own chips now to do autonomous tractor driving essentially. I think we're going to start to see many more companies like that, industrial automotive, aerospace companies design their own chips. Everything's going to become very much more custom purpose specific.
+- Wherte is chip demand righht now?
+- Intel
+	- The CPU was the primary enabling silicon platform of the PC era; and Intel, in collaboration with Microsoft established itself early on as the preeminent CPU provider for the PC industry. This lock on the global CPU supply assured Intel of massive wafer volumes; which in-turn enabled quick yield learning and defect improvement; which in turn enabled volume ramps at high margins and massive revenues. These revenues in turn funded the research and development needed for the next technology node. This virtuous cycle enabled Intel to gain, and maintain technology leadership during the PC era, and in fact was a primary driver of Intel’s success as a semiconductor manufacturer over 4 decades.
+	- Frequency (clock-speed) was the primary metric in the PC era and the standalone CPU was the primary chip that drove advancements in semiconductor technology for decades. Form-factor was hardly an influencer and there wasn’t as much of a drive to integrate system-level functionality either on-chip (SoC) or in-package (SiP). Form-factor, cost and power-per-function became critical drivers in the mobile market and that in turn increased the importance of on-chip integration of functional hardware (e.g., power management, computing, audio/video, graphics, GPS, and radio among others).
+	- Intel’s process technology was optimized over decades to enable the highest frequency CPUs and enabled Intel to dominate the PC wave of computing. On the other hand, foundry process technology was optimized to enable a highly power efficient and cost-effective SoC technology suitable for a wide range of customers over a large dynamic operating range, long before the advent of mobile computing. The foundries, led by TSMC were thus well prepared to cater to the needs of mobile, post-PC products. Apple’s decision to use Samsung, and later TSMC as a foundry provided a significant growth catalyst for both foundries. TSMC being the largest incumbent foundry at the time was the largest beneficiary of the mobile wave of computing
+- Breakdown chip use cases across end-devices and drivers/restraints on each one
+	- Data centers
+		- AI-specific
+			- Demand drivers
+				- New applications from developers building on-top of foundation models
+				- Foundation models being trained by big AI companies (OpenAI, Anthropic)
+					- OpenAI uses Nvidia V100s GPUs and AMD EPYC CPUs, Anthropic is partnering with Google Cloud, Cohere is on Google Cloud
+				- Foundation models being built by developers themselves (JasperAI using Cerebras systems supercomputer)
+				-
+			- Competitive landscape
+				- What matters?
+					- Training time - eh it doesn't matter too much
+					- Inference time
+					- Training cost
+					- Inference cost
+					- Bandwidth
+					- Flexibility. Nvidia is one of the few copmanies whos hardware can be used for data prep, training, and inference
+			- ASICSs
+				- TPUs from Google, optimized for Tensorflow
+				- AWS Inferentia
+			- Graphcore
+			- Cerebras
+				- Giganti cchips, need sepcially built water-cooled system, lots of poewr, custom software. 10,000x more bandwidth than a100s. being used by big pharma, only make sense for gigantic training
+				- ![[Pasted image 20230305161845.png]]
+				- Cerebras and nvidia are cost equivalent for large models
+		- Normal data centers
+	- Gaming
+		- GPUs
+	- Mobile phones
+- ![[Pasted image 20230305152141.png]]
+- ![[Pasted image 20230305152153.png]]
+- Nvidia
+	- Selles discrete graphic cards and embedded SoC. 80% ish market share in discrete GPU
+	- Intel and AMD sell mostly integrated GPUs bc they're mostly CPU supliers (AMD is second in in discrete GPU bsuiness tho).
+	- 4 segments:
+		- Gaming (46% of revenue). Gaming is 60% desktop 30% laptop, mostly high-end gaming PCs that nvidia is selling to. Strong pricing power - new releases are more expensive.
+			- Nvidia ray tracing through RTX (upgrade over GTX) and DLSS are nvidia-specific advantages
+			- G-Sync, GeForce experience, game ready drivers, nvidia reflex, nvidia broadcast are ancillary
+			- ![[Pasted image 20230305140852.png]]
+		- Data Center (40%) - AI and HPC
+			- What matters for data centers?
+				- Conenctivity and badnwidth
+				- Interconnects and switches and controlelrs
+			- Training - CPU
+			- Inference - CPUs, ASICS, FPGAs, GPus
+			- ![[Pasted image 20230305142134.png]]
+			- The stronger GPUs are, the lower the cost of training. Also Nvidia is planning on building Eos
+			- Nvidia is expanidng into CPU and DPU too. Grace CPU is new release, only goees for highest end of ai and HPC. x86 architecture of Intel and AMD still dominates data centers bc software is expected to run on it vs ARM exosystem
+			- CUDA moat beats OS like OpenCL. Taught in uni courses, DL resarchers love it bc performance is the best. All major DL frameworks like TF, PyTorch, CNTK support CUDA (all are in-development except for cntk)
+			- And Cuda-X, libraries for All AI use cases (cuDNN, Rapids, TensorRT) and app-specific frameworks (Clara, Isaac, Drive, Aerial, Maxine MErlin, Riva across convo ai/healthcare/robotics/drove/aerial)
+			- Intel’s software platforms in the form of oneAPI and OpenVino also have the advantage of being hardware agnostic languages, however they are in a relatively early stage and one expert thinks that they are many years away from getting to CUDA’s level of depth. Google is developing its own open-sourced and hardware agnostic languages called JAX and Julia. Their weakness however is that they are based on Python, which is not as optimised for high performance computing as C++ on which CUDA is primarily based. They are also more focused on AI/ML, whereas CUDA is geared towards all sorts of HPC use cases. Given the history of poor adoption of open source standards, some experts think that these competing languages will never be able to replace CUDA entirely, and in fact all them still offer CUDA integration.
+			- Nvidia is also significantly ahead in customizing higher level libraries for specific verticals and industries. Nvidia’s significantly higher R&D budgets (as a result of its superior scale) allows the company to reinvest more in its software stack than its peers, strengthening the virtuous cycle. According to one expert who used to work at Nvidia
+		- Professional visualization in architecture/media and entertianment/eng and construction/public sector (8%) and automative (2%)
+	- Also sells software
+		- OS - CUDA
+		- Platforms - AI enterprise and Omniverse
+		- Domain-specific apps
+- Chip use cases
+	- Memory
+		- Toshiba, Samsung, NEC
+	- Microprocessors
+		- Intel, AMD
+	- Commodity integrated circuit
+		- Poor
+	- Complex SOC
+- As 2022 progressed, the [chip shortage began preventing auto makers from producing enough cars to keep up with demand.](https://www.cnbc.com/2021/09/30/us-auto-sales-forecast-to-plummet-in-third-quarter-as-chip-shortage-plagues-industry.html) In [December 2022](https://www.jdpower.com/business/press-releases/jd-power-lmc-automotive-forecast-december-2022), sales of new vehicles were down 2.8% over the year prior; overall, 2022 new-vehicle sales dropped 11.2% from 2021’s totals. A lack of supply coupled with rising demand pushed the average new-vehicle sales price to $46,382 in December 2022 — a new record, and 16% higher than the same time in 2020
+- ![[Pasted image 20230305164104.png]]
+  >

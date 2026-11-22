@@ -1,0 +1,4 @@
+- **On the Fourfold Root of The Principle of Sufficient Reason**
+- The World as Will and Representation. Cambridge translation is best
+- The Two Fundamental Problems with Ethics
+- panerga and Parapilomena

@@ -1,0 +1,1 @@
+- Yet there is a strong irony in the red and the black. despite julien's dreams to be like Napoleon, his escapades are barely comparable. The hero has long died

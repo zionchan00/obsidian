@@ -1,0 +1,73 @@
+
+Essay
+- The origins of the Pranksters/Psychadelic movement's beliefs
+	 - The effect drugs had on the Prankster
+		 - Pg 20. Thi sto
+		 - "Everything in everybody's life is ... significant... Sometime after that I was up in Haight-Ashbury with some kid, not a Prankster, a kid from another communal group, and the kid was trying to open an old secrétaire, the kind that opens out into a desktop you can write on, and he pinches his finger in a hinge. Only instead of saying Aw shit or whatever, the whole thing becomes a parable of life, and he says"
+		 - "That's typical. You see that? Even the poor cat who designed this thing was playing the game they wanted him to play. You see how this thing is designed, to open out? It's always out, into, it's got to be out, into your life, the old bullshit thrust—you know?—they don't even think about it—you know?—this is just the way they design things and you're here and they're there and they're going to keep coming at you. You see that kitchen table?" There is an old enamel-top kitchen table you can see through a doorway in there. "Now that's actually better design, it actually is, than all this ornate shit, I mean, I truly dig that kitchen table, because the whole thing is right there—you know?—it's there to receive, that's what it's all about, it's passive, I mean what the hell is a table anyway? Freud said a table is a symbol of a woman, with her shanks open, balling it, in dreams—you know?—and what is this a symbol of? " He points to the secrétaire. "It's a symbol of fuck-you, Fuck you, right?" And so on, until I want to put my hand on his shoulder and say why don't you just kick it in the kneecaps and let it go at that.
+		 - But anyway this talk just flows. Everyone is picking up on the most minute incidents as if they are metaphors for life itself. Everybody's life becomes more fabulous, every minute, than the most fabulous book."
+		 - There's two parts to this. The first is the quote itself. When you begin to see meaning and causality in everything, it could either a) lead to a super-human belief in your own ability to create change in the environment around you bc you see links behind every event or b) it could lead to copium where you believe everything will 'play out the correct way' and hence you have nothing to be worried about. a causal flow exists but you have little ability to affect it. the second part is wolfe's interpretation. the interpretations are limited to the experiences the individual has gone through. the psychadelic indivddual can only interpret and find meaning in the events and phenomena which they encoutner in their lives. to see causal flows in the events of one's life is to elevate the importance of these events and how magniicnet one;s life is. could this have led to the narcissism that Lasch talks about in the Culture of Narcissism?
+		 - 
+		- The belief that one had an extreme level of control over the environment. Pg 40-41. Wolfe at his best. cars, superhero comics, made the young feel like gods
+		- Pg 60. What about LSD makes you feel like you understand others?
+	- Existentialism/libertarianism. Pg 74. Beats and Hippies read existenialism, and Kesey sounds libertarian
+		- "He lived his life without any concessions to what society expected of him. He followed his passions, didn’t worry about what his family or anyone else thought of him, didn’t aspire to financial success. And yet he was respectful of others and operated by a strict moral code." https://bancroft.berkeley.edu/collections/Shig_Murao/About.html from a bio written by a friend of Shig Murao in honour of him. the ideal of chasing your dream, not caring about money, is a originally american ideal. the beats and the pranksters made it cool for the masses to do this for the first time. become poor.
+		- "they are living here in this garage, like gypsies, and there is no hot water, no toilet, no beds, except for a couple of mattresses in which the dirt, the dust, the damps, and the scuds are all one, melded, with the stuffing, and they stretch out on the scaffoldings, in the bus, in the back of a pickup truck, nostrils mildewing ... But suddenly it hits me that for the Pranksters this is permanent. This is the way they live. Men, women, boys, girls, most from middle-class upbringings, men and women and boys and girls and children and babies, this is the way they have been living for months, for years, some of them, across America and back, on the bus, down to the Rat lands of Mexico and back, sailing like gypsies along the Servicenter fringes, copping urinations, fencing with rotten looks"
+		- Pg 85. Nobody stopped Stark Naked bcx they thought she was doing her own thing
+ - The effect the Pranksters had on American Society
+	 - The Prankster project had x number of goals
+		 - Attempt to achieve authenticity
+		 - Spread the usage of psychedelics through Acid tests around America
+		 - Create a hierarchy-less society
+			 - Reading french existentialism would be helpful to understad
+	 - What were the pranksters trying to do? The bus was a way to run acid tests around America, what did the music mean? There was no structure or harmony in the music they did. They wanted to be spontaneous, to be unrestricted and communicate exactly what they wanted to, have the most authentic connection with the audience as possible, authentic as in accurate to what they wished to express. I think they were trying to reignite the American imagination. Listen to how Kesey talks about Cassady in this interview https://www.youtube.com/watch?v=55QzNJL2Njk. 
+	 - Method: push people to take acid to convert to their views but eventually move beyond acid and convert people without it. it seems the movement was unable to accomplish the latter goal. 
+	 - Important figures who were impacted by the Pranksters/psychadelics
+		 - 
+- The different branches of the psychedelic movement
+	- Pg 30-32. What makes Kesey views different vs the mainstream hippies?
+	- "We can isolate ourselves in a moanstery or we can organize a religon, along the lines of the LEague for Spiritual discovery and have acid and grass legalized as sacraments, so everyone won't have to spend every day in fear". League dream is diff from pranksters visiion
+	- Gleason Kesey split
+- The conflict between the radical left activists and the psychedelic movement. Alpert, Leary
+- Tom Wolfe's conservativism
+	- Pg. 62-64. Wolfe believes that hierarchy will always exist, even in a group that professes there to be no order and that everoyne is free to do whatever they wish. He also loves to poke fun at the discomfort of middle-class, university-educated intellectuals around lower-class, roughs people. Pg 76. People do have roles. The thin gabout TW's written style, where strong adjectives are used to describe the scene, I can't help but finish the book with a strong opinion on the events that happened. I can't separate what happened independent on an interpretation of the success of the events. 
+
+
+Pages
+- Pg 35. How Kesey uses the word 'fantasy'. Search Gleason article in SF chronicle
+- Pg 53-55. TW rllly captures the diff in view between those who are in and those who are outside the group
+- Pg 62-64. Group conflict and more names. All the events up to here are pre-1964
+- Pg 76. In-group tension
+- Pg 84-85. This is an experiment in relativism - how much can you tolerate
+- Pg 88. They ditch stark naked
+- Pg. 93-94. How did KEseys charisma affect the group?
+- Pg. 92-96.  He wants to escape master-slave but acid doesn't help with that
+- Pg. 104. Such good writing
+- Pg 106-107. Kesey said bus was American. Everyon ehere is patriotic. Wolfe notes intellctuals admired other countries
+- Pg 115-119. Sandy is the story of caution, gotta be selective about who you let in
+- Pg. 161-163. Note Pancho trying piss them off, TW comment that they never openly argie, and Norman getting roasted for doing things that make him happy (smoking and reading are selfish)
+- pg 165-166. What was with their focus on self-help and healing/removing inhibitions? When does this intense self-examination become bad?
+- The Bust is important in its comments on conflict-avoidance and sharing, The Unspoken Thing is an important chapter because of TW's comparisons of the Pranksters to religious groups.  Sandy goes to jail in pages preceding the unspoken thing. Frozen Jug Band is them ruining the war protest (beginning of American unseriousness)
+-  Hypothesis - the beginning of American unseriousness likely started with MKUltra and the Pranksters
+- Lost my notes from pg 166 - beginning of departures
+- PG 231. Kesey develope sacid test and TW quotes book analyzing religion. Rituals are a way to spread the OG divine experience
+- Pg 233. I need to think through this movie analogy more and the 'trying to erase divide between creator and consumer so media is more participatory'
+- Pg 241. Why does acid encourage intepretations of events as copium instead of other interpretations? I.e it had to be that way, that's just how it is vs it could have been different
+- Pg 245. TW emphasizes that you can control crowds on acid
+- Pg 251-252. TW lists the influences the Pranksters and the Scene around them had on multimedia music, psychadelic rock and the beatles, and the divide between leary and alpert <> kesey
+- Pg 262-263. Norman's delusions of god-like power on acid
+- Pg 267. TW draws comparison between kesey and Leo from Hesse's Journey to the East
+- Pg 279. Girl beign interviewed tlaks about "a great flash of insight comign into place that she later forgot"
+- Pg 293. Don't know what to make of TW's analysis of Mexico
+- Pg 300-301. TW psychoanaalyzes Black Maria on why she found Kesey attractive
+- Pg 317-318. TW seems to think that psychadelics make you believe in an 'Eternal now'
+- Pg 325-326. Kesey's philsoophy is trying to make the acid state a permanent reality
+- Pg 330. Kesey sees the mexicans as potential converts
+- Pg 331-332. Black Maria feels left out bc a hierarchy exists
+- Pg 321. sandy shows up again healthy
+- Pg 343. Sandy steals one of the groups machines and leaves. TW goes into his personality
+- The chapter the cops and robbers game is important because it talks about the derailing of the leftist activist movement from a) intellecutal scorn from the movement going mainstream and adoption from non-intellectuals and b) psychadelics, which affected even the surfer groups. it also goes into the 'possible futures' of psychadelics, either a buddhist direction like leary encouraged, or kesey. there's also side commentary on the intellectuals being scared of the hells angels, despite outwardly embracing them, replacing blacks with HAs as model minority
+- TW has done a perfect job immersing himself w the pranksters
+- 374-377. Kesey is now a threat to those who's power is dependent on psychadelics, and rumors spread he's a snek
+- 386-387. Kesey doesn't have the backing of others in the pscyh movement, they fear hes too powerful
+- 405. The Buddhist turn of the movement leaves Cassady alone

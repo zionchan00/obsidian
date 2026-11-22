@@ -1,0 +1,16 @@
+- Vaclav Smil on energy
+- Wetware: A Computer in Every Living Cell
+- http://bactra.org/notebooks/genealogy-of-complexity.html
+- Chaos, Gleick
+- Frontiers of Complexity
+- How Hippies saved physics
+- lCybernetics: or the Control and Communication in the Animal and the Machine
+- Worlds Hidden in Plain Sight: The Evolving Idea of Complexity at the Santa Fe Institute, 1984–2019
+- David Karakeur is working on a collection of foundational papers in complexity to be release 2023, check it out in january
+- An Evolutionary Theory of Economic Change
+- Business Dynamics - Sterman
+- The Re-Emergence of Emergence: The Emergentist Hypothesis from Science to Religion
+- The Nature of Code - for me to learn how to work at a lab doing complexity related research
+- Foundational Papers
+	- Coarse-graining as a downward causation mechanism by Jessica Flack
+- https://aeon.co/essays/how-to-understand-cells-tissues-and-organisms-as-agents-with-agendas

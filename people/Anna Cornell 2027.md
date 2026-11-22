@@ -1,0 +1,1 @@
+Her research piece: https://docs.google.com/document/d/1cBBTW_UctOfQ7_Kcww1wb8gHCoBh5NROm6_8i4owfY4/edit

@@ -1,0 +1,5 @@
+- The republic: the laws #political TRANSLATED BY DAVID FOTT
+- On the Commonwealth and Laws trans. C.W. Keyes (Loeb edition)
+- On Morals
+- On obligations #political TRANSLATED BY BENJAMIN PATRICK NEWTON
+- Letters

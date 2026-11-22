@@ -1,0 +1,20 @@
+- New Ai native biz broker
+- building biz in a box for industries targeted by PE
+- rolling up biz's myself
+- 
+- Brett Victor - Seeing States but for Homework. Create graphical representations of math questions to help kids conceptualize what's actually going on. 3blue1brown but for everything
+	- Previously wasn't possible bc code was expensive, as AI code editors get better OR we can use image-generation to generate what we want
+	- Most of Bret's work is around trying to create graphical representations to undo the lossy compression of language
+- [[Social App Ideas]]
+- [[Mirror]]
+- New internet attempts
+	- Sane.fyi
+	- Are.na
+	- The one related to urbit i'm blanking on
+- BCI to beam thoughts/communicate info faster - what is the physical substance of thought in our minds?
+- A new tutor school, where we take care of the student matchings instead of the parents
+	- if i want to earn 200k CAD. year from this, I'd need $1.5M in revenue and 15,000 class hours at $100 USD a class OR 150 kids paying $5000
+	- Top-tier tutor earns about $150 USD an hour on Wyzant. 
+	- 75 kids, each paying $10k USD, $750k.  4 hours of lectures a day = 1440 hours a year. Pay the teachers $200 an hour, assume 2 teachers are teaching at once always, that means I'm spending $576k. 
+	- One on one model = 1440 x 100-150 an hour = 144k a year
+- 

@@ -1,0 +1,14 @@
+- why do states exist still? What will change this?
+- Why is everyone moving to cities? In part because talent selection has moved towards the universities. I think what we need to do is to go earlier to the high schools and learn to spot people early 
+- pg 45 he touches on the problems of cities impacting the development of identity 
+- Pg 54. The advantages of decentralized manufacturing
+- Pg 59/60. How large should a city be to prevent over centralization 
+- pg 66. Cars cause the breakdown of society
+- Pg 93. Transit sucks because different agencies (trains vs buses vs subways) will fight for power.
+- ‘Education without schools’ ilich
+- Pg 110. Why didn’t Uber share sork
+- Pg 116. Spending time in high rises makes you inssne
+- Pg 133. Beautiful 
+- Pg 509-510. Build on ugly places instead of beautiful land
+- of 551. What’s the digital equivalent of a transition space 
+- Camille site - city planning according to artistic principles

@@ -1,0 +1,6 @@
+- [[Backpack]]
+	- Verdict: Day pack was incorrect, should've gotten a fit pack
+		- I underestimated how annoying it'd be to bring around a bag of shoes all the time. Also because fi I want to run, I need 2 pairs of shoes
+- Laptop
+	- Spend $200 to fix my XPS, sell it off for $200 when it finally dies, buy a macbook air (unclear what prices will be at that time) and also when my XPS will die
+- 

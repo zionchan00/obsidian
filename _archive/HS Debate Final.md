@@ -1,0 +1,57 @@
+- Motion
+- Arguments
+	- PM
+		- Mask vigilante - anonymous, enforces what they believe to be right
+	- Institutions are corrupt on both sides of the house. we can solve this through accountability
+	- under corruption there is no way of changing institutions from the inside (get forced)
+	- bruce will work with existing institutions (*but aren't they corrupt* ) and he's kept accountable for them. (*but if bruce is accountable to corrupt system, how effective can he be?*)
+	- bruce is putting his life on the line, he's doing a ton more work vs dying on the field. he's going to invest in the system and try to improve it for his own life
+		- we get more justice for victims as a result
+- LO
+	- We care about Gotham as a whole
+	- Bruce as a masked vigilante, not accountable. the mistake with OG's argument is that they weld Bruce and Batman to be the same when Bruce is accountable but Batman isn't
+	- Even in the best case, he sets a negative precedent that it's possible to  step outside the law. we get many more vigilantes as a result (i*mo strongest argument is that the rule of law being defaced by vigilantes makes it look worse, but if its already corrupt who cares so its a bad argumen*t)
+	- most crime is petty, caused by circumstances, and bruce fails to solve this. he leaves the government. under this characterization of crime as caused by enviornment and intergenerational trauma and chrime, bruce has minimal effect
+- DPM
+	- even one life saved, it's better for the community. This isn't about crime or intergenerational trauma
+	- easier to hold one person accountable vs a system. but because bruce is reasonable, he would never do anything wrong
+	- as crime rates go lower, economy does better
+	- morale is built o
+	- 'we cant hold batman accountable'
+	- 'how can bruce be moral' morality is a subjective debate, so it doesn't matter. even if hes corrupt, he can be held accountable
+- CG
+	- problem is that if someone else decides to be a vigilante, that possiiblity always existed. it's not like bruce literally makes it possible for them to be one, CG has to prove why bruce doing so greatly increases
+- CO
+	- Bruce has access to resources that make him more effective than any police officer (why? how? how do those resources actually make him a better crime fighter? what are the CAUSES OF CRIME THAT ARE SUCH THAT THIS IS TRUE)
+	- making vigilantism mainstream
+	- we get more economic stimuli > gets the masses out of property
+- Co
+	- crime has infested the city, what about social contract?
+	- no one is above the law. *where is the mechanism by which the corrupt system can self-correct AND lower crime rates?*
+	- Once he becomes corrupt, he will not go to jail
+		- *Again, there needs to be a VERY STRONG ANALYSIS of why Bruce will become corrupt AND the chance of that coming true is SO BAD that this outweighs the potential benefits. The most likely case isn't that Bruce becomes corrupt in the sense that *
+	- He could fund infrastructure instead.
+		- *Again that doesn't solve the probelm of the corurpt city*
+	- why don't we create an institution that holds government accountable?
+- CG
+	- bruce is stronger than police
+	- he exists outside these institutions, and investing money into existing institutions won't work because they're corrupt
+- CO
+	- single person can't erase crime of whole city. buit you can't argue that and also argue a corrupt bruce is very dnagerous. he's either very capable or he isn't. and he doens't have to erase all the crime either
+	- just fix the institutions from the inside by gettin gnot-corrupt people inside
+- How I think about the debate
+	- The status quo is that the city is overrun with crime and the system is too corrupt to solve it. 
+	- Government HAS to characterize the causes of crime AND corruption as something which is best solvable by bruce as a vigilante and that Bruce has the right MOTIVATIONS, and hence will actually do so
+		- gov could imagine a calculus for criminals in which as long as the system is corrupt, the benefits outweigh the harms of committing crime because you're unlikely to be punished. This could be seen through blatannt visual cues of urban crime run rampant (grafitti, broken windows, the sound of gunshots throughout the night)
+			- bruce solves this by changing the calculus for crime. Serious physical injury instead. Recognize the argument here is also CONTINGENT on crime being NOT A NECESSITY.
+				- Government can mitigate this argument through the argument that was actually ran, which is that once Bruce is actively fighting crime and risking his life he's likely to invest resources into fighting the causes of CRIMES OF NECESSITY
+					- IMO a strongn Opp argument is that vigilantes may have a symbiotic relationship with crime - without crime, they don't exist, and Batman has a perverse incentive to allow crime to live so Batman has proper villains
+		- gov has to characterize the corrupt system as unsolvable unless batman does something. the election is rigged so money flows out of city hall and into the hands of the mafia, the police are paid off so they don't try to catch the mafioso and the juries are paid so even when they are caught, they aren't prosecuted, the media is paid off so that no independent citizens with resoures are investigating.
+			- I think this characterization is VERY hard to beat bc under this frame EVERY SINGLE CHECK IS BROKEN.
+				- The key of the mafia's power is the flow of funds + monopoly on violence which is usually a property of the state. just like a corrupt state, the only way to create change is to step outside of the confines of the law to create change
+					- Bruce is able to do this disrupting mafia operations (smuggling, racketeering, etc), exposing corruption through neutral platforms (social media, etc)
+					- He's in the unique position to do so because he posseses massive wealth (immune to bribery) and anonymity + strong combat abilities (strong against threats of physical violence)
+		- government then has to argue that Bruce wayne as a person is likely to follow through and do what they expect him to do, completign the argument that a) Bruce is the best actor to create change in the system and b) Bruce will ACTUALLY DO this
+			- I think it's fair to dive into his unique personal motivations as he's named in the resolution, and this isn't as much about vigilanteism in general. Not going to expand on this too much here, but IMO it's necessary argumentation that should come out in the second speaker
+	- Opposition does the inverse
+		- Crime is committed out of necessity, Bruce as a vigilante only makes this worse. He's a sign of systemic lack of empathy

@@ -1,0 +1,8 @@
+- Anatomy of a transaction
+	- Owners A,B,C. Let's say Owner B gets a coin. from Owner A. Owner B's public signature + the previous transaction (in which owner A received the coin that they are now going to give to Owner B) is put into a hash, and then Owner A will sign the transaction with their private key, approving the token moving away from their address and towards B's wallet
+	- With physical money, scarcity is easy because once you physically get the paper, as long as the paper is real, you got paid. with digital money, you trust the electronic number in front of you, but there's a problem of whether the other person 'tricked' the system into falsely upping your account balance. they could undo the transaction later on, or perhaps they sent money to two diff places
+	- what we traditionally do in payments online
+	- This is because you need to be able to accurately keep track of account balances, so the chain keeps a record of every transaction ever. But you don't need to know every transaction in detail right, you could probably just keep a record of the net results of all the transactions past a certain point
+	- The double-spend problem means that blockchains are a generalized solution to decentralized accounting of zero-sum resources: e.g money, food in games, etc, anything that can be kept track of in a double-book accounting system. But for social media apps, where the same message can be sent multiple places, there's no need for us at all to go through this. what you do need is a database that keeps track of all the msgs and whether they were sent or received, so that message history isn't falsely deleted or altered
+	- what happens to blockchain if my balance is insufficient? 
+- ![[Pasted image 20231110185445.png]]

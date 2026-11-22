@@ -1,0 +1,22 @@
+- good teacher does have to go in-depth and show the rewards of doing philosophy as a living model through the depth of their
+- Teaching has to happen with a text, vague lecturing does not seem to work. But reading things out loud is terrible I don’t think people think when things are read out loud, just as I thought in the [[Strauss]] lecture transcripts I read
+- karbo318@gmail.com will email Joe 
+- Current teachers
+	- Aline -$60, gorgias, SJC grad who taught at Landmark, background in Heidegger/Gadamer/hermeuenutics
+	- Upcoming
+		- David J - math, $30/hr
+		- Robert - $60/hr, suggested Homer/Federalist/Plato
+		- Susan Z - $55/hr. asian studies/comparative religion
+		- Mia $55/hr, sjc history of natsci background
+		- Charles $80/hr for Art
+	- 
+- https://www.wyzant.com/match/tutor/79463390 > didn't respond but seems like strong background
+- https://www.wyzant.com/match/tutor/89143213 > knows a lot about dante
+- - good teacher does have to go in-depth and show the rewards of doing philosophy as a living model through the depth of their ideas
+- go deeper into the ideas
+- Current teacher roster
+	- William R - write timezone, lets figure out scheudle by wednessday/thursday got it. 
+		- beauty a very short introduction
+	- Mia
+		- Read the meno
+	- 

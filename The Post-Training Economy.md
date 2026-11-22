@@ -1,0 +1,7 @@
+- The assets that are valuable to hold are:
+	- access to humans who are high performers in their domain of work. the problem is that this is likely a moving goalpost: e.g look at trends in design, but AI will drop the cost of imitation for everything digital on the frontend and make it all look 
+	- software infrastructure that transforms the feedback from humans into evals and environments which measure the gap between model performance and where they are today
+- post-training for the labs
+- post-training for the enterprise: betting that OAI/Anthro won't be able to get the domain knowledge experts (either through data vendors or through enterprise customers) to be able to train the models to perform at an expert level. thsi is essentially a bet that coordination across each layer is so difficult that fragmentation is inevitable
+	- Coorditaion costs include: 
+	- selling post-trainingn s

@@ -1,0 +1,4 @@
+ - Talked to Bofa PA, unlikely he'll get SPD
+ - Already has 2 internships
+ - 15 minutes
+ - Aidan technical, nolan for behavioural

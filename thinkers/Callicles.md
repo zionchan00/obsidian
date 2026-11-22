@@ -1,0 +1,18 @@
+ - Paragraphs to use.
+ - This is why at the end of his dialogue he councils that.
+ - Polus sees the same injustice but he does not call the rulers weak; rather, he confesses that he and many other men are envious of the tyrant. Callicles' reacts differently to the same political situation because he possesses a strong sense of morality, one which he masks and almost tries to deny in the face of the great injustices in front of him and his choice to become a rhetor himself. 
+ - What is missing from his analysis is how exactly the weak came to rule. It is never made explicit in the dialogue, but I believe it is rhetoric. This is why Socrates makes so many mentions of flattery in relation to politics and frames the key life decision as whether to choose philosophy or politics. Rhetoric and politics are allied agaisnt philosophy. Rhetoric changes all the time because the conventions adn beliefs will change. the fact that philosophy tries to dsicover  that which is true and hence unchanging according to Socrates means they will clash.
+ - Who should rule then? Callicles' decision to go into politics and his admiration for the old rhetors means he doesn't believe that rhetoric is inherently doomed to fail. He believes politicians can work. Socrates is too radical for Callicles when he implies that it is he that is truly a politician.
+ - 
+ - 
+ - Socrates repetaedly emphasizes that the role o fthe political man is to mak esure that the 'citizens be as good as possible' 515c. This doe snot mean to feed their desires wantonly and give themwhateever they want, but to only satisfy the ones that are good. 
+ - 
+ - 429d says that everyone shares an attraction to tyranny
+ - Confusion
+	
+	 - 
+	 - The only way to avoid injustice is to 510a 'What is the art for the preparation of suffer­ ing no injustice or as little as possible? Examine if it seems to you what it does to me. For to me, it seems to be the following: one must either rule in the city oneself-or even rule as tyrant-or else be a comrade of the existing regime. 511a the only way to purpsefully avoid injustice is to ally with it. 
+	 - What is the role of shame in the dialogue? We say Callicles is shameless, SOcrates says POlus and Gorgias feel shame at 508c
+	 - Callicles praises joining the regime to avoid suffering and having injustice done to us (510b). 
+	 - Socrates says that when the tyrant 'will kill, if he wishes, but it will be a base man killing a noble and good one' Callicles replies 'Isn't this exactly the infuriating thing?' (511b).
+	 - 'Yes, by Zeus, and I'm counseling you correctly' (511c.)

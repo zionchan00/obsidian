@@ -1,0 +1,2 @@
+- zoom in: ctrl and shift and + sign
+- zoom out: ctrl and minus sign

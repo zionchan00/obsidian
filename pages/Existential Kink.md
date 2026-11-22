@@ -1,0 +1,27 @@
+-
+- Deepest fear inventory
+	- I hate and resent having to do what my dad asks
+		- because i have a deep fear that he’s coercing me to do something that i don’t want
+		- because i have a deep fear that if i say yes, then i’m losing permanent control over my time, and i wont be able to get the things done that i want to
+		- Because i haev a deep fear that if i say yes, i’m prioritizing someone else over myself and betraying myself
+		- because i have a deep fear that if i say yes, and i don’t succeed, i’ll be punished for not doing whatever they asked of me explicitly well (i’d rather do things volutantily, of my owv acrod, becasue i spootde something was wrong)
+		- because i have a deep fear that it might break into my mental state in the future and interrput my “flow” in my mentality, and i want to have a tranquil state wehre everytihng in my head is my thoughts ad what i want to exist
+	- I absolutely refuse to have a temper tantrum
+		- because i have a deep fear that i would los econtorl of myself, and that would mean i would physically harm others by beating them or emotinoally harm others
+		- because i haev a edep fear that i would lose the respect of other people, because such a display appears to be the display of a child, and the normal thing for adults to do is to have calm rational discussions where the atmosphere is monotonic because aggression/anger
+	- i absolutely refuse to have motivation aronud money
+	- i absolutely refuse to use other human beings
+	- i absolutelly refuse to mislead other human beings
+	- i absoltely refuse to hurt other human beings physically
+	- I absolutely refuse to overthel m otehr ehuman beings and make them do things they dont’ want to or experience things they odn’t want to
+	- i absolutely refuse to not give other human beings chance
+	- i absolutel yrefuse t othink baout my fanniacil situation and th efact taht the world is getting really expensive
+		- becaus either would mean that i have *no choice* but to hin kabout money constantly given that i’m going to eventually run out as i’m not at a fuck you satte
+			- but really even ta a fuck you state, it’s possible to totally run uot. in fact my current work around it seems is to just basically ignore it and just run-rate everythnig randomyl and don’t budget at all and not think about it.
+			- the better solution is to likely box some time in that’s constant and use that as a way to gonsistently review it and gigure
+		- becaus eti would mean taht i have to get money that someone else is not getting (aka i think making a ton of money almost always involves zero-sum fucking other people over or scamming the rules of the system or breaking the law or dooing things toher peolpe aren’t willing to do) and i don’t want to seem like i’m an evil person
+			- but actualyl i am totally ok doing mini-lies or misledaing people somewhat in negotiations so this is not fully an accurate picture of myself
+		- becausei have a deep fear that i’m unwortyh of the money, because if i’m really rich then all of a sudden i feel like i’m being made t obe ‘special’ and what if i’m not really special, what if i get “exposed” by other people for cheating in order to get the money, what if i get “exposed” and my rep socially damaged by being permanently branded as evil
+		- because i haev a edep fear taht i might be unworthy of the money and there’s someone else out tehre who deserevs it omer than i do and who if they got teh money would be a better person with it by doing more good for the world, so i wouldn’t be bale to sleep at night
+		- becauese i have a deep fear that if i chase the bag and make it an expliicit goal to get rich in a psoitive way, it’ll completely dominate my thinknig nad i’ll eb obessed with the number going up and lose track of everythnig else, which did happen druing my first few month as an osg mentor
+		-

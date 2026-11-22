@@ -1,0 +1,4 @@
+- Wallet 1: Spent $808.92 CAD for the 0.20353901 ethereum in that wallet
+- Wallet 2: Spent $600 CAD for the 0.12733 ethereum in that wallet.
+	- Paid $53 in gas already
+- 0.00920789528642478 ETH for trnasaction fee

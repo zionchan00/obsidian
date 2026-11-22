@@ -1,0 +1,6 @@
+- What can I say,  “I am sure this is going to happen, I’m just not sure if we’ll be the ones to do it"
+- What can I say, "How big would it be if it worked?". Even if it's bad right now, think about the end-state
+- As soon as I encounter something, think to myself, what will this be in 5/10/20 years? How will this change with scale?
+- Don't make investments in effiency companies, because efficiency companies are capped in how much they can improve margin structure to capture more economic profit. Invest in value companies, where the economic profit is uncapped
+- The future where the most amount of people have access to a product is the most likely future
+- https://www.linkedin.com/posts/pari-passu-newsletter_investing-frameworks-must-bookmark-and-ugcPost-7322462140253069312-N2RQ?utm_source=share&utm_medium=member_ios&rcm=ACoAACQIUC4BSX_WOlXb4KPz73wwEy5Fn5ADpWc

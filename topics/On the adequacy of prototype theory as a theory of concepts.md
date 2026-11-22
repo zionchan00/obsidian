@@ -1,0 +1,17 @@
+- Two ways this paper wants to compare [[prototype theory]] to other theories
+	- conceptual combination - how relatively complex concepts are created from simpler ones
+		- the test is whether prototype theory can predict this relation through [[fuzzy set theory]]
+			- The caveat the paper has is that the relation will be restricted to the characteristic function of a complex concept C and the characteristic functions of C1 and c2 that makeup C.
+			- 3 areas showcase problems however
+				- Conjunctive concepts, e.g striped apple, which consists of the concepts apple and striped, whenever the object is more like the conjunction than its constituents, contradiction is created
+					- ![[Pasted image 20221206200553.png]]
+					  For a given striped apple X, if we put it in  c_striped apple(X), that should be greater than c_apple(X)
+					- But the characteristic function for c_striped apple is min(c_striped(X),c_apple(X))
+					- And that implies that c_apple(X) is less than OR EQUAL to c_strippedapple(X)
+				- logically empty and logically universal concepts. Logically universal concepts and logically empty characteristic functions should yield values of 1 and 0 respectively, but they don't
+				- disjunctive concepts. e.g wealth is related to liquidity and investment, but this isn't captured propertly
+	- truth conditions for thought - when is a thought that a declarative proposition puts forward true
+		- All females are dogs should lead to c_female(x)<=c_dog(x). But a female who's not a dog would be c_female(X)=1 and c_dog(X)=0
+- Work arounds
+	- Standard set theory doesn't fall for these contradictions because it's binary
+	- Distinguish between a concept's core (which defines its relation to other concepts) and its identification procedures (what info is needed to quickly decide whether an object falls under this concept). Prototype theory is good for latter, traditional concept theory for former

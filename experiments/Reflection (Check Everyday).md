@@ -1,0 +1,111 @@
+- Vision
+- Ideal schedules
+	- Mondays
+		- 7:30 - 8:00 setting up kitchen stuff, wash up, start journalling
+		- 8-9 work
+		- 1:00 - 1:30 lunch
+		- 1:30 - 5:30 work
+		- 5:30 - 6:00 dinner
+		- 6:00 - 7:00 call the bro
+		- 7:00 - 10:00 work
+	- Tuesday
+		- 7:30 - 8:00 setting up kitchen stuff, wash up, start journalling
+		- 8:00 - 12:30 work
+		- 12:30 - 1:00 lunch
+		- 4:20 - 5:00 shower/dinner
+		- 5:00 - 6:00 call the bro
+		- 6:00 - 10:00 work
+	- Thursday
+		- 7:30 - 8:00 setting up kitchen stuff, wash up, start journalling
+		- 8:00 - 12:30 work
+		- 12:30 - 1:00 lunch
+		- 5:30 - 6:00 dinner
+		- 6-6:10 shower
+		- 6:10 - 7:10 call bro
+		- 7:10 - 10:00 work
+	- Wednesday
+		- 7:30 - 8:00 setting up kitchen stuff, wash up, start journalling
+		- 8:00 - 12:30 work
+		- 12:30 - 1:00 lunch
+		- 3:00 - 3:40 shower/dinner
+		- 4:40 - 5:40 call the bro
+		- 5:40 - 10:00 work
+	- Friday/Saturday/Sunday
+		- 7:30 - 8:00 setting up kitchen stuff, wash up, start journalling
+		- 8-12:30 work
+		- 12:30 - 1:00 lunch
+		- 1:00 - 5:00 work
+		- 5:30 - 10:00 work
+	-
+		- Free time
+- Habit trackers
+- Succesful Changes that have been implemented
+	- No more alarm clock to wake up - messes up my sleep cycles and ruins my whole day
+- Vows
+	- I will wait until end of sem for Ninglu. I broke her trust, trust has to be rebuilt. March 13th vow
+	- Nofap
+	-
+	  Changes to implement 12/16
+	- Take people seriously first, then give critiques
+	- instead of asking did you check x, ask where did you check
+	- Write up a post on what motivates me
+		- not competition, not responsibility, but fun
+	- Become more ignorant of what others are up to
+	- I want to increase my empathy/time/energy I spend thinking about others than myself. To do so I'm going to spend time thinking about my history with people
+		- Ninglu - side note. hmm i probably have that conversation metadata downloaded on my PC. I should go look at it.
+			- When we first met was st. patricks day at uwaterloo. didn't talk at all. the second time we met we actually did talk was at foco walking back from the club. we were talking about one of her drawings I remember, maybe the one with two hands drawing one another
+			- When we first met was 2019 at FOCO. I remember she was wearing a bright red dress and I went up to her to talk about one of her drawings reminded me of g jones. we stayed talking over ig dms because we liked odesza, and moved onto facebook messenger.
+			- After that we started to talk everyday i think. eventually when she was drunk she confessed she liked me. i forget what i felt, probably pride? we ended up hanging out for the first time for peekaboo, which was when i picked her up from the go station in markham after working out with charlie at goodlife. we drove down to finch, and on the way there we were talking about our past relationships somehow. i forget how we managed to get so quickly to such a topic. after that we went to peekaboo, drove back home, and collapsed early in the morning
+			- We both woke up late in the afternoon. I think my little brother walked into her room to talk to her. maybe this was the time when we started to watch psychopass together. i remember she ended up eating and staying a second night before leaving to go to mcmaster
+			- a few weeks later we would go to see madeon together, all of us staying at seungmins place. we watched madeon, one of my favorite shows together, and after that we walked to some breakfast palce with david and talked for an hour or two. went back home seperately after
+			- and then she came to see brockhampton and took the gotrain up to see me for acid. i realized she hadn't ate yet so i scooped some dinner to feed her while she waited for her return train back. ii think the night after was troyboi and i convinced her to stay. we went to eat fried chicken at that palce at finch a level beneath the ground, where we talked more again. we went to see troyboi who played a mediocre show, took the train back to finch and talked the whole time, and then went back to my house. we stayed up til 3 talking, i remember talking about big tech monopolies with her and i think JBP/sam harris/IDW
+			- she ended up staying for another night, i remember we took my bro to drawing class and we sat at tim hortons and *tried* to do work. but we ended up talking the whole time
+			- i think that was the last time we hungout irl for awhile because she went back to winnipeg i think but we kept messaging, i remember calling her on the way back from downtown after my date with racheul because the weather was ass and i was calling her while packing that night for montreal, which was the day after. i completely forget what we talked about. we called for a long time too, for hours. i forget what we talked about
+			- then i headed to montreal. on the way there you were at adventure club, and it was then i asked you out for our very first date. you ended up losing your phone that night
+			- throughout my time in montreal you were really busy but you still made the tiem to try to message me everyday.  when we inverse the situation to our last summer together i was comparatively inadequate i feel. it was made harder bc you were free in your place so you felt the loneliness more. in montreal i was occupied with work, made some new friends even. but you still made the effort to try to message me whenever you could. i wish i was more communicative, that i pushed myself harder. but precisely because you were my partner i felt less guilty about not responding than to others, even though it should have been the other way around.
+			- we would call occasionally when i was in montreal, and we would talk for hours until the morning. but not too often if i remember. i came back for excision when you came back from greece, and then we went to la carnita together. i watched you devour a massive plate of food and you old me about your time in greece
+			- our conversations used to be so lively. reading our text messages
+	- I don't get distracted by my phone at all because I hid it away - succesfully defeated the habit! My old nemesis of popping open tabs and getting distracted stile xists, but i now limit the # of tabs I can have open as a workaround bahahah
+	- Talk about my feelings, not only ideas
+	- Stop getting mad at Jason
+	- I keep forgetting my schedule (especially during meal times)
+		- Setup automations to automatically start stopwatch timers for ALL schedule blocks Stopwatch for ALL schedule blocks
+		- Remember to start a stopwatch whenever I'm doing ANY task not on schedule to force myself ot pseed it up
+	- Remember to fill in morning goals
+	- When reading I need to challenge the author more
+- Daily list of Problems - last updated
+	- On 11/28/2021, I didn't get any work done on my Milton Essay basically. During my first work period in the morning, I didn't feel like I was making any progress at all. I did get distracted thoughm I thought about Julius Klein and my instinct was to search > found his twitter > found who followed him > read Ken's substack post on logsitics and that cut my flow.
+	- Forgot to keep track of time when cooking > set stopwatch when cooking on apple watch to ring every 10-20 minutes
+	- Depression
+		- Feeling of no direction still > remember to think about my goals and long-term vision more often
+			- Dates: 11/28/2021
+		- On friends. I was thinking about my friend situation this morning and how I felt no one listened to me, that I was misunderstood. I think its because no ones asked me how I've done in a long while, and that was probably why I felt so happy after Andrew asked me how I was why (despite it being a standard, automatic question). This combined with the feeling that my friends are relatively low quality compared to people out there curiosity and knowledge wise has made me feel disappointed in myself. But to be fair on them the blame is missplaced, it's ultimately all on me. Until I make better use of my time, until I am strong enough to say no and have found a purpose and meaning desirable enough that I can confidently reject their compansionship, this is on me. Their negative influence on me is pretty minimal anyways, it's just not a positive. But if I push myself harder I should be able to get through. But it sucked feeling the whole morning very low energy and drained, like I didn't want to do anything. I will try to walk around nature tomorrow instead of gymming and class.
+			- Dates: 12/1/2021
+	- I'm not a very active reader still - I need to test my understanding more often within a given block of reading to make sure I'm awake and listening carefully to the argument. If he says this, then this has to follow. If he says this, so what? Without doing this, I'm massively wasting my time
+	- I think I struggle with my desire for female companionship still. I think the good thing about my relationship with Catherine is that it's become one-sided venting from her to me now, increasingly unenjoyable. Hopefully overtime I'll stop liking her from that so I think as long as I don't ask to hangout, it'll die out
+	- Hearing Mateen talk about the excitement he had when telling Kat his feelings made me realize how sociopathic my romantic relationships were. I don't think I've felt excitement since my first one. HOw did it come to be this way, and why?
+- Weekly Summary of Problems > Put Daily Reoccuring Problems here - Do End of every week
+	- I have a very hard time ending conversation - as soon as I start conversation I just keep on going. I should be ending convo as soon as it derails into gossip, which is when we run out of things to talk about. The for now solution is to pretend I have to go because of time constraints OR I set an alarm
+	- I still don't read or write enough for most of my days - I'm actually not sure what I spend my time on. Compared to the summer, my rate of learning is way slower
+	- I still don't read or write enough for most of my days - I'm actually not sure what I spend my time on. Compared to the summer, my rate of learning is way slower
+	- At flashes throughout the day I could feel the directionlessness of my life. I don't have a concrete deadline (work for Lux capital your interview is on this date) to push me, I don't think I'm enjoying the processes right now either so everyday feels good, instead it's a mixed bag still
+	- Hearing Mateen talk about the excitement he had when telling Kat his feelings made me realize how sociopathic my romantic relationships were. I don't think I've felt excitement since my first one. HOw did it come to be this way, and why?
+- Lessons
+	- Remember the mistake HomeOptions made with Andrew Han. Be careful when name-dropping. You should keep in mind what the risks and rewards are at all times. You should be factoring in the possibility that your supposed connection with the name-dropped will be tested. Create an equation out of this.The perceived net benefit is the difference between your The returns come from how strong your connection with the subject of the name drop is. The risk is that your connectio
+	- From hearing Josh's story with his girlfriend, I ended up being his girlfriend and Ninglu was him. Alex was too busy in her new job and failed in her responsibilities to continue talking to Josh no matter how busy their lives were. Even if she had to sacrifice social time, any free time outside of work should have been spent building their relationship. I realize now that PRECISELY because you're long distance you have to spend even more time talking to your partner.
+- Monthly Summary of Problems - Do End of every month
+- Annual Summary of Problems - Do EoY
+- Relationships
+	- From Ninglu
+		- Communicate every emotion with your partner because they feel the impact anyways, making it better for you to explain why you feel the way you feel
+			- There were times where I felt emotionally unavailable and I couldn’t explain why with Ninglu. Times when I could find other people physically attractive and I couldn’t explain why
+				- I’m not sure if this is normal for relationships or your relationship should never feel this way
+			- In any case I should’ve told Ninglu how I felt so we could work towards the cause of it and to let her know how I was feeling so she wasn’t left wondering by herself what was wrong, because I think that’s what happened. I think I’m actually not that open - I can talk about certain events which are easy to talk about, but the hard to talk about feelings which I’m ashamed of are still difficult for me. I should remedy this by talking with my friends about the desires I felt
+		- The relationship with Ninglu was negatively impacted by the person that I was before. I think because I had broken faith in relationships before, desecrated that idea, the desire to do so is much larger and it’s more tempting to do so again
+			- I could try to solve this by raising my standards for relationships with others and never dropping them. Because I had valued purely physical relationships in the past, I still valued looks much more than I wanted to. I need to concentrate more on emotional attraction by never letting myself slip
+		- The relationship with Ninglu was negatively impacted by the person that I was during the relationship too. I was flawed in that I hadn’t created my own source of meaning and I wasn’t strict enough with my own time. As a result I was way too social with other people and looking for other people to give me meaning in my own life. Because I wasn’t strict enough with my own time, I let in low quality people who weren’t a good fit.
+			- I need to get better at being alone still, isolated by working away at my own project. I think Ninglu mastered this much better than I had so far, and her higher level of maturity probably made her feel more ‘alone’
+		- Never ask out anyone. I think asking someone out forces the relationship ahead of its natural progression. A potential future exists where her and I remained friends for a long time and only started dating when I was ready
+	- (2) Date nights are valuable for their novelty. Researchers are discovering that “couples who engage in novel activities that are fun, active or otherwise arousing – from hiking to dancing to travel to card games – enjoy higher levels of relationship quality,” the report notes. In this way, couples counteract a tendency to take each other for granted. Couples, it says, “may be particularly likely to benefit from a regular date night if they use it as an opportunity to do more than that old standby: dinner and a movie.” And couples are encouraged to choose activities that represent “a balance of each partner’s interests, rather than tending to do things (novel or not)” that reflect the same partner’s preferences each time.
+	- (3) The report says “date nights may strengthen or rekindle that romantic spark that can be helpful in sustaining the fires of love over the long haul.”
+	- (4) Date nights may strengthen a couple’s sense of commitment to one another. The report says, “Partners who put one another first, who steer clear of other romantic opportunities and who cultivate a strong sense of ‘we-ness’ or togetherness are markedly happier than are less-committed couples.”

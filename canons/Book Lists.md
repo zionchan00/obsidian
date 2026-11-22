@@ -1,0 +1,2 @@
+- http://wiki.c2.com/?AlanKaysReadingList
+- https://gist.github.com/nickloewen/10565777

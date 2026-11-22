@@ -1,0 +1,16 @@
+- into renewables/industrials, IB/PE
+- technical mentor: cole, finished curriculum
+- behavioural mentor: rk, but he became LM, but no behavioural mentor
+- double check your behavioural
+- resume mentor: 
+- D&C mock
+	- TMAY
+	- why buyside
+		- forces oyut o make decisions - ok why does this matter to you?
+		- lieks DD part, everyone has access to same material, but you have to have a deeper understandng or look for alt data -strcutre tih sone better
+		- have to rlly intimately know the space, have to apy attention to many companies, so you get a deep understanding
+	- why public equities
+		- 
+	- why d&c
+		- 
+	- risk i've undertaken

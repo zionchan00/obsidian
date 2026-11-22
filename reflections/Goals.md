@@ -1,0 +1,4 @@
+- End of School Year: Figure out if I want to study Stats or Pure Math in 2nd year
+- End of 2021: Finish Plato, Aristotle, Cicero, Bible
+- End of School Year: Finish medievals, renaissance, up until Nietsazche
+- Summer: Finish modern philosophy

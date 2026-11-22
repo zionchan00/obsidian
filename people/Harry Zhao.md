@@ -1,0 +1,4 @@
+-   wants to focus on IBD
+-   done technical classes (Jac Johnson), behavioural mentorships (Dickson), resume mentor (Dan, didn’t do a goood job last time) 
+-   20 minutes
+- yes 

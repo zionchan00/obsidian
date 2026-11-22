@@ -1,0 +1,9 @@
+- Faith and Knowledge
+- Philosophy of nature
+- Philosophy of the Mind
+- Many missing
+- The philosophy of history #political trans. J. Sibree
+- The Philosophy of Right #political trans. T.M. Knox
+- Hegel's Idealism: The Satisfactions of Self-Consciousness
+- Hegel's Phenomenology: The Sociality of Reason
+-

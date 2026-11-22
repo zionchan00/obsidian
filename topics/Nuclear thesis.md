@@ -1,0 +1,10 @@
+- Why are companies attracted to nuclear?
+	- Carbon-free. Given how large of a % of total energy-demand these models would make, the assumption is that these ༼つ◕_◕༽つ soruces have to be carbon-free in order to pass future regulations
+	- Density - nuclear doesn't take up as much physical space as a solar panel buildout (decreasing land acquisiton cost)
+	- Uranium is very abundant, unlike other energy sources
+	- Reactors can consistently run 24/7, so that you don't risk energy outage problems from a lack of sun for solar as an example
+		- But isn't there battery storage technology?
+- What is the ballpark range of energy we would need to build a GPT8 cluster? 
+- How much can we expect energy efficiency to improve for newer chip models?
+- What about advancements in new nuclear technology, like SMRs and Gen IV reactors?
+- How great are these busineses vs the other parts of the AI chain? Short-term momentum vs long-term earnings retention view 

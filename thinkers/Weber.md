@@ -1,0 +1,3 @@
+- Economy and Society #political
+- The Protestant Ethic #political
+- Politics as vocation #political

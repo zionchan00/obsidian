@@ -1,0 +1,50 @@
+- Categorization by sufficient # of features vs all of a concepts features, there will be some extensions that are missing a feature that others have
+- Contrast principle implementation from Tvirsky
+	- Common features between features of concept and features of exemplar/instance - unique features of one item - unique features of the other = score. if score above certain threshold, it is in 
+	- Accumulator model: compare features in both sets, when common add, when not subtract
+- Selective modification model was created to deal with compositionality
+	- 
+Pros
+- Concept acquisition. same as [[classical theory of concepts]], where concepts area acquired by their features, adn their features come from sensory properties. difference is [[classical theory of concepts]] says features HAVE to always co-occur for its definition, prototype looks for TEND, which means it more inferences than classical
+- Categorization is done by comparing instance/exemplar to category in terms of features/attributes > naturally leads to typicality
+	- typicality correlates with property list - more of the property list an exemplar has, the more typical
+	- typicality also ranks exemplars on their exemplariness
+	- if it's a feature comparison, then we can explain speed
+- Explain typicality naturally through the computational algoritihm of an accumulation score
+- Explains why more typical exemplars are computed faster (bc they reach the accumulation score threshold faster than less-typical/non-exemplars)
+- Also explains why less-typical exemplars are more likely to have errors (# of features assessed are going to be greater so larger chance of error)
+- Supports fuzziness: if below min threshold for category but above certain threshold, is indeterminate, neither in nor out
+- Pros from [[Principles of Categorization]]. It seems prototypes are very related to the variables which we psychologically believe to be relevant for categories
+	- arguments for basic-level show that most people are willing to trade-off on features (does this disprove classical tho?)
+	- Categories for prototypes are much faster identified
+	- kids can quicker identify prototypes. prototypes are learned faster too?
+	- with more prototypical members of a category, you can't say they're almost in the category, because they belong there. with less prototypical ones you can. e.g robin is almost a bird is a no, but penguin is technically a bird is a yes
+	- more prototypical members of a category are often thought of as examples
+	- more prototypical instances can be substituted for their subordinate categories in sentences better than less-prototypical exemplars. e.g '20 birds on my porch', sparrow replace bird yes, turkey not so much
+Cons
+- the arguent for prototype theory comes from gradedness which some have taken to interpret concepts as non-definitional and hence membership is not binary. BUT in cases where peopel DO agree membership is binary, then there shouldn't be grading. Yet this still happens. Prototype theory has to show examples where this is not the case [[What some concepts might not be]] pg. 273
+	- But we can deny that category membersihp is binary. even if it's well-defined and well-understood, that just means the gradient is less clear maybe?
+	- What if the gradedness is not based on the definition? I think the disparity in scores comes LESS from the concept and MORE form confusion/unfamilairty around the instances. E.g what even is an ellipse? most poeple have to do everal math steps before they can figure out whether 106 is even or 447 is odd
+		- Need to prove that this links with the claim that 'some even numbers are more evener than others' that's the steelman?
+- Another argument against prototype theory in [[What some concepts might not be]] is the speed test. The
+- compositionally - prototype of pet fish (goldfish) is different from prototypes for pet (dog, cat, which leads to features of hair, 4 legs, etc) and fish (salmon, tuna are much larger than goldfish, undomesticated, etc)
+	- If definitionsa re indeterminate and oyu combine two wards, what does the end result get from each one? foolish bird, which foolish and which bird elements are included [[What some concepts might not be]], pg 272. what makes a knife good is diff from what amkes a wife good (this also applies to [[classical theory of concepts]])
+- many concepts lack prototype structure (e.g belief, piece of paper i left on my desk last night, frog or lamp, u.s monarch) bc extensiosn are too different (frog ro lamp, not a wolf), abstract (belief), uninstantiated (us monarch)
+- you can also have a concept w/o a prototype. e.g you can know a don delillo book w/o knowing the details of the don delillo book that his fans do in terms of hsi writing style, by kmnowing his book sare stocked at x store and the title is x, even thoug h these are not part of the prototype structure according to the paper on [[prototype theory]].
+	- but they could be. why not?
+- problem of ignorance and error - correct concepts not fitting in (3-legged, tame, toothless, albino tiger not being identified as a tiger, toy tiger not a tiger, grandma who is young, etc), symptom w/o disease and disease w/o symptom.
+- Armstrong critique: for well-defined concepts, typicality effects shouldn't show and for categories which ppl explicitly agree are binary and not graded, typicality effects still show (8 is a better example of an even number than 34). She's trying to disprove that typicality = prototype theory
+	- Assumption is that this should be interpreted as 8 is more 'even' than 34. What if typicality effects aren't about 'degrees of membership?'. The features which make up the typicality judgement could be seen as evidence, but not defining, of the category. I.e we could have features for identification and features that make up the essence of the category
+	- This is the dual theory, where under time pressure prototype is for categorization and classical theory is for essence
+	- E.g gender. clothes, hair, voice is identifying, essence is organs, etc
+-
+ In [[On the adequacy of prototype theory as a theory of concepts]], the authors in section 1.1 formalized prototype theory for a following concept which has a mental representation (z)
+- (z)(A,d,p,c) where
+	- A represents the set of all objects that the person in question could imagine and believes belongs to z. this is the conceptual domain
+	- The distance metric: a function that maps the distance between different pairs in A.  the smaller the closer the pair is, the greater the farther
+	- P is a member of A that is designated the prototype, usually picked by having the average value on each dimension of the underlying metric space
+	- C is the characteristic function that rates members of A in such a way that on a scale of 0-1, greater means more strongly resembling the prototype P
+- ![[Pasted image 20221206120342.png]]
+- Flaws
+	- It's best for kinds (dogs, tree, animal), artifact notions (tool, clothing) and simple descriptive notions (triangular, red). But for intentional concepts like belief, desire, and justice, as well as meaning of prepositions, sentence connectives, and other ideas, bad
+	- Quadruples can have bizarre domains. It is possible, for example, to use a single metric space to represerit objects as diverse as dogs, chairs and toothpaste (thereby satisfying conditiot (1 .l), to define a prototype in this space, and to then map distances from this prototype into values of a characteristic function so that small distances go with larger characteristic values (thereby satisfying condition (1.2)). This state of affairs reveals an important incompleteness in the theory. We need to know more about the entities A, d, p, and c than is revealed by conditions (1.1) and (1.2), so that we can limit the theoretically possible concepts to those that are psychologically natural. Again it is an open question whether such an extension of the theory can be made, and again we shall say no more abet? t the issue here.

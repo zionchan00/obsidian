@@ -1,0 +1,3 @@
+- . We have decided to consider pleasure and ‗pain‘ in relation to the quantity of excitation present in the psychic life—and not confined in any way—along such lines that ‗pain‘ corresponds with an increase and pleasure with a decrease in this quantity.
+- Freud is interested in when we break away from the pleasure principle
+	- First case

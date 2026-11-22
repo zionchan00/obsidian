@@ -1,0 +1,54 @@
+- Why TQL?
+	- "Ontology and our FTE's" Chevron call
+	- "We don't have better DB Like people then like Firebolt to like ClickHouse or like pullers or anything like that. Like our thing is like very much the ability to execute that across databases when we don't own the compute and we don't own the storage and we don't own like the cloud itself. Which is, as you can imagine, like very rough to benchmark since every customer that we end up working with has a different permutation of like, you know, Snowflake, Databricks, and which one has the bigger dataset and which one wants to load data from like stuff."
+	- 
+- Customers: Cigna, Elevance, Lumeris, Blackstone
+- You have to bulid your own sandbox that makes out at 32gigs gfrom claude or codex, then mayeb you try to back it with DuckDB and clickhouse, but then when you theres n x n permutation of RBAC mapping. now watch your DB/Snowflake/Anthropic costs shoot up the roof as biz people ask 'how do i do my job'. so then you give it memory, which is TQL's ontology (7-20x less token per request, depends on whether you stay in the same data). Core of their product is the cdoing sandbox and the ontology.
+- I don't know, is this something you've seen 20 times before? I never have a gauge. I basically disappeared into a cage for some number of years to build RBAC on-prem version. version-controlled file system that can be virtualized into a distributed compute data-intensive sandbox
+- Smoe cmopnaies think ontology = OLAP cubes = semantic layer = metrics x dimension analysis (dBT, looker , thoughtpsot, snowgalke OSI). some call data catalogs = ontology (collibra, glue, alation, data mircks untiy caatlog). some copmanies acll graph databases = RDF triplets = ontologies (neo4j, palantir, tigergraph)
+	- TQl version is mardkown fiels and OLAP cubes, which insetad of lookML which is YAML + SQL, we use TQL which is literally markdown and SQL with miniual # of configuraitons to just leave commwents on the files on SQL (smth smth don' t ge mad about the DSL)
+	- Dashboards, airflaw DAGs ETL pipelines, every singel data pipeline/data tool should be in 1 massive folder whcih is owend by customers wher efolders are nested into one another
+	- We picked this because text and SQL should be. 29:00-30:00 is so key in this video.
+- Ontology is markdown based, fully RBAC'd and version controlled, and you can store it all on github. you can RBAC by data connector or role or other stuff. 
+- The permissioninng and updating of the ontology seem sto be big 
+![[Pasted image 20260825190609.png]]
+Customer problems:
+- Okay. So essentially, like, what we're working on is just like a data drift solution. Okay. So It's probably a data problem. Everybody has it as corporations get bigger and connect to more data sources. It's not necessarily like a math problem. It's not necessarily like a master data management thing or a data quality thing. It's how do we get these systems to talk to each other and understand changes. It doesn't have to be instantaneous changes, but maybe over time in one day, what's the evidence lineage look like? And to be more specific, like, let's say we use SAP for like work orders and material master management and asset management and all these different things. And then we have AutoCAD that we use for like engineering systems. We've got project management software that we use to, like, kinda, like, track projects. So What this pilot really wants to prove is for this particular piece of equipment, trace, where it's connected to all the different parts of the enterprise. And I'm gonna say like maybe like 6 different systems of record. So like SAP, maybe like DocuSign, Documentum that has like a bunch of documents and procedures, like our PI kind of like process tag information, which is like separate from engineering. It'll be like maybe like a Salesforce type of management of change thing that we use. And then maybe like if we use like any permits, like we have to have electronic permits whenever we do any jobs. Anytime they're referenced or anytime an operator has like an end of shift kind of like discussion and there's some like documentation on the work that was being done and the safety aspects that are like type of thing. So like We do a very good job at using these systems.
+- Ethan: have to always roll internally before doing anything customer facing. Client then proceeded to say, use it to replace Domo. 
+Competitors
+- Genesis computing: ex-salesforce, stalled out at $1m
+- wisdom: stalled out at $5m-$6m, fired half their sales team
+- databricks has obliteared the desire to spend on pure software for most CIO's. first contract is usually like 30m-40m for the next 3 years. once that's signed, the entire org is shifting towrads making sure this goes well. broadly CIO's want to concentrate their spend 
+	-  It's much easier to standout to a PLTR or accenture or the OAI deployco's. From what I've heard from a16z, no one has penetrated elemnets or signa, and that's without domain expertise. if you mesaure pMF on differentiated results divided by right to win. 
+	- If I zoom out the PLTR is their team. Past 4 years has given us the right to win. 
+	- EVery year signa/elements gets $50M-$60M of contracts up for bid, by offering better results or better pricing by offering better result until you own more and more of their spend. their ceiling on internal/external IT spedn is $3.5B. 
+	- PLTR is bought by CEO's, it's them fucknig their IT org who usually prefers best inclass build in house. PLTR has only been hot for a ver yshort time, only in the past 3 years. PLTR at the time had only 4 major commerical contracts (boeing, swiss re, airbus, because the CEO's were friends with Karp) each was $100M each. nobody wanted to work with PLTR until 3 years, it's only when the CEO over rules the CIO that they got brought in. 
+	- The story we told to lowers > got us to higher people > then we told them lack of lockin story and that got us insane momo > but then DB/snowflake product releases recently means that we can't crank this story 50x > both of these companise were early adopters. 
+	- elements is 6-7 teams, a thousand each. we got it.
+	- PLTR will find someone that wants to buy something, then sell it, thne find someone that wants to buy someithng that matters bc you're in the office. so the custmore doesn't think about them as X vendor, 
+	- You can tell a story about a benchmark, but you can't actually sohw them, because almost all of these products have extremely painful cold start dynamics. so the only way to test is live.
+- We have to make sure we don't fuck up elemets or signa and get them up to $20M-30M. How do we scale without diluting a bunch of retards? 
+Bets of the company
+- ROI on small transaction analysis. fraud on any high volume transaction. elements has 14k analysts that have to decide what claims are real or not, and have to worry about claim mitigation. you can underwrite to geography/age/the deeper you can underwrite better the lower teh artes
+- Against a single store of data: Database migrations only happen for net new workloads, not 
+- The best economics
+	- An ontology design which is cheaper and faster for every run + more performant vs traditional semantic layers (bottle-necked by data eng's having to remodeling the semantic layer to make sure it accurately answers users questions). I think the bet is that it's quite difficult to actually build this ontology automatically because of how data intensive it is, and hence Cube/Looker/any semantic layer tool would have to build TQL's sandcastles primitive first in order to be able to get the 'depth' of the first run + I think they're betting that there are verticals or use cases where the data being modeled changes far faster 
+		- But I don't understand techniclal yrgiht nnow how this actually differs from a semnatic layer and hence is a superior map of reality, better at self-updating
+			- They.claim that for every cost reduction you see multiples of increases in the # of queries. How are seniors monitoring this in practice right now in TQL such that lower level employees are conscious of this? I guess the TQL bet is to drop the $/query such that no one limits the # of queries and asks the ROI questions. 
+				- If I'm an org though, is there a chance that it's 'worth it' to up my budget vs down? E.g right now what is that line where I still earn positive ROI on my query? It seems like some queries are purely for historical-planning or tracking and maintainingn efficiencies, but would any of them ever help bluesky initiatives that dramatically up growth? If not, what's the ned state of the CIO's budget that they expect to own
+	- ![[Pasted image 20260823173659.png]]
+	- Aligning their biz model with hyperscalers. They claim that a typical team spending $2k a mnoth on Snowflake would pay $250 + usage on TQL. Here's the things taht can be charged fro and what they choose to do so:
+		- Compute: TQL charges for this, Snowflake/DB do too
+		- Storage: No, enterprises continue paying whcihever daatbase or warehouse provider they use for storage (e.g Snowflake, Postgres, BigQuery, etc)
+		- Database
+		- LLM's: TQL charges for this
+	- Their products represent the massive shift towards enterprises making use of their growing mountains of data. Traditionally, companies used an on-prem data warehouse to store the data and run after-the-fact analysis with BI dashboards.. The rise of the cloud along with tools like Databricks and Snowflake have made it possible for this growing pool of data to help companies identify insights, improve products, and make smarter decisions in near real-time.
+Recruiting needs
+- Ethan wants 3 ex-palantir NYC people. Because I want to know what I'm missing. 3 FTSE's. Ethan already met many that he wants to hire. Even a mid person is still good. I want insight into unknown unknowns. 
+	- Ethan thinks it's a comp thing. He's going to build out the NYC office for Poetic. Josh reached out to Text from a crazy good reference from a random guy at PLTR, and I take his opinions extremely seriously. 
+	- Variance in humans at PLTR NYC is so high that 6 months is enough for them to clock enough of it.
+	- Used to post looking for this type of person
+	- 20 people that he's talked to at palantir historically. 
+	- 
+- They need 20. Elements and Signa will pay for as much as we can offer in this department. 
+- Neo startup portal. Everynoe in that ecosystem to know our name.  

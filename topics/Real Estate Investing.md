@@ -1,0 +1,30 @@
+- Buying a condo downtown in Toronto likely does not make sense from an investment perspective
+	- There are lots of international students renting, yes, but I doubt many of them are looking to buy and stay long-term. When people want to actually buy and own, they move to the suburbs where quality schools and peace of mind exists. Where is the biggest delta? Likely immigrants with lots of money, bc there's no 'cheap' entry price like there was back in 2002, back when condos in DT were 200-250k and deattached homes in waterfront were 500k, back when homes in rhill were 200-250k and condos were 150k
+	- Let's compare 20 year returns from 2002 > 2022
+		- Waterfront DT
+- What sets the price for my house?
+	- Demand 
+		- School area is cared for a lot by asian families, so i should look at NYC/SF where asian immigration has existed for a lot longer and look at persistence in HS and elementary school rankings
+		- income of people in the area
+		- population
+		- employment
+	- Supply of condo's upcoming in the future
+		- vacancies right now, new housign starts and residential cosntruction permits
+- What costs to keep in mind?
+	- https://www.reddit.com/r/PersonalFinanceCanada/comments/fkome6/status_certificate_explained/ > request a status certication asap
+	- Get the status ceriticate to see HOA fee inflation
+	- HOA fee inflation YoY
+	- Check the reserves of the board through 'reserve study'/lender questionnaire, if low that means any new upgrades will be split among everyone. See if they raised rates overtime, actually tried to renovate it, or else eventually they'll have to and i'll get slammed with 100k+ in special assessments
+	- NEVER WAIVE TITLE INSURANCE AT CLOSING. It’s another ridiculous $500-$1000 at most but it can be a lifesaver later on. Usually realtors don’t recommend title insurance for condo buyers as condos don’t have issues with survey or potential land disputes but you could have an undisclosed special assessment worth thousands waiting for you after closing. Title insurance will cover that expense provided it was passed and you weren’t aware of it.
+	- Do not buy in buildings higher than 6 floors. With the surfside condo collapse there are new laws passing requiring structural integrity studies and foundation repairs that could generate enormous special assessments for large (and tall) condo buildings with multiple patios.
+	- "red flags" in the financials and builder history. They had a special assessment two years earlier to cover similar water intrusion issues, just on the other side of the building. The year after my experience, another part of the building had water intrusion and HOA did another special assessment of approximately $20k per unit to cover a building wide repair. The builder was also sued by another condo building he built ten years earlier for shoddy construction. Ironically, the builder sold all his units that he was using as rental units the same year I purchased (mine was the last one he sold).
+- Ones I read and liked
+	- https://escholarship.org/content/qt58c6v2kx/qt58c6v2kx.pdf
+- To read
+- Garber 1990 paper
+- Case, K.E and Shiller, R.J 1990,1998,1996
+- Long Swings in Urban Development
+- Green R.K demographiv factotss and RE prices
+- Hyclat T and G Johnes, HOuse pRices, Migration, and Reigonal Labor Markets
+- Mankiw and Weil, baby boom baby busy and housing market
+- Schwab, R.M, inflationary expectaions an dthe demand foro housing
