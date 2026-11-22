@@ -207,7 +207,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2026-11-16.md",
+                "file": "journals/2026-11-22.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -222,35 +222,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-11-16"
-            }
-          },
-          {
-            "id": "8b57feb2cd6c6237",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "journals/2026-11-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-11-21"
+              "title": "2026-11-22"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -284,7 +260,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "commanding heigh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -326,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2026-11-21.md",
+                "file": "journals/2026-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -396,6 +372,18 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "3dddd29e6aa58581",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "journals/2026-11-21.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       }
@@ -405,6 +393,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -417,17 +406,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b57feb2cd6c6237",
+  "active": "9aaa77a7ed398f36",
   "lastOpenFiles": [
-    "journals/2026-11-19.md",
+    "journals/2026-11-13.md",
+    "journals/2026-11-15.md",
+    "journals/2026-11-22.md",
+    "journals/2026-11-16.md",
+    "202611221526.md",
     "journals/2026-11-21.md",
+    "journals/2026-11-19.md",
     "The Commanding Heights.md",
     "Pasted image 20261117030841.png",
     "Pasted image 20261117030657.png",
-    "journals/2026-11-15.md",
-    "journals/2026-11-16.md",
     "Robotics.md",
-    "journals/2026-11-13.md",
     "journals/2026-11-10.md",
     "Untitled 2.md",
     "reading/The Golden Age.md",
@@ -445,8 +436,6 @@
     "reflections/Personal Journal.md",
     "journals/2026-08-24.md",
     "journals/2026-10-19.md",
-    "journals/2026-10-18.md",
-    "journals/2026_09_24.md",
     "Untitled.base",
     "logseq/config.edn",
     "Pasted image 20260825190609.png",
