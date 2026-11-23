@@ -224,9 +224,33 @@
               "icon": "lucide-file",
               "title": "2026-11-22"
             }
+          },
+          {
+            "id": "b058911c7ae521e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "journals/2026-11-16.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-11-16"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -260,7 +284,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "JL",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -302,7 +326,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2026-11-22.md",
+                "file": "journals/2026-11-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -406,12 +430,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9aaa77a7ed398f36",
+  "active": "b058911c7ae521e0",
   "lastOpenFiles": [
+    "JL.md",
+    "journals/2026-11-16.md",
+    "journals/2026-11-23.md",
+    "journals/2026-11-22.md",
     "journals/2026-11-13.md",
     "journals/2026-11-15.md",
-    "journals/2026-11-22.md",
-    "journals/2026-11-16.md",
     "202611221526.md",
     "journals/2026-11-21.md",
     "journals/2026-11-19.md",
@@ -434,8 +460,6 @@
     "journals/2026-10-27.md",
     "journals/2026-10-25.md",
     "reflections/Personal Journal.md",
-    "journals/2026-08-24.md",
-    "journals/2026-10-19.md",
     "Untitled.base",
     "logseq/config.edn",
     "Pasted image 20260825190609.png",
