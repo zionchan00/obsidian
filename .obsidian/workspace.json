@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2026-11-24.md",
+                "file": "journals/2026-11-25.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-11-24"
+              "title": "2026-11-25"
             }
           }
         ],
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2026-11-24.md",
+                "file": "journals/2026-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,9 +238,10 @@
   },
   "active": "f1011d188784a988",
   "lastOpenFiles": [
+    "journals/2026-11-24.md",
+    "journals/2026-11-25.md",
     "journals/2026-11-16.md",
     "reflections/Personal Journal.md",
-    "journals/2026-11-24.md",
     "journals/2026-11-23.md",
     "journals/2021_11_23.md",
     "journals/Pasted image 20261123125618.png",
@@ -266,7 +267,6 @@
     "reading/The Golden Age.md",
     "topics/AI.md",
     "Untitled 1.md",
-    "Recruiting.md",
     "Untitled.base",
     "logseq/config.edn",
     "Pasted image 20260825190609.png",
