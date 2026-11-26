@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "journals/2026-11-25.md",
+                "file": "journals/2026-11-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-11-25"
+              "title": "2026-11-26"
+            }
+          },
+          {
+            "id": "8591efb5967ad906",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fable Analysis Of My Journal.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fable Analysis Of My Journal"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journals/2026-11-25.md",
+                "file": "Fable Analysis Of My Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,10 +260,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1011d188784a988",
+  "active": "8591efb5967ad906",
   "lastOpenFiles": [
-    "journals/2026-11-24.md",
+    "Fable Analysis Of My Journal.md",
+    "journals/2026-11-26.md",
+    "Claude outputs/zion-psychoanalysis-handoff.md",
+    "Claude outputs",
     "journals/2026-11-25.md",
+    "journals/2026-11-24.md",
     "journals/2026-11-16.md",
     "reflections/Personal Journal.md",
     "journals/2026-11-23.md",
@@ -264,9 +292,6 @@
     "Robotics.md",
     "journals/2026-11-10.md",
     "Untitled 2.md",
-    "reading/The Golden Age.md",
-    "topics/AI.md",
-    "Untitled 1.md",
     "Untitled.base",
     "logseq/config.edn",
     "Pasted image 20260825190609.png",
@@ -283,7 +308,6 @@
     "practical",
     "projects",
     "ideas",
-    "experiments",
     "Untitled.canvas"
   ]
 }
